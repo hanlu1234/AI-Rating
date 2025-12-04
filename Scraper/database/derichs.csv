@@ -1,0 +1,837 @@
+﻿id,gmt_modified,gmt_create,supplier_id,host,url,title,product_main_image,product_image_list,price,min_price,max_price,price_type,currency,pricing_unit,moq,cate_info_ai,keyword_ai,task_id,description,status,reason,main_image_object_key,image_list_object_key,final_state,page_record_id
+6391,2025-12-03 04:44:27,2025-12-03 04:44:19,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/produkte/foerdern/,"Pneumatische Förderung 
+",https://derichs.de/wp-content/uploads/2016/08/foerdern-free.png,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Foerdern-Pneumatische-Foerderung-FPW-2-300x200.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Foerdern-Pneumatische-Foerderung-FPS_500-1-300x200.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Foerdern-Pneumatische-Foerderung-FPS_350-1_quer-300x200.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Foerdern-Pneumatische-Foerderung-FPD-1-300x200.jpg""]",,,,sku_price,,,1,"[{""catId"":606329,""catPath"":""Conveyor technology => Conveyor Systems"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=606329""}]","{""keywords"":{""2"":""Anlagenteile"",""3"":""Fördermenge"",""1"":""Pneumatische Förderung""},""keywords_english"":{""2"":""Plant components"",""3"":""Conveying quantity"",""1"":""Pneumatic conveying""}}",317,"Räumliche Trennung einzelner Anlagenteile und begrenzte Raumhöhen sind für uns kein Problem. 
+ Ob pneumatisch oder mechanisch – wir fördern Ihr Produkt in der gewünschten Menge an die richtige Stelle Ihrer Anlage. 
+",COMPLETE,,,,1,304747
+6392,2025-12-03 04:44:29,2025-12-03 04:44:22,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/leistungen/automatisierung/,"Smart automation for reliable installations 
+",https://derichs.de/wp-content/uploads/2016/09/Schuettungsysteme-Leistungen-Inbetriebnahme-2-300x225.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/Schuettungsysteme-Leistungen-Inbetriebnahme-3-300x199.jpg""]",,,,sku_price,,,1,"[{""catId"":613047,""catPath"":""Robotics, process and automation technology => Automation Technology => Control Systems => Process Control Engineering"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=613047""}]","{""keywords"":{""2"":""prozesssteuerungssystem"",""3"":""anlageninbetriebnahme"",""1"":""automatisierung""},""keywords_english"":{""2"":""process control system"",""3"":""plant commissioning"",""1"":""automation""}}",317,"Smart automation for reliable installations 
+ If you need a customised process control system for your plant, the DERICHS engineering team will develop a solution. Our technicians hold the strings in one hand from the development of the flow sheet to the running plant. All experts are working together under one roof. Short ways of information save your time and money. 
+ The design engineer and the electrical engineers convert the process into the software of the plant. The human machine interface and the operation of the plant in case of emergencies will be tested with modern simulation programs. It is possible to test the plant by running it, before it has been built 
+ Already at this stage, we can document and control the processes in the plant and thus optimize the production process before it has even begun. This shortens the times of commissioning and guarantees you a simple operation of the plant with constant product quality. 
+ Commissioning 
+ The commissioning of our plants is carried out by experienced fitters, mechatronics, electrical engineers and/or engineers. Until the handover of a plant to the customer a number of tasks to be done: 
+ 
+ Acceptance verification of field cabling 
+ Testing of inputs/outputs 
+ Matching the analogue values 
+ Test drive of the drives with checking the direction of rotation 
+ Test drive without product 
+ Start production step by step 
+ Test operation 
+ Instruction operating staff 
+ 
+",COMPLETE,,,,1,304779
+6393,2025-12-03 04:44:30,2025-12-03 04:44:23,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/produkte/dosieren/austragen/,"Vibration Bottom DAV 
+",https://derichs.de/wp-content/uploads/2016/09/Komponenten-Dosieren-Austragen-Vibrationsboden-4-1024x683.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Dosieren-Austragen-Vibrationsboden-3-683x1024.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Dosieren-Austragen-Vibrationsboden-2-683x1024.jpg""]",,,,sku_price,,,1,"[{""catId"":606340,""catPath"":""Conveyor technology => Conveyors => Vibratory Conveyors"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=606340""}]","{""keywords"":{""2"":""Schwingboden"",""3"":""Schüttgut"",""1"":""Entladevorrichtung""},""keywords_english"":{""2"":""vibration bottom"",""3"":""bulk goods"",""1"":""discharge device""}}",317,"Safe and Steady Discharge of Bulk Goods from Silos and Containers 
+ The Vibration Bottom DAV is used if non-free flowing products are to be discharged from silos or containers, or if product separation is to be prevented during discharge. 
+ The vibration bottom takes the product from a silo or container over a large cross-section and carries it through a much smaller cross-section. The size of the vibration bottom depends on the silo geometry and the product properties. Of course, we are will advise you on the right size of the vibrating floor. 
+ The Vibration Bottom DAV is installed directly on the outlet of a silo or tank. For this purpose, the outlet cone must be equipped with suspension claws and a compensator connection ring. 
+ A silo can be designed directly for the Vibration Bottom DAV, but in many cases a retrofitted installation is also possible. 
+ The Vibration Bottom DAV is equipped with a continuously variable vibration motor, which puts the entire unit in a horizontal torsional vibration. The vibration bottom is delivered completely pre-assembled with vibration elements, vibration motor and inlet compensator. 
+",COMPLETE,,,,1,304759
+6394,2025-12-03 04:44:39,2025-12-03 04:44:32,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/loesungen/chemie/,"Chemie 
+",https://derichs.de/wp-content/uploads/2016/08/Schuettungsysteme-Banchen-Chemie-3-300x225.jpg,,,,,sku_price,,,1,"[{""catId"":613596,""catPath"":""Raw materials and chemistry => Fillers"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=613596""}]","{""keywords"":{""3"":""Materialzuführsysteme"",""1"":""Produktionsanlagen"",""2"":""Explosionsschutz""},""keywords_english"":{""3"":""Material feeding systems"",""1"":""Production facilities"",""2"":""Explosion protection""}}",317,"Egal ob Füllstoffe, Farbpigmente, Additive, Toner – wir wissen, wie wir Ihr Produkt handhaben müssen. Umfangreiche Erfahrung in der Gestaltung von Produktionsanlagen mit kritischen Produkten wie zum Beispiel Kreide, Titandioxid oder Harz lässt uns für jede Herausforderung eine Lösung finden. 
+ Begriffe wie Atex und konstruktiver Explosionsschutz sind für uns genau so selbstverständlich wie HAZOP (PAAG). 
+ Erfahrung ist unsere Stärke: 
+ 
+ vollautomatische Materialzuführsysteme für Schüttgüter und Flüssigkeiten 
+ produktoptimierte Siloanlagen 
+ kontinuierliche und Batch-Mischsysteme 
+ Dosiersysteme für den kontinuierlichen oder Batch-Betrieb 
+ Befüll- und Enleersysteme für Säcke, Big-Bags und Silofahrzeuge 
+ Prozess-IT mit Prozessvisualisierung, Rezepturverwaltung und Chargenrückverfolgung 
+ 
+",COMPLETE,,,,1,304749
+6395,2025-12-03 04:44:49,2025-12-03 04:44:41,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/leistungen/technikum/,"Technikum 
+",https://derichs.de/wp-content/uploads/2018/09/DER_Technikum_3374_301_low.jpg,"[""https://derichs.de/wp-content/uploads/2018/09/DERICHS_Technikum_3373_4290_low-2400x1709.jpg""]",,,,sku_price,,,1,"[{""catId"":616650,""catPath"":""Measurement, testing and analysis services => Chemical Analysis => Material Analyses"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=616650""}]","{""keywords"":{""3"":""Dosieren"",""1"":""Schüttgutsysteme"",""2"":""pneumatische Förderung""},""keywords_english"":{""3"":""Dosing"",""1"":""Bulk material systems"",""2"":""Pneumatic conveying""}}",317,"Die sichere Auslegung und Gestaltung von Schüttgutsystemen ist unsere zentrale Aufgabe und Kompetenz. Dazu ist es notwendig, die physikalischen und schüttguttechnischen Eigenschaften der zu verarbeitenden Rohstoffe zu kennen. Jedes Produkt hat seine speziellen, stark vom Herstellungsprozess beeinflussten Eigenschaften. Unter dieser Voraussetzung zeigt sich, dass bei der Verarbeitung von Schüttgütern nicht nur die Erfahrung im Umgang mit den entsprechenden Produkten zählt. Vor allem müssen bei der Erarbeitung des Anlagenkonzepts das Fließverhalten, eine potenzielle Verklumpung des Produktes bei der Lagerung, eine Fluidisierung während der Förderung oder auch die Produktzerstörung bei langen Förderwegen bei der Erarbeitung eines Anlagenkonzeptes berücksichtigt werden. Versuche unter realistischen Bedingungen sind durch nichts zu ersetzen. 
+ Sowohl das Unternehmen, als auch unsere Kunden, erhalten so die Ergebnisse, die für sicherere Produktionsprozesse und kalkulierbare Umsetzung neuer Verfahren notwendig sind. 
+ Versuchen, Vorführen, Verifizieren 
+ Auf über 600 qm mit drei Etagen stehen in unserem Technikum dazu Versuchsgeräte, Messstrecken und Maschinen zur Verfügung, die für die klassischen Aufgabenstellungen der Schüttgutindustrie erforderlich sind. Neben der Funktionalität vermitteln diese einen Eindruck von der Qualität, die seit Jahren ein Markenzeichen von Derichs ist. Rohstoffe können in beliebigen Gebinden über diverse Aufgabemöglichkeiten den einzelnen Systemen zugeführt und wieder abgefüllt werden. Darüber hinaus können labortechnisch grundlegende, physikalische Kennwerte ermittelt werden und in einer Datenbank strukturiert hinterlegt werden. So werden Zusammenhänge transparent als Grundlage für weitere Maßnahmen. 
+ Folgende Versuche sind möglich: 
+ 
+ pneumatische Förderungen bis zu 200 m (Druckförderung, Saugförderung, Dense Phase Förderung) 
+ gravimetrisches und volumetrisches Dosieren 
+ batchweises- und kontinuierliches Mischen 
+ Ermittlung des Austragsverhalten von Big-Bags und Säcken 
+ Sieben mit einer Wirbelstromsiebmaschine 
+ Produktzerkleinerung mit Sieb- und Klumpenbrecher 
+ individuelle Versuchsaufbauten nach Absprache
+Bei dieser Erprobung im industriellen Maßstab sehen Sie schon vorher, wie Ihre Anlage nachher funktionieren wird. 
+ 
+",COMPLETE,,,,1,304729
+6396,2025-12-03 04:44:51,2025-12-03 04:44:44,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/aktuelles/,"Rührwerkdosierer 
+",https://derichs.de/wp-content/uploads/2019/11/DER_DMK_3531_038_03.jpg,,,,,sku_price,,,1,"[{""catId"":600659,""catPath"":""Packaging machinery => Dosing Systems"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=600659""}]","{""keywords"":{""2"":""Pulverlacke Mischanlage"",""3"":""Big-Bag Befüllstationen"",""1"":""Dosiertechnik""},""keywords_english"":{""2"":""Powder coating mixing system"",""3"":""Big-Bag filling stations"",""1"":""Dosing technology""}}",317,"Neuentwicklung im Bereich Dosiertechnik. 
+ Eigene Publikation: 11/19 
+ How to Cope with Lactose Powder 
+ Präzise Zuführung von Zutaten 
+ Mischanlage für Pulverlacke 
+ Carbon fördern und dosieren 
+ Big-Bag Befüllstationen für verschiedene Anforderungen 
+ Silo-, Förder-, Dosier- und Homogenisiertechnik nach Maß 
+ Schüttgutanlagen aus einer Hand 
+ Standardisierung vs. Individualisierung 
+ Beispielhafte Schüttgutverarbeitung 
+ Modularisierung im Anlagenbau 
+ Big-Bag kontra Sack 
+ Big-Bags verdrängen Säcke 
+ Einsatz von Big-Bags erhöht die Wirtschaftlichkeit 
+ Einsatz von Big-Bags erhöht die Wirtschaftlichkeit 
+ Big-Bag Entleersysteme 
+",COMPLETE,,,,1,304771
+6397,2025-12-03 04:44:53,2025-12-03 04:44:46,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/produkte/foerdern/pneumatische-foerderung?k=saugfoerdergeraet-fps-350,"Feeder Diverter FPW 
+",https://derichs.de/wp-content/uploads/2016/09/Komponenten-Foerdern-Pneumatische-Foerderung-FPW-2-300x200.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Foerdern-Pneumatische-Foerderung-FPW-1-582x1024.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Foerdern-Pneumatische-Foerderung-FPW-2-1024x683.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Foerdern-Pneumatische-Foerderung-FPW-3-1024x683.jpg""]",,,,sku_price,,,1,"[{""catId"":606328,""catPath"":""Conveyor technology => Conveying Technology (Other)"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=606328""}]","{""keywords"":{""2"":""pneumatische Förderlinien"",""3"":""Gehäuse aus Aluminiumguss"",""1"":""Produktverteilschalter""},""keywords_english"":{""2"":""pneumatic conveying lines"",""3"":""cast aluminum housing"",""1"":""feeder diverter""}}",317,"The Feeder Diverter FPW is used to distribute and collect product flows in pneumatic conveying lines. The compact construction enables an easy installation in the pneumatic conveying lines. 
+ An optimal seal and an unobstructed conveying cross-section guarantee a problem-free use with powders and granules. The Feeder Diverter FPW consists of a housing with two side covers and an integrated drive, in which a plug with two passages directs the product stream. The housing and the plug are made of cast aluminum, but with inserts made of stainless steel (1.4541) for the product-contacting surfaces. A special sealing ring inserted into the housing serves as a seal between the housing and the rotating chuck. The outlets of the switch are pressure-resistant and gas-tight to 4 bar overpressure and pressure-resistant up to 10 bar. The drive integrated in one side cover can be installed both on the right and left. 
+ By loosening the screws of the side cover, removing the cover and pulling out the plug, the conveyor can be disassembled quickly for cleaning purposes. However, the unit is not CIP-capable. 
+ The feeder diverter is equipped with a pulse solenoid valve with two coils and two inductive proximity switches for the position feedback. The unit is completely wired up to the terminal box. The control voltage is 24V / DC and the required control pressure is 4 to 8 bar. The maximum permissible product temperature is 120 ° C. 
+",COMPLETE,,,,1,305016
+6398,2025-12-03 04:44:58,2025-12-03 04:44:52,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/produkte/foerdern/mechanische-foerderung/?k=trogschneckenfoerderer-fms-t,"Overhead Conveyor System FHM 1500 
+",https://derichs.de/wp-content/uploads/2016/09/komponenten-foerdern-mechanisch-FHM-haengebahnfoerderer_3-small.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/komponenten-foerdern-mechanisch-FHM-haengebahnfoerderer_4-small-e1523613510882.jpg"",""https://derichs.de/wp-content/uploads/2016/09/komponenten-foerdern-mechanisch-FHM-haengebahnfoerderer_2-small.jpg"",""https://derichs.de/wp-content/uploads/2016/09/komponenten-foerdern-mechanisch-FHM-haengebahnfoerderer-small.jpg""]",,,,sku_price,,,1,"[{""catId"":606494,""catPath"":""Conveyor technology => Transport Systems => Transport Systems (Other)"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=606494""}]","{""keywords"":{""2"":""Automatic Transport System"",""3"":""Big-Bag Handling"",""1"":""Overhead Conveyor""},""keywords_english"":{""2"":""Automatic Transport System"",""3"":""Big-Bag Handling"",""1"":""Overhead Conveyor""}}",317,"Overhead Conveyor System FHM 1500 
+ Automatic Transport System for Big-Bags up to a Weight of 1500 kg 
+ In order to meet the requirement of being able to transport big bags even without pallets, a system was developed which make the transport as far as possible automatically. 
+ For this purpose a technology from automotive production is used as an example. A cover-bound transport system has been combined with a big-bag pick-up and lifting device with automatic bag hooks. 
+ Functional principle: 
+ The individual vehicles operate largely autonomously after entering a driving target. Straight lines, curves, points and gate or slips can be realized. Several vehicles can be operated on the same roof rail. At the target, the big-bag is then set down fully automated (for example on a pallet). A weighing cell was integrated to check the lifting processes. 
+ Since, the goal was an application especially in the food industry the entire vehicle was designed from stainless steel in hygienic design. The lifting device fulfills all safety regulations and is supplied by a well-known automotive supplier. Only in the case of the permissible lifting device stainless steel be could be used only partly. 
+ The vehicles can be used both for the loading of big-bag emptying systems and for the transport to a big-bag filling station. 
+ This technique is also well suited for the retrofit installation of hygienic sluices in big-bag filling or emptying systems, especially when the optimal solution (our Big-Bag-Revolver) is not to be accommodated spatially. 
+ A direct transport to a central winder is also conceivable. 
+",COMPLETE,,,,1,305111
+6399,2025-12-03 04:45:00,2025-12-03 04:44:54,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/loesungen/nahrung/,"Schüttungssysteme für Nahrung 
+",https://derichs.de/wp-content/uploads/2016/08/Schuettungsysteme-Banchen-Nahrung-2-300x199.jpg,"[""https://derichs.de/wp-content/uploads/2016/08/ref1-rezeptgesteuerte_container-mischanlage.jpg"",""https://derichs.de/wp-content/uploads/2016/08/ref2-siloanlage-fuer-milchpulver.jpg"",""https://derichs.de/wp-content/uploads/2016/08/ref5-siloanlage-fuer-milch-und-molkepulver.jpg"",""https://derichs.de/wp-content/uploads/2016/08/ref6-produktionsanlage-fuer-paniermehl.jpg""]",,,,sku_price,,,1,"[{""catId"":600199,""catPath"":""Food technology => Food Plants"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=600199""}]","{""keywords"":{""3"":""hygieneoptimierte Probenahmesysteme"",""1"":""Schüttgutanlagen Milchwirtschaft"",""2"":""vollautomatische Materialzuführsysteme""},""keywords_english"":{""3"":""hygiene-optimized sampling systems"",""1"":""bulk material systems dairy industry"",""2"":""fully automatic material feeding systems""}}",317,"Egal ob Zucker, Stärke, Mehl, Milch- oder Laktosepulver – wir wissen, wie wir Ihr Produkt handhaben müssen. Umfangreiche Erfahrung in der Gestaltung von Lebensmittelanlagen lässt uns für jede Herausforderung eine Lösung finden. 
+ Begriffe wie Atex und EHEDG sind für uns genau so selbstverständlich wie die Lebensmittel-Konformität nach EG-Richtlinie 1935/2004. 
+ Neben unserer Leidenschaft für die allgemeine Nahrungsmittelindustrie, haben wir uns zum Marktführer für Schüttgutanlagen in der Milchwirtschaft entwickelt. 
+ Erfahrung ist unsere Stärke: 
+ 
+ vollautomatische Materialzuführsysteme für Schüttgüter und Flüssigkeiten 
+ produktoptimierte Siloanlagen 
+ hygieneoptimierte Probenahmesysteme 
+ kontinuierliche und Batch-Mischsysteme 
+ Dosiersysteme für den kontinuierlichen oder Batch-Betrieb 
+ Befüll- und Enleersysteme für Säcke, Big-Bags und Silofahrzeuge 
+ Prozess-IT mit Prozessvisualisierung, Rezepturverwaltung und Chargenrückverfolgung 
+ 
+",COMPLETE,,,,1,304725
+6400,2025-12-03 04:45:05,2025-12-03 04:44:58,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/produkte/dosieren/,"Dosing Components 
+",https://derichs.de/wp-content/uploads/2016/08/dosieren-free-en.png,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Dosieren-Austragen-Vibrationsboden-4-300x200.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Dosieren-Dosiergeraete-DDA-3-300x200.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Dosieren-Klappen_Verteiler-DKA-1-300x200.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Dosieren-Probenehmer-DPS-1-300x200.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Dosieren-Probenehmer-DPH-1-300x200.jpg"",""https://derichs.de/wp-content/uploads/2016/09/komponenten-dosieren-probennehmer-DPE-01-small-250x166.jpg"",""https://derichs.de/wp-content/uploads/2016/09/komponenten-dosieren-schleusen-DSZ-01-small-250x166.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Dosieren-Schleusen-DSR-3-300x200.jpg""]",,,,sku_price,,,1,"[{""catId"":611855,""catPath"":""Measuring and Testing Technology => Dosing Devices and Systems"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=611855""}]","{""keywords"":{""3"":""Chargensystem"",""1"":""Dosierkomponenten"",""2"":""gewichtsexakt Dosierung""},""keywords_english"":{""3"":""batch system"",""1"":""dosing components"",""2"":""exact weighting dosing""}}",317,"Exact weighting and dosing is a major step in the production of your product. 
+ Benefit from our many years of experience with continuous- and batch systems. 
+ Discharging 
+",COMPLETE,,,,1,304794
+6401,2025-12-03 04:45:12,2025-12-03 04:45:05,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/produkte/dosieren/probenehmer?k=probenehmer-dps,"Sampler DPS 
+",https://derichs.de/wp-content/uploads/2016/09/Komponenten-Dosieren-Probenehmer-DPS-1-300x200.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Dosieren-Probenehmer-DPS-1-1024x683.jpg""]",,,,sku_price,,,1,"[{""catId"":609169,""catPath"":""Laboratory technology and supplies => Laboratory Equipment => Dispersers"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=609169""}]","{""keywords"":{""3"":""Powder Sampling Device"",""1"":""Sampler DPS"",""2"":""Down Pipe Sampler""},""keywords_english"":{""3"":""Powder Sampling Device"",""1"":""Sampler DPS"",""2"":""Down Pipe Sampler""}}",317,"Sampler DPS 
+ 
+ 
+ Simple Sampling in Down Pipes 
+ 
+ 
+ Sampler DPS is used to extract powder and granulate samples from down pipes and funnels through which the product falls or slides. 
+ 
+ 
+ Particularly suitable for simple applications without any special hygienic requirements. Nevertheless, for cleaning purposes it is easy to disassemble and can be completely wet-cleaned. 
+ 
+ 
+ The sampler consists of a piston which is operated by a linear cylinder. For sample taking, the piston is extended until it is in the product stream. After the piston is filled, it is returned and the sample is emptied in a sample container. The sampler is equipped either with a solenoid valve (24V / DC) operated by the system controller or optionally with a manual pneumatic valve. 
+ 
+ 
+ To install the sampler, an ISO clamp socket with a size of 2 1/2” is welded in the down pipe or funnel. The clamp socket is included in scope of delivery. 
+ 
+ 
+ On-site operation is both possible as pneumatic control and as electronic control with adjustable sampling intervals. 
+ 
+ 
+ When the sampler is integrated into a process control system, fully automatic sampling is possible. In this case, an additional sample can also be taken by hand at any time. Documentation of the sampling is possible via corresponding messages in the control system. 
+ 
+ 
+ Advantages 
+ 
+ Affordable 
+ Fast to clean 
+ Easy installation 
+ Compact unit 
+ 
+ Options 
+ 
+ Connection for sample containers 
+ Customized sample container 
+ Pneumatic on-site operation 
+ On-site control 
+ Step7/WinCC Module “Sampling” 
+ 
+",COMPLETE,,,,1,305037
+6402,2025-12-03 04:45:15,2025-12-03 04:45:08,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/produkte/mahlen/brecher/,"Klumpenbrecher ZBK 
+",https://derichs.de/wp-content/uploads/2016/09/Komponenten-Mahlen-Brecher-ZBK-3-300x200.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Mahlen-Brecher-ZBK-3-1024x683.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Mahlen-Brecher-ZBK-2-1024x683.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Mahlen-Brecher-ZBK-1-1024x683.jpg""]",,,,sku_price,,,1,"[{""catId"":601950,""catPath"":""Machining and forming => Crushing"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=601950""}]","{""keywords"":{""2"":""Zerkleinerung"",""3"":""Produktverklumpungen"",""1"":""Klumpenbrecher""},""keywords_english"":{""2"":""Size Reduction"",""3"":""Product Agglomerates"",""1"":""Lump Breaker""}}",317,"Zerkleinern von Produktverklumpungen 
+ Der Klumpenbrecher ZBK eignet sich besonders zur Grobzerkleinerung von Produktverklumpungen. Es können Klumpen mit Kantenlängen von bis zu 150 mm zerkleinert werden, wobei das zerkleinerte Produkt auf eine Korngröße von max. 10 -15 mm zerbrochen wird. 
+ Um weiche Klumpen oder Agglomerate weiter zu zerkleinern, empfiehlt sich der Einsatz unseres Siebbrechers oder unserer Wirbelstrom-Siebmaschine, die dem Klumpenbrecher nachgeschaltet werden können. 
+ Einige Einsatzbeispiele für den Klumpenbrecher sind:
+[LIST] - Die Zerkleinerung von Verklumpungen am Staubaustrag einer Filteranlage - Vorzerkleinerung von gefrorenen Kräutermischungen - Das Auflösen von Agglomeraten nach einer Sack- oder Big-Bag-Entleerstation - Die Zerkleinerung von gepressten Waschmitteltabs, die dem Produktionsprozess wieder zugeführt werden sollen - Das Auflösen verklebter Harzgranulate vor der Weiterverarbeitung [END LIST]
+Das Brecherwerkzeug ist auf einer umlaufenden Antriebswelle angeordnet und kämmt durch zwei feststehende Schlagleisten in den Gehäusetüren, an denen sich das Produkt bricht. 
+ Zu Wartungs- bzw. Reinigungszwecken können diese Türen herausgeschraubt werden. 
+ Durch die weitgehend totraumfreie Konstruktion mit zweifacher Abdichtung – optional in Edelstahl – wird der Einsatz des Gerätes auch im Lebensmittelbereich ermöglicht. 
+ Die Materialzuführung sollte unbedingt den Eigenschaften des jeweiligen Produktes angepasst werden! 
+ [LIST] - Vorteile - Optionen - Datenblatt [END LIST] 
+ Vorteile 
+ [LIST] - Robuste Bauweise - Geringe Einbauhöhe - Leicht zu reinigen [END LIST] 
+ Optionen 
+ [LIST] - Material / Hygieneausführung - Wellenabdichtung mit Luftspülung - Zerkleinerungswerkzeuge aus gehärtetem Stahl - Getriebemotor für Frequenzwandlerbetrieb [END LIST] 
+",COMPLETE,,,,1,304744
+6403,2025-12-03 04:45:26,2025-12-03 04:45:18,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/leistungen/montage-service/,"Service & Montage Dienstleistung 
+",https://derichs.de/wp-content/uploads/2016/09/Service-Mitarbeiter.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Lagern-Silos-LSB-5-2560x1709.jpg""]",,,,sku_price,,,1,"[{""catId"":616747,""catPath"":""Installation => Assembly Services for Small Components for Industry"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=616747""}]","{""keywords"":{""2"":""Service"",""3"":""Anlagenbau"",""1"":""Montage""},""keywords_english"":{""2"":""Service"",""3"":""Plant Engineering"",""1"":""Installation""}}",317,"Dienstleitungen rund um Montage & Service 
+ Montage 
+ Die Montage unserer Anlagen führen wir mit unseren eigenen Fachmonteuren durch. Wir verfügen über gut ausgebildete und ausgerüstete Mitarbeiter. Hierdurch garantieren wir eine schnelle und hochwertige Realisierung des Projektes. Gerne bieten wir Ihnen die Montage auch als eigenständige Dienstleistung an. 
+ Die Produktion muss weiterlaufen und trotzdem soll die Anlage umgebaut oder erweitert werden? Eigentlich ein Widerspruch, aber für uns tägliche Praxis. Wir suchen eine vertrauensvolle und konstruktive Zusammenarbeit mit unseren Kunden – dann gelangen auch schwierige Aktionen. Da wir das gesamte Spektrum des Anlagenbaus mit eigenen Mitarbeitern abdecken, können wir Ihnen schnell, flexibel und auf vielen Gebieten ohne Hilfe von Dritten helfen. Sollte z. B. ein Ersatzteil dringend benötigt werden, so können wir es vielfach selbst herstellen. 
+ Unser Bereich Automatisierung kann auch bei Erweiterungen im Umfeld der Automatisierung weiterhelfen, wenn eine betagte Steuerung durch eine moderne ersetzt werden muss oder eine Produktionsanlage weiter automatisiert und modernisiert werden soll. Wir erarbeiten mit Ihnen ein Konzept und realisieren die Erweiterung oder Modernisierung Ihrer Produktion. 
+ Service 
+ Wir bleiben auch nach der Inbetriebnahme Ihr Partner. Wir warten Ihre Anlagen fachgerecht, so dass Störungen kaum eine Chance haben – und läuft es doch einmal nicht so wie es soll, sind unsere Spezialisten schnell vor Ort, um die Störung zu lokalisieren und zu beheben. Mit einer Fernwartung können wir schnell, vom Büro aus, auf Ihre Anlage zugreifen. Damit können kleinere Probleme preiswert gelöst und selbst Programmerweiterungen können ohne lange Reisen eingespielt werden. 
+ Besser als reparieren ist eine solide präventive Wartung. Auch während der Garantiezeit muss eine Anlage vernünftig gewartet werden. Um den langen und zuverlässigen Betrieb Ihrer Produktion sicherzustellen, erstellen wir mit Ihnen einen Wartungsplan und sorgen für eine professionelle Pflege Ihrer Investition. Auf Wunsch stehen unsere Servicetechniker auch bereit, um Ihr eigenes Personal auszubilden und in der Bedienung und Wartung der Anlage zu unterrichten. 
+ Unsere Servicetechniker und Monteure stehen Ihnen bei Bedarf jederzeit zur Verfügung. Wir helfen Ihnen wenn einmal etwas defekt ist oder schnell geändert werden muss. Mit Hilfe unserer eigenen Fertigung und Werkstatt, können wir viele Reparaturen selbst durchführen. Ein gut sortiertes Ersatzteil- und Rohstofflager garantiert Ihnen schnelle Hilfe. Wenn ein passendes Ersatzteil nicht gleich vorrätig ist, wird es kurzfristig besorgt oder wir fertigen es selbst. Unsere Lieferanten arbeiten fast alle lange und zuverlässig mit uns zusammen. Dabei legen wir bei der Auswahl unserer Lieferanten besonderen Wert auf Qualität und Zuverlässigkeit. 
+",COMPLETE,,,,1,304715
+6404,2025-12-03 04:45:34,2025-12-03 04:45:28,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/produkte/dosieren/dosiergeraete/,"Dosiergerät DDA 
+",https://derichs.de/wp-content/uploads/2016/09/Komponenten-Dosieren-Dosiergeraete-DDA-1-1024x683.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Dosieren-Dosiergeraete-DDA-3-1024x683.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Dosieren-Dosiergeraete-DDA-5-1024x683.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Dosieren-Dosiergeraete-DDA-4-1024x683.jpg""]",,,,sku_price,,,1,"[{""catId"":611738,""catPath"":""Measuring and Testing Technology => Measuring Instruments => Scales => Dosing Scales"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=611738""}]","{""keywords"":{""3"":""SIWAREX U FTA FTC"",""1"":""Dosiergerät DDA"",""2"":""Volumendosierung von Schüttgütern""},""keywords_english"":{""3"":""SIWAREX U FTA FTC"",""1"":""Dosing device DDA"",""2"":""Volumetric dosing of bulk solids""}}",317,"Volumetric Dosing of Bulk Solids SPS Integrated Differential Metering Scale 
+ Graduated in reasonable sizes and equipable with different screw types, several types of the dosing unit DDA are offered. The series has a modular design and can be adapted to the individual task – even at a later date – if, for example, it is necessary to react to special product properties. 
+ Depending on the application, the dosing units are equipped with load cells to operate as batch or continuous dosing units. With the weighing electronics SIWAREX-U, -FTA and -FTC from Siemens, programmed by DERICHS, you get a functional dosing device, which is modularly assembled from standard components. 
+ Since we integrate these weighing modules directly into the plant control system (S7-300 or -400), there is no need for cumbersome bus coupling. All data are immediately available in real time. 
+ The dosing units are manufactured at DERICHS in Germany, certified according to DIN EN ISO 9001:2008. With further components like material feeding systems and mixers a complete mixing plant can be created. Further development and extensions are possible at any time! 
+ The homogenizing chamber with loosening agitator avoids bridging and ensures a constant filling level of the dosing screw. The metering screw arranged below the agitator enables almost residue-free discharge. 
+ A unique feature is the pull-out device, which allows the metering screw and the agitator to be pulled completely out of the unit. This allows quick and easy cleaning in the shortest possible time without first having to laboriously dismantle various parts. 
+ The screw and the agitator are driven by two separate three-phase geared motors. Thus, the speed can be optimally adjusted independently of each other and a reasonable centering of the bearing is made possible. 
+ Released bearings with sealing air ensure safe and clean operation – even under ATEX conditions. 
+",COMPLETE,,,,1,304782
+6405,2025-12-03 04:45:35,2025-12-03 04:45:28,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/produkte/mischen/kontimischer/,"Kontimischer Mescher 
+",https://derichs.de/wp-content/uploads/2016/09/Komponenten-Mischen-Kontimischer-MKP-3-1024x682.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Mischen-Kontimischer-MKP-2-1024x682.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Mischen-Kontimischer-MKP-1-1024x683.jpg""]",,,,sku_price,,,1,"[{""catId"":600046,""catPath"":""Construction machinery and equipment => Construction Machinery & Construction Equipment => Continuous Mixers"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=600046""}]","{""keywords"":{""3"":""Differentialdosiergeräte"",""1"":""Kontimischer MKP"",""2"":""kontinuierliche Vermischung""},""keywords_english"":{""3"":""differential dosing devices"",""1"":""Continuous Mixer MKP"",""2"":""continuous mixing""}}",317,"Die Kontimischer der Baureihe MKP sind geeignet für die kontinuierliche Vermischung mehrerer rieselfähiger Schüttgüter sowie für die Zumischung geringer Flüssigkeitsmengen. Die Zudosierung der Komponenten übernehmen in der Regel Differentialdosiergeräte. 
+ Erhältlich ist der Mischer in verschiedenen Größen, Ausführungen, Materialen sowie in Lebensmittelausführung mit beidseitig und durchgängig verschweißten Paddeln. 
+ Die Verweilzeit ist regelbar durch Wehrverstellung und Materialzufuhr. Die Mischqualität kann zusätzlich durch Ändern der Drehzahl (Frequenzumrichter) beeinflusst werden. Optional kann der Kontimischer MKP mit einer Flüssigkeitszugabe ausgerüstet werden. 
+ Durch eine große Inspektionstür auf der Oberseite ist eine leichte Reinigung gewährleistet. 
+ Die Mischleistung der abgebildeten Maschine beträgt bis zu 4000 Liter pro Stunde. 
+ Ein Technikumsgerät steht für Mischversuche bereit. Kommen Sie mit Ihren Rohstoffen zu uns, um einen Mischversuch durchzuführen. 
+ Das hier abgebildete Gerät ist mit allen notwendigen Sicherheitsschaltern ausgerüstet und ermöglicht somit eine einfache und sichere Reinigung. 
+ Die Lager der Mischwelle sind freigesetzt und werden mit Sperrluft beaufschlagt.Somit ist eine Verunreinigung des Produktes ausgeschlossen. Ein Dichtungsschaden führt nicht zu einer Zerstörung der Lagerung und wird sofort sichtbar. Eine Anpassung des Gerätes an Ihre speziellen Anforderungen ist möglich. 
+",COMPLETE,,,,1,304726
+6406,2025-12-03 04:45:42,2025-12-03 04:45:35,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/produkte/foerdern/pneumatische-foerderung?k=saugfoerdergeraet-fps-350,"Förderweiche FPW 
+",https://derichs.de/wp-content/uploads/2016/09/Komponenten-Foerdern-Pneumatische-Foerderung-FPW-2-300x200.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Foerdern-Pneumatische-Foerderung-FPW-1-582x1024.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Foerdern-Pneumatische-Foerderung-FPW-2-1024x683.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Foerdern-Pneumatische-Foerderung-FPW-3-1024x683.jpg""]",,,,sku_price,,,1,"[{""catId"":602303,""catPath"":""Valve technology => Pipe Separators"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=602303""}]","{""keywords"":{""3"":""Aluminiumguss Drehküken"",""1"":""Förderweiche FPW"",""2"":""pneumatische Fördersysteme""},""keywords_english"":{""3"":""aluminum cast rotary plug"",""1"":""diverter valve FPW"",""2"":""pneumatic conveying systems""}}",317,"Die Förderweiche FPW wird eingesetzt, um Produktströme in pneumatischen Fördersystemen zu verteilen oder zu sammeln. Die kompakte Bauform ermöglicht einen einfachen Einbau in der pneumatischen Förderleitung. 
+ Eine optimale Dichtung und ein uneingeschränkter Förderquerschnitt garantieren einen problemlosen Einsatz bei Pulvern und Granulaten. Die Förderweiche FPW besteht aus einem Gehäuse mit zwei Seitendeckeln und integriertem Antrieb, in dem ein Drehküken mit zwei Durchgängen den Produktstrom lenkt. Das Gehäuse und Drehküken sind aus Aluminiumguss, jedoch mit Einsätzen aus Edelstahlrohr (1.4541) für die produktberührenden Flächen gefertigt. Als Dichtung zwischen Gehäuse und Drehküken dienen im Gehäuse eingelegte Spezialdichtringe. Die Abgänge der Weiche sind druckfest und gasdicht bis 4 bar Überdruck und druckstoßfest bis 10 bar. Der in einem Seitendeckel integrierte Antrieb kann sowohl rechts als auch links angebaut werden. 
+ Indem die Schrauben des Seitendeckels gelöst werden, der Deckel entfernt und das Drehküken herausgezogen wird, kann die Förderweiche zu Reinigungszwecken schnell demontiert werden. Die Einheit ist jedoch nicht CIP-fähig. 
+ Die Förderweiche ist ausgerüstet mit einem Impuls-Magnetventil, mit zwei Spulen und zwei induktiven Näherungsschaltern für die Stellungsrückmeldung. Die Einheit ist komplett verdrahtet bis zum Klemmkasten. Die Steuerspannung beträgt 24V/DC und der erforderliche Steuerdruck 4 bis 8 bar. Die maximal zulässige Produkttemperatur beträgt 120°C. 
+",COMPLETE,,,,1,304929
+6407,2025-12-03 04:45:43,2025-12-03 04:45:36,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/produkte/trennen/filter/?k=patronenfilter-tfp,"Compact Filters for Dust Collectors 
+",https://derichs.de/wp-content/uploads/2016/08/Komponenten-Trennen-Filter-TFZ-2-quer-300x200.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Trennen-Filter-TFZ-2-682x1024.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Trennen-Filter-TFZ-3-1024x683.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Trennen-Filter-TFZ-1-1024x683.jpg""]",,,,sku_price,,,1,"[{""catId"":606253,""catPath"":""Filter and sieve technology => Filters => Particle Filters => Dust Filters"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=606253""}]","{""keywords"":{""2"":""pneumatically cleaned pocket filter"",""3"":""bulk material dedusting system"",""1"":""Central Filter TFZ""},""keywords_english"":{""2"":""pneumatically cleaned pocket filter"",""3"":""bulk material dedusting system"",""1"":""Central Filter TFZ""}}",317,"The Central Filter TFZ is used for the dedusting of bulk material systems, such as filling and emptying systems for bags, big bags and trucks or silo vehicles. The integrated, pneumatically cleaned pocket filter allows the use of the central filter even with hygroscopic and baking powders or granules. 
+ The Central Filter TFZ is available with filters from 6 m² to 20 m² for air volumes of up to 40 m³ / min. The separated filter dust is collected in a dust collecting container, which must be emptied periodically. Optionally the central filter can be delivered instead of dust collector with discharge sluice and filling system for bags or big bags. 
+ In order to generate the necessary vacuum in the filter housing, a fan can be installed on the side. A wide range of fans with different performances is available. However, if the clean air is not blown out through a connected pipeline system, but back into the work area, we recommend using a directly installed silencer to reduce the sound level. 
+ The control voltage for the filter cleaning valves is 24V / DC. These valves can either be controlled directly by the system control or by an optional filter control unit. Compressed air with a pressure of 5 to 7 bar is required for filter cleaning. 
+",COMPLETE,,,,1,305116
+6408,2025-12-03 04:45:44,2025-12-03 04:45:38,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/produkte/mahlen/,"Lump- and Screen Breakers 
+",https://derichs.de/wp-content/uploads/2016/08/mahlen-free-en.png,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Mahlen-Brecher-ZBK-3-300x200.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Mahlen-Brecher-ZBS-3-300x200.jpg""]",,,,sku_price,,,1,"[{""catId"":601950,""catPath"":""Machining and forming => Crushing"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=601950""}]","{""keywords"":{""2"":""Screen Breaker"",""3"":""Material Flow"",""1"":""Lump Breaker""},""keywords_english"":{""2"":""Screen Breaker"",""3"":""Material Flow"",""1"":""Lump Breaker""}}",317,"Bring your product into the right shape and size. 
+ Lump- and screen breakers prevent product jams and ensure optimal material flows in your production. 
+ Breaker 
+",COMPLETE,,,,1,304773
+6409,2025-12-03 04:45:50,2025-12-03 04:45:43,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/unternehmen/historie/,"N/A 
+",https://derichs.de/wp-content/uploads/2016/09/Unternehmen-Historie-2-1200-300x118.png,,,,,sku_price,,,1,"[{""catId"":600341,""catPath"":""Machinery for agriculture, forestry, fishing, horticulture => Mills => Mills"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=600341""}]","{""keywords"":{""2"":""Schüttguttechnologie"",""3"":""Peter-Josef-Derichs"",""1"":""Mühlenhersteller""},""keywords_english"":{""2"":""Bulk Technology"",""3"":""Peter-Josef-Derichs"",""1"":""Mill Manufacturer""}}",317,"Innovative since 1818 
+ In the year 1818 the company DERICHS was founded as a manufacturer of mills. In that time the main work was done in the manufacturing of machines for milling of crops in the local or distant situated wind- and watermills. Even now there exist some chronicles in old books, like in the town-hall of Tongeren in Belgium. For example as an old mill had to be repaired in those days the manager and owner, Mr. Peter-Josef-Derichs, travel with some fitters to Tongeren. – Not – as you may think by train or horse and carriage! In fact they travelled the long way by feet and with a simply handcart! As you see, at that time no way was too far for the people, which couldn’t be covered by “shank’s mare”. Certainly today, in the fast-moving time of technique, it is easier to go by car, train or plane. 
+ At that time as well as today – specific wishes of our customers are the most important base of our work. Long ago we passed the traditional manufacturing of mills and our company found the field of activity in several branches of the bulk technology, because wind- and watermills are only outmoded items in museums. Creativity, long experience and modern technology today are the strong fundament for our modern company. 
+",COMPLETE,,,,1,304768
+6410,2025-12-03 04:46:11,2025-12-03 04:46:03,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/produkte/dosieren/schleusen/,"Dosage Valve DSZ 
+",https://derichs.de/wp-content/uploads/2016/09/komponenten-dosieren-schleusen-DSZ-02-small.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/komponenten-dosieren-schleusen-DSZ-03-small.jpg"",""https://derichs.de/wp-content/uploads/2016/09/komponenten-dosieren-schleusen-DSZ-01-small.jpg""]",,,,sku_price,,,1,"[{""catId"":600659,""catPath"":""Packaging machinery => Dosing Systems"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=600659""}]","{""keywords"":{""2"":""dosed transfer bulk goods"",""3"":""big-bag filling"",""1"":""Dosage Valve DSZ""},""keywords_english"":{""2"":""dosed transfer bulk goods"",""3"":""big-bag filling"",""1"":""Dosage Valve DSZ""}}",317,"The Dosage Valve DSZ is particularly suitable for dosed transfer of bulk goods. For example, it can be used as a metering element for a big-bag filling or as a feeding element in a screening machine or a vacuum conveyor. 
+ Due to the gap dimensions and production tolerances, it is not intended as a substitute for a classic discharge or rotary valve, but as a cost-effective alternative for simple tasks. 
+ Application examples for the dosage valve are: 
+ 
+ Metering element over a big-bag filling 
+ Flow brake for products after a longer down pipe 
+ Metered discharge from a silo 
+ Metered filling of product into a pneumatic conveyor 
+ Metered product feeding onto a screen or metal detector 
+ 
+ Optionally, the Dosage Valve DSZ can be equipped with a pull-out device. This allows removing the valve windows quickly and easily from the housing for inspection and cleaning purposes. 
+ A pivoting device provides optimum accessibility. 
+ Due to the free of dead space construction with double sealing, also optionally in stainless steel, the use of the device is also possible in the food industry. 
+",COMPLETE,,,,1,304766
+6411,2025-12-03 04:46:17,2025-12-03 04:46:10,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/produkte/mahlen/brecher/siebbrecher-zbs/,"Siebbrecher ZBS 
+",https://derichs.de/wp-content/uploads/2016/09/komponenten-mahlen-brecher-ZBS-Siebbrecher_01-small.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/komponenten-mahlen-brecher-ZBS-DSC_1373-small.jpg"",""https://derichs.de/wp-content/uploads/2016/09/komponenten-mahlen-brecher-ZBS-DSC_1372-small.jpg"",""https://derichs.de/wp-content/uploads/2016/09/komponenten-mahlen-brecher-ZBS-DSC_1367-small.jpg"",""https://derichs.de/wp-content/uploads/2016/09/komponenten-mahlen-brecher-ZBS-Siebbrecher_02-small.jpg""]",,,,sku_price,,,1,"[{""catId"":606283,""catPath"":""Filter and sieve technology => Sieves => Industrial Sieves"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=606283""}]","{""keywords"":{""3"":""Körnung"",""1"":""Siebbrecher"",""2"":""Zerkleinerungsmaschine""},""keywords_english"":{""3"":""Granulation"",""1"":""Screen crusher"",""2"":""Grinding machine""}}",317,"Vorteile 
+ 
+ Erzeugt wenig Feinanteil 
+ Keine Erwärmung des Produktes 
+ Minimaler Energieeinsatz 
+ Kompakte Bauweise 
+ Niedrige Rotorgeschwindigkeit 
+ Definierte max. Korngröße 
+ 
+ Optionen 
+ 
+ Material / Hygieneausführung 
+ Atex-Ausführung 
+ Frequenzumrichter 
+ Schnell reinigbare Ausführung 
+ Lagerluftspülung 
+ Mahlspaltverstellung 
+ 
+ Einsatzmöglichkeiten für den Siebbrecher ZBS: 
+ • Nach der Entleerung von Säcken und Big-Bags 
+ • Vor dem Eintritt in eine pneumatische Förderung 
+ • Nach einem Band- und Walzentrockner 
+ • Nach einem Mischer mit Flüssigkeitseintrag 
+ • Vor der Abfüllung in Säcke oder Big-Bags. 
+",COMPLETE,,,,1,305053
+6412,2025-12-03 04:46:26,2025-12-03 04:46:19,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/produkte/trennen/abscheider/,"Separator TAF 
+",https://derichs.de/wp-content/uploads/2016/09/Komponenten-Trennen-Abschneider-TAF-1-683x1024.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Trennen-Abschneider-TAF-2.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Trennen-Abschneider-TAF-3-1024x683.jpg""]",,,,sku_price,,,1,"[{""catId"":600637,""catPath"":""Process technology => Separators"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=600637""}]","{""keywords"":{""2"":""pneumatic conveying system"",""3"":""hygroscopic powder filter"",""1"":""Separator TAF""},""keywords_english"":{""2"":""pneumatic conveying system"",""3"":""hygroscopic powder filter"",""1"":""Separator TAF""}}",317,"The Separator TAF is used for product / air separation in dedusting and pneumatic conveying systems. The integrated, pneumatically cleaned pocket filter allows the separator to be used with hygroscopic, baking powders and granules. The separator is available in diameters from 600 to 1600 mm and filter from 1.5 to 19 m². The discharge funnel can be equipped with a discharge aid or device for products with a low flow rate. 
+ Due to the smoothly welded and free of dead space construction, the Separators TAF are particularly suitable with high demands regarding cleaning purposes. 
+ For use in pneumatic vacuum conveyor systems, the separator can be supplied in a reinforced version for negative pressures up to 0.4 bar. 
+ The housing is welded without any separation flange. The filter door can be swiveled sideways. The filter baskets and the filter slit plate can be dismantled individually. After the filter slot plate has been removed, a cleaning space in the size of this slot plate is available. The diaphragm valves (24V / DC) of the filter cleaning can be controlled directly by the system controller or by a separate filter control unit. Compressed air with a pressure of approx. 5 bar is required for filter cleaning. 
+",COMPLETE,,,,1,304796
+6413,2025-12-03 04:46:37,2025-12-03 04:46:31,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/produkte/trennen/,"Abscheider TAF 
+",https://derichs.de/wp-content/uploads/2016/08/trennen-free.png,"[""https://derichs.de/wp-content/uploads/2016/08/Komponenten-Trennen-Abschneider-TAF-1-quer-300x200.jpg"",""https://derichs.de/wp-content/uploads/2016/08/Komponenten-Trennen-Filter-TFZ-2-quer-300x200.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Trennen-Filter-TFP-4-300x200.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Trennen-Siebe-TSW-3-300x200.jpg""]",,,,sku_price,,,1,"[{""catId"":606253,""catPath"":""Filter and sieve technology => Filters => Particle Filters => Dust Filters"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=606253""}]","{""keywords"":{""2"":""Zentralfilter TFZ"",""3"":""Wirbelstrom-Siebmaschine TSW"",""1"":""Abscheider""},""keywords_english"":{""2"":""Central Filter TFZ"",""3"":""Eddy Current Screening Machine TSW"",""1"":""Separator""}}",317,"Staub in der Luft oder Fremdkörper im Produkt – wir trennen es für Sie. 
+ Abscheider 
+ Filter 
+ Zentralfilter TFZ 
+ Entlüftungsfilter TFP 
+ Wirbelstrom-Siebmaschine TSW 
+",COMPLETE,,,,1,304740
+6414,2025-12-03 04:46:45,2025-12-03 04:46:39,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/produkte/trennen/filter?k=zentralfilter-tfz,"Central Filter TFZ 
+",https://derichs.de/wp-content/uploads/2016/08/Komponenten-Trennen-Filter-TFZ-2-quer-300x200.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Trennen-Filter-TFZ-2-682x1024.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Trennen-Filter-TFZ-3-1024x683.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Trennen-Filter-TFZ-1-1024x683.jpg""]",,,,sku_price,,,1,"[{""catId"":606254,""catPath"":""Filter and sieve technology => Filters => Particle Filters => Fine Dust Filters"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=606254""}]","{""keywords"":{""3"":""pocket filter"",""1"":""Central Filter TFZ"",""2"":""dedusting bulk material""},""keywords_english"":{""3"":""pocket filter"",""1"":""Central Filter TFZ"",""2"":""dedusting bulk material""}}",317,"The Central Filter TFZ is used for the dedusting of bulk material systems, such as filling and emptying systems for bags, big bags and trucks or silo vehicles. The integrated, pneumatically cleaned pocket filter allows the use of the central filter even with hygroscopic and baking powders or granules. 
+ The Central Filter TFZ is available with filters from 6 m² to 20 m² for air volumes of up to 40 m³ / min. The separated filter dust is collected in a dust collecting container, which must be emptied periodically. Optionally the central filter can be delivered instead of dust collector with discharge sluice and filling system for bags or big bags. 
+ In order to generate the necessary vacuum in the filter housing, a fan can be installed on the side. A wide range of fans with different performances is available. However, if the clean air is not blown out through a connected pipeline system, but back into the work area, we recommend using a directly installed silencer to reduce the sound level. 
+ The control voltage for the filter cleaning valves is 24V / DC. These valves can either be controlled directly by the system control or by an optional filter control unit. Compressed air with a pressure of 5 to 7 bar is required for filter cleaning. 
+",COMPLETE,,,,1,305047
+6415,2025-12-03 04:46:56,2025-12-03 04:46:49,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/produkte/,"Dosing Unit DDA 
+",https://derichs.de/wp-content/uploads/2016/08/dosieren-free-en-2zu3-300x200.png,,,,,sku_price,,,1,"[{""catId"":611855,""catPath"":""Measuring and Testing Technology => Dosing Devices and Systems"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=611855""}]","{""keywords"":{""2"":""DDA"",""3"":""Reliable Components"",""1"":""Dosing Unit""},""keywords_english"":{""2"":""DDA"",""3"":""Reliable Components"",""1"":""Dosing Unit""}}",317,"Ideas make the difference – we develop your plant piece by piece 
+ Economic plants need reliable components. 
+ Our key components – a building kit with system to realize your rational production plant. 
+ Use our individual components to complete your existing plant or find solutions for your individual requirements together with us. 
+",COMPLETE,,,,1,304763
+6416,2025-12-03 04:47:01,2025-12-03 04:46:53,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/,"Anlagenbau Manufaktur 
+",https://derichs.de/wp-content/uploads/2016/08/home-slider-19A1535-Bearbeitet.jpg,"[""https://derichs.de/wp-content/uploads/2016/08/home-slider-BRATA_A3AnlagePan_2077024blue_.jpg"",""https://derichs.de/wp-content/uploads/2016/08/home-slider-Muehle.jpg""]",,,,sku_price,,,1,"[{""catId"":600363,""catPath"":""Mechanical engineering, plant construction and apparatus construction => Plant Engineering => Plant Engineering (Other)"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=600363""}]","{""keywords"":{""3"":""Verfahrenstechnik"",""1"":""Anlagenbau"",""2"":""Schüttgüter""},""keywords_english"":{""3"":""Process Engineering"",""1"":""Plant Construction"",""2"":""Bulk Materials""}}",317,"Die Anlagenbau Manufaktur 
+ Ideen entscheiden – Stück für Stück entwickeln wir Ihre Anlage 
+ Ihre Anlage für Schüttgüter 
+ Individuell geplant und gebaut von Derichs 
+ Verfahrenstechnik schon damals 
+ Innovativ seit 1818 
+",COMPLETE,,,,1,304706
+6417,2025-12-03 04:47:17,2025-12-03 04:47:10,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/unternehmen/arbeiten-bei-derichs/,"Derichs as an employer 
+",https://derichs.de/wp-content/uploads/2018/09/DERICHS_Meeting_3372_184-550x400.jpg,"[""https://derichs.de/wp-content/uploads/2018/09/DERICHS_Aussen_3370_100-550x400.jpg""]",,,,sku_price,,,1,"[{""catId"":615799,""catPath"":""Services from agriculture, forestry, fishery, horticulture => Farms => Farms"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=615799""}]","{""keywords"":{""3"":""family business"",""1"":""mechanical engineering"",""2"":""plant engineering""},""keywords_english"":{""3"":""family business"",""1"":""mechanical engineering"",""2"":""plant engineering""}}",317,"Derichs is an owner-managed family business with a long tradition. Located in the border triangle to the Netherlands and Belgium, we project, design and manufacture our plants and components at our site in Übach-Palenberg. Excellent infrastructure connections, attractive living space and a good local supply are the advantages of our location. 
+ Our values 
+ Together, Reliable, Better: We also live these values in our everyday work. Only together as a team can we master the constantly new challenges and must be able to rely on each other. Our claim is to always give our best and thus be the better choice for our customers. 
+ Benefits and Extras 
+ Free employee parking 
+ Flat hierachies 
+ Regular employee events 
+ Financial benefits 
+ dog friendly office 
+ Flexible working hours 
+ Company pension plan 
+ Versatile development opportunities 
+ Regular staff appraisals 
+ Different training offers 
+ Working in our family business 
+ We offer an exciting and varied job in mechanical and plant engineering. You decide for an economically successful and owner-managed company. Short communication channels, entrepreneurial independence and long-term stability and perspective are the special characteristics of our family business. 
+ Our application process 
+ Receipt of applications 
+ Your application is received by us. You will receive a confirmation of receipt within one working day at the latest. The applications are collected and we usually get back to you within two to three weeks. Please note the application deadline, if applicable, and the required documents and information, such as resume, references, salary requirements and earliest possible start date. 
+ Conducting interviews 
+ Our interviews take place in a maximum of two rounds and are attended by the HR department, the department heads and, if necessary, the managing director. If the possibility of a trial job is agreed during the interview, this will be organized as soon as possible after the interview in consultation with the applicant. After each interview or trial period, you will receive a deadline for us to get back to you. This depends on the number of applicants – but is usually two weeks. 
+ Employment contract and start of work 
+ Congratulations! After our application process we have decided for you. Now we have to clarify the modalities of the employment contract and determine when you will start working. During your first days in our company you will be accompanied and trained intensively. Your workplace is already set up and you will receive onboarding in the various departments and software programs. At the end of the probationary period there will be another detailed feedback interview. 
+",COMPLETE,,,,1,304784
+6418,2025-12-03 04:47:20,2025-12-03 04:47:13,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/produkte/mischen/,"Mischen impossible – egal ob Batch oder kontinuierlich 
+",https://derichs.de/wp-content/uploads/2016/08/mischen-free.png,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Mischen-Batchmischer-MBZ-1-300x200.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Mischen-Kontimischer-MKP-1-300x200.jpg""]",,,,sku_price,,,1,"[{""catId"":600382,""catPath"":""Mechanical engineering, plant construction and apparatus construction => Mixing Technology => Mixing Technology (Other)"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=600382""}]","{""keywords"":{""2"":""kurze Mischzeiten"",""3"":""Homogenität"",""1"":""Mischanlagen""},""keywords_english"":{""2"":""short mixing times"",""3"":""homogeneity"",""1"":""Mixing systems""}}",317,"Mischen impossible – egal ob Batch oder kontinuierlich. 
+ Produktschonendes Mischen, kurze Mischzeiten, Homogenität und intakte Produktstruktur sowie eine gute Reinigbarkeit zeichnen gute Mischprozesse aus. 
+ Unsere Mischanlagen erfüllen genau diese Anforderungen. 
+",COMPLETE,,,,1,304723
+6419,2025-12-03 04:47:24,2025-12-03 04:47:17,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/produkte/dosieren/schleusen?k=ruehrwerk-schleuse-dsr,"Zuteiler DSZ 
+",https://derichs.de/wp-content/uploads/2016/09/komponenten-dosieren-schleusen-DSZ-02-small.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/komponenten-dosieren-schleusen-DSZ-03-small.jpg"",""https://derichs.de/wp-content/uploads/2016/09/komponenten-dosieren-schleusen-DSZ-01-small.jpg""]",,,,sku_price,,,1,"[{""catId"":600659,""catPath"":""Packaging machinery => Dosing Systems"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=600659""}]","{""keywords"":{""2"":""DSZ"",""3"":""Dosierorgan"",""1"":""Zuteiler""},""keywords_english"":{""2"":""DSZ"",""3"":""Metering Device"",""1"":""Feeder""}}",317,"Zuteiler DSZ 
+ Dosierte Produktzufuhr Hygienegerechte Ausführung 
+ Der Zuteiler DSZ eignet sich besonders zur dosierten Weitergabe von Schüttgütern. 
+ Dabei ist er aufgrund der Spaltmaße und Fertigungs-toleranzen nicht als Ersatz für eine klassische Austrags- oder Durchblasschleuse gedacht, sondern als preiswerte Alternative für einfache Aufgaben, bei denen es jedoch auf eine hygienegerechte Ausführung ankommt. 
+ Einige Einsatzbeispiele für den Zuteiler DSZ sind: 
+ 
+ Dosierorgan über einer Big-Bag-Befüllung 
+ Zuführorgan in eine Siebmaschine 
+ Fallbremse für Produkt nach einem längeren Fallrohr 
+ Dosiertes Austragen aus einem Silo oder Pufferbehälter 
+ Dosiertes Eintragen von Produkt in eine Saugförderleitung 
+ Dosierte Produktaufgabe auf ein Sieb oder Metallsuchgerät 
+ 
+ Optional kann der Zuteiler DSZ mit einer Auszugsvorrichtung ausgestattet werden. Hiermit kann der Schleusenstern zu Inspektions- und Reinigungszwecken schnell und einfach aus dem Gehäuse gezogen werden. 
+ Eine Schwenkvorrichtung ermöglicht eine optimale Zugänglichkeit. Durch die weitgehend totraumfreie Konstruktion mit zweifacher Abdichtung – optional in Edelstahl – wird der Einsatz des Gerätes auch im Lebensmittelbereich ermöglicht. 
+",COMPLETE,,,,1,304861
+6420,2025-12-03 04:47:25,2025-12-03 04:47:18,b7852a64-6831-4ec0-b515-cf233571cd35,www.derichs.de,https://www.derichs.de/en/produkte/lagern/sackware/,"Bagged Cargo 
+",https://derichs.de/wp-content/uploads/2016/09/Komponenten-lagern-Entleeren-LES-7-683x1024.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-lagern-Entleeren-LES-6-683x1024.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-lagern-Entleeren-LES-5-683x1024.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-lagern-Entleeren-LES-4-1024x683.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-lagern-Entleeren-LES-1-1024x683.jpg""]",,,,sku_price,,,1,"[{""catId"":604155,""catPath"":""Containers, logistics and storage supplies => Containment & Storage Equipment => Containment & Storage Equipment (Other)"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=604155""}]","{""keywords"":{""3"":""Pneumatic Cartridge Filter"",""1"":""Bag Emptying Station"",""2"":""Dust Extraction""},""keywords_english"":{""3"":""Pneumatic Cartridge Filter"",""1"":""Bag Emptying Station"",""2"":""Dust Extraction""}}",317,"The Bag Emptying Station LES is used for dust-free and manual emptying of bagged goods and other small containers in the production process. The use of this station reduces the dust load on employees and production rooms to a minimum. In the construction of the station, special attention was paid to cleanability and sanitary design. This allows the station to be dismantled quickly for cleaning purposes. 
+ If the emptying station is not needed, the filling opening can be closed with a door. This wide opening door provides good access to the work area. The special construction with a gap suction in the rear area of the station guarantees an optimal dust extraction. 
+ The emptying station is equipped with a bag support surface at the filling opening on which the bags can be slit manually. An inserted coarse grid prevents larger product clumps or sack residues from entering the product stream. 
+ The dedusting can be carried out either by an integrated cartridge filter or by an external aspiration filter. In the design with the integrated filter, the separated dust is directly fed back to the product stream. When using the bag emptying station with an external, central aspiration filter, the station is equipped with a flanging flange. 
+ The integrated, pneumatically cleaned cartridge filter has 4 to 8 m² filter area. The two filter cartridges can be removed and replaced with just a few hands. The filter is cleaned with a safety switch, only if the door of the loading chamber is closed. In order to generate the necessary vacuum, the sack emptying station must be connected to a suitable fan on the fan side. 
+ The outlet funnel can be customized to the downstream plant section. For example with a flange for a Stirrer Lock type DSR. 
+",COMPLETE,,,,1,305031
+6421,2025-12-03 04:47:33,2025-12-03 04:47:26,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/produkte/lagern/big-bag/?k=big-bag-entleerstation-leb,"Big-Bag Filling Station LFBE 
+",https://derichs.de/wp-content/uploads/2017/07/LFBE_Newsletter-200x300.jpg,"[""https://derichs.de/wp-content/uploads/2017/07/LFBE_Newsletter-683x1024.jpg"",""https://derichs.de/wp-content/uploads/2017/09/LFBE_2_Homepage-1024x683.jpg"",""https://derichs.de/wp-content/uploads/2017/09/LFBE_3_Homepage-1024x683.jpg""]",,,,sku_price,,,1,"[{""catId"":600664,""catPath"":""Packaging machinery => Filling Systems => Big Bag Filling Systems"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=600664""}]","{""keywords"":{""2"":""Staubfreies Befüllen"",""3"":""Automatisches Füllen"",""1"":""Big-Bag-Füllstation""},""keywords_english"":{""2"":""Dust-Free Filling"",""3"":""Automatic Filling"",""1"":""Big-Bag Filling Station""}}",317,"Big-Bag Filling Station LFBE
+Dust-Free, Precisely, and Safe Filling of Big-Bags at low Investment Costs 
+ https://derichs.de/wp-content/uploads/2017/07/LFBE_Newsletter-200x300.jpg 
+ Dust-Free, Precisely, and Safe Filling of Big-Bags at low Investment Costs 
+ Both upright and suspended filling is possible, as the base frame is statically designed so that the entire weight can be supported with it without any problems. 
+ The Big-Bag Filling Station LFBE is used for an automatic, dust-free, precisely and safe filling of big-bags at low investment costs. The construction guarantees solid and stable big-bags no matter whether you want to fill plastic granules or fine powders. 
+ The filling head to which the filling opening of the bundle is connected is equipped with a pneumatic seal. This ensures a largely dust-free connection. 
+ The Big-Bag Filling Station LFBe is available with a calibratable, intelligent scale and a control with standard components from Siemens. 
+",COMPLETE,,,,1,305029
+6422,2025-12-03 04:47:35,2025-12-03 04:47:29,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/loesungen/chemie/,"Silo Plants and Filling Systems 
+",https://derichs.de/wp-content/uploads/2016/08/Schuettungsysteme-Banchen-Chemie-3-300x225.jpg,"[""https://derichs.de/wp-content/uploads/2016/08/ref3-produktionsanlage-fuer-spezialklebstoff.jpg"",""https://derichs.de/wp-content/uploads/2016/08/ref4-mischanlage-fuer-pulverlacke.jpg""]",,,,sku_price,,,1,"[{""catId"":600660,""catPath"":""Packaging machinery => Filling Systems => Filling Systems"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=600660""}]","{""keywords"":{""3"":""Prozessvisualisierung"",""1"":""Siloanlagen"",""2"":""Füllsysteme""},""keywords_english"":{""3"":""Process visualization"",""1"":""Silo plants"",""2"":""Filling systems""}}",317,"Whether fillers, color pigments, additives, toners, we know how to handle your product. Extensive experience in the design of production plants with critical products such as chalk, titanium dioxide or resin enables us to find a solution for every challenge. 
+ Terms like Atex and constructive explosion protection are just as obvious to us as HAZOP (PAAG). 
+ Experience is our strength: 
+ 
+ fully automated material feed systems for bulk materials and liquids 
+ product-optimized silo systems 
+ continuous and batch mixing systems 
+ dosing systems for continuous or batch operation 
+ filling and emptying systems for bags, big bags and silo vehicles 
+ process IT with process visualization, recipe management and batch traceability 
+ 
+",COMPLETE,,,,1,304778
+6423,2025-12-03 04:47:44,2025-12-03 04:47:38,b7852a64-6831-4ec0-b515-cf233571cd35,www.derichs.de,https://www.derichs.de/,"Die Anlagenbau Manufaktur 
+",https://derichs.de/wp-content/uploads/2016/08/home-slider-19A1535-Bearbeitet.jpg,"[""https://derichs.de/wp-content/uploads/2016/08/home-slider-BRATA_A3AnlagePan_2077024blue_.jpg"",""https://derichs.de/wp-content/uploads/2016/08/home-slider-Muehle.jpg""]",,,,sku_price,,,1,"[{""catId"":600364,""catPath"":""Mechanical engineering, plant construction and apparatus construction => Plant Engineering => Industrial Plant Construction"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=600364""}]","{""keywords"":{""2"":""Schüttgutanlagen"",""3"":""Verfahrenstechnik"",""1"":""Anlagenbau""},""keywords_english"":{""2"":""Bulk Material Systems"",""3"":""Process Engineering"",""1"":""Plant Construction""}}",317,"Die Anlagenbau Manufaktur 
+ Ideen entscheiden – Stück für Stück entwickeln wir Ihre Anlage 
+ Ihre Anlage für Schüttgüter 
+ Individuell geplant und gebaut von Derichs 
+ Verfahrenstechnik schon damals 
+ Innovativ seit 1818 
+",COMPLETE,,,,1,305117
+6424,2025-12-03 04:47:57,2025-12-03 04:47:49,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/produkte/lagern/big-bag/,"Big-Bag Befüllstation LFBE 
+",https://derichs.de/wp-content/uploads/2017/07/LFBE_Newsletter-200x300.jpg,"[""https://derichs.de/wp-content/uploads/2017/07/LFBE_Newsletter-683x1024.jpg"",""https://derichs.de/wp-content/uploads/2017/09/LFBE_2_Homepage-1024x683.jpg"",""https://derichs.de/wp-content/uploads/2017/09/LFBE_3_Homepage-1024x683.jpg""]",,,,sku_price,,,1,"[{""catId"":600664,""catPath"":""Packaging machinery => Filling Systems => Big Bag Filling Systems"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=600664""}]","{""keywords"":{""3"":""eichfähige Verwiegung"",""1"":""Big-Bag Befüllstation"",""2"":""pneumatische Blähdichtung""},""keywords_english"":{""3"":""calibratable weighing"",""1"":""Big-Bag filling station"",""2"":""pneumatic inflatable seal""}}",317,"Die Big-Bag Befüllstation LFBE ermöglicht bei geringen Investitionskosten ein staubfreies, eichgenaues und sicheres Befüllen von Big-Bags verschiedener Art und Größe. 
+ Die Konstruktion ermöglicht formstabile und standfeste Big-Bags, ganz gleich, ob Sie Kunststoffgranulate oder feine Pulver aus dem Nahrungsmittelbereich abfüllen möchten. 
+ Es ist sowohl eine stehende als auch eine hängende Befüllung möglich, da das Grundgestell statisch so ausgelegt ist, dass das gesamte Gewicht problemlos damit getragen werden kann. 
+ Der Füllkopf, an den die Einfüllöffnung des Gebindes angeschlossen wird, ist mit einer pneumatischen Blähdichtung ausgerüstet und gewährleistet ein weitestgehend staubfreies Anschließen. 
+ Die Big-Bag-Befüllstation LFBE ist mit einer eichfähigen, intelligenten Waage und einer Steuerung, bestehend aus Siemens Standardkomponenten, lieferbar. 
+ Einsatz von Big-Bags erhöht die Wirtschaftlichkeit 
+ Big-Bags verdrängen Säcke 
+ Big-Bag kontra Sack 
+ Big-Bag Befüllstationen für verschiedene Anforderungen 
+ Vorteile 
+ Robuste Bauweise; geeignet zur hängenden Befüllung 
+ Hygienischer, leicht zu reinigender Aufbau 
+ Geringe Investitionskosten 
+ Optionen 
+ Verwiegung; eichfähige Verwiegung; Dosierung 
+ Blähdichtung zum staubfreien Ankoppeln des Big-Bags 
+ Aufblasvorrichtung; Aspiration; Staub-; Einlaufklappe 
+ Vollmelder Rütteltisch 
+ SPS-Steuerung; Protokolldrucker; Leitsystemkopplung 
+ Materialzuführsystem 
+ Edelstahlausführung 
+ Funktions- und Bedienweise 
+ In der Grundvariante wird in die Auflagefläche der Befüllstation eine Palette gelegt und nach der Befüllung mit einem Handhubwagen nach vorne herausgefahren. Durch Absenken des Tragarmes ist das Einhängen des Big-Bags bequem auf Arbeitshöhe möglich. Die Schlaufen werden in stabile Edelstahlhaken eingehangen und dort durch eine Sicherung gehalten. Um die hinteren Haken zu erreichen, kann man ggf. mit einem Fuß auf die Rollenbahn steigen. Ein angebrachtes Trittblech sorgt dort für einen sicheren Stand. Die Big-Bag-Befüllöffnung muss lediglich über den Befüllmund gezogen werden, welcher mit Hilfe einer pneumatischen Blähmanschette angekuppelt wird und für eine staubfreie Verbindung sorgt. Um dies zu erreichen, wird die Manschette mit Hilfe eines Druckluftsystems und einer Zwei-Hand-Schaltung aufgeblasen. Im Anschluss an die Vorbereitung des Big-Bags muss der Befüllvorgang nur noch gestartet werden. 
+ Die mögliche Absackleistung ist natürlich nicht nur von der Geschicklichkeit des Bedieners sondern auch von den Produkteigenschaften, dem Dosierorgan und dem Zuführsystem abhängig. Realistisch ist eine Leistung von sechs bis zwölf Big-Bags pro Stunde. 
+ Wählt man alle Optionen zur Arbeitserleichterung, so kann ein Big-Bag fast automatisch befüllt werden. Manuell muss der Big-Bag nur noch eingehangen und verschlossen werden. Der weitere Ablauf erfolgt automatisiert. 
+",COMPLETE,,,,1,304735
+6425,2025-12-03 04:48:02,2025-12-03 04:47:54,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/produkte/trennen/filter?k=zentralfilter-tfz,"Zentralfilter TFZ 
+",https://derichs.de/wp-content/uploads/2016/08/Komponenten-Trennen-Filter-TFZ-2-quer-300x200.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Trennen-Filter-TFZ-2-682x1024.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Trennen-Filter-TFZ-3-1024x683.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Trennen-Filter-TFZ-1-1024x683.jpg""]",,,,sku_price,,,1,"[{""catId"":606253,""catPath"":""Filter and sieve technology => Filters => Particle Filters => Dust Filters"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=606253""}]","{""keywords"":{""2"":""Entstaubung Schüttgutsysteme"",""3"":""pneumatisch gereinigtes Taschenfilter"",""1"":""Zentralfilter TFZ""},""keywords_english"":{""2"":""Dust Removal Bulk Material Systems"",""3"":""Pneumatically Cleaned Bag Filter"",""1"":""Central Filter TFZ""}}",317,"Das Zentralfilter TFZ wird eingesetzt zur Entstaubung von Schüttgutsystemen, wie zum Beispiel Befüll- und Entleersysteme für Säcke, Big-Bags und Lkw bzw. Silofahrzeuge. Das integrierte, pneumatisch gereinigte Taschenfilter ermöglicht den Einsatz des Zentralfilters auch bei hygroskopischen und anbackenden Pulvern bzw. Granulaten. 
+ Das Zentralfilter TFZ ist lieferbar mit Filterflächen von 6 m² bis 20 m² für Luftmengen von bis zu 40 m³/min. Der abgeschiedene Filterstaub wird in einem Staubsammelbehälter aufgefangen, der periodisch entleert werden muss. Optional kann das Zentralfilter statt Staubsammelbehälter mit Austragschleuse und Abfüllsystem für Säcke oder Big-Bags geliefert werden. 
+ Zur Erzeugung des erforderlichen Unterdrucks im Filtergehäuse kann seitlich ein Ventilator angebaut werden. Es steht eine breite Palette an Ventilatoren mit unterschiedlichen Leistungsdaten zur Verfügung. Wenn die Reinluft jedoch nicht durch ein angeschlossenes Rohrleitungssystem nach außen, sondern zurück in den Arbeitsraum geblasen wird, empfehlen wir den Einsatz eines direkt angebauten Schalldämpfers, um den Schalldruckpegel zu reduzieren. 
+ Die Steuerspannung für die Ventile der Filterabreinigung beträgt 24V/DC. Diese Ventile können entweder direkt von der Anlagensteuerung oder von einem optionalen Filtersteuergerät angesteuert werden. Für die Filterabreinigung wird Druckluft mit 5 bis 7 bar Überdruck benötigt. 
+",COMPLETE,,,,1,304955
+6426,2025-12-03 04:48:11,2025-12-03 04:48:03,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/loesungen/,"Plant for bulk goods 
+",https://derichs.de/wp-content/uploads/2016/08/Schuettungsysteme-1-300x199.jpg,,,,,sku_price,,,1,"[{""catId"":616852,""catPath"":""Planning, engineering and development => Engineering Services => Engineering for Industrial Plants"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=616852""}]","{""keywords"":{""3"":""erfahrene Ingenieure"",""1"":""Anlage für Schüttgüter"",""2"":""maßgeschneiderte Anlage""},""keywords_english"":{""3"":""experienced engineers"",""1"":""plant for bulk goods"",""2"":""tailored plant""}}",317,"We plan each plant individually tailored to your product and your requirements together with you. 
+ If necessary a team of experienced engineers will assist to define your task precisely. 
+ Combined with your ideas and requirements synergy effects are generated from that you will benefit. You profit from a comprehensive know-how that we have acquired in several industries and countries. 
+",COMPLETE,,,,1,304790
+6427,2025-12-03 04:48:17,2025-12-03 04:48:10,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/produkte/lagern/silos/,"Silos 
+",https://derichs.de/wp-content/uploads/2016/09/Komponenten-Lagern-Silos-LSB-6-1024x683.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Lagern-Silos-LSB-5-1024x683.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Lagern-Silos-LSB-4-683x1024.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Lagern-Silos-LSB-3-1024x683.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Lagern-Silos-LSB-2-683x1024.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Lagern-Silos-LSB-1-1024x683.jpg""]",,,,sku_price,,,1,"[{""catId"":604212,""catPath"":""Containers, logistics and storage supplies => Silos"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=604212""}]","{""keywords"":{""2"":""Austragsystem"",""3"":""Nahrungsmittelindustrie"",""1"":""Siloanlage""},""keywords_english"":{""2"":""Discharge system"",""3"":""Food industry"",""1"":""Silo system""}}",317,"Eine Siloanlage ist bei größeren Durchsatzmengen die Voraussetzung für einen rationellen und vollautomatischen Betriebsablauf. Verpackungsabfall und manuelles Handling von Säcken und Big-Bags werden durch den Einsatz von Silos vermieden. 
+ Derichs verfügt über jahrzehntelange Erfahrung bei der Realisierung von Siloanlagen für die Nahrungsmittel-, Kunststoff- und chemische Industrie. Unsere Spezialisten realisieren mit Ihnen individuelle Lösungen, die auf die Räumlichkeiten und Eigenschaften Ihrer Produkte abgestimmt sind. 
+ Durch den Einsatz des richtigen Austragsystems, wie z.B. Austrag-Schwingböden, Rührwerk-Schleusen oder Belüftungssysteme, treten Fließstörungen beim Produktaustrag durch Kernfluss, Schacht- und Brückenbildung erst gar nicht auf. Durch den Einsatz einer Luftkonditionierung wird bei hygroskopischen Produkten eine Feuchtigkeitsaufnahme während der Lagerung vermieden. 
+ Wahlweise werden die Silos aus einer witterungsbeständigen Aluminiumlegierung (AlMg3), Edelstahl, lackiertem Stahl oder glasfaserverstärktem Kunststoff gefertigt. 
+ Die Normsilos sind lieferbar mit einem maximalen Durchmesser von 4200mm und einer Höhe bis 28m. 
+ Bei der Dimensionierung der Silos greifen wir auf das bewährte Baukastensystem der Derichs-Normsilos zurück. Die Silos sind mit langer Standzarge zur Aufstellung auf einer Fundamentplatte oder mit kurzer Standzarge zur Aufstellung auf einer Stahl- oder Betonkonstruktion lieferbar. Bei Außensilos ermöglicht ein optionales begehbares Filter- bzw. Penthaus eine witterungsgeschützte Aufstellung des Filters und der Füllstandsensoren. 
+ Vorteile 
+ 
+ Rationelle Lagerung ohne manuelles Handling 
+ Günstige Anlieferung durch Silofahrzeuge 
+ Großes Lagervolumen auf kleiner Fläche 
+ Individuelle Auslegung der Silos 
+ Aufstellung im Freien oder im Gebäude 
+ 
+ Optionen 
+ 
+ Austragsystem / Befüllsystem 
+ Siloentlüftungsfilter / Luftkonditionierung 
+ Siloverwiegung / Füllstandsmessung / Niveaumelder Isolierung des Silomantels 
+ Explosionsentlastung 
+ Materialzufursystem zum Produktionsprozess 
+ 
+",COMPLETE,,,,1,304710
+6428,2025-12-03 04:48:27,2025-12-03 04:48:20,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/referenzen/derichs-pulverlack-mischanlage-fuer-cws-powder-coatings/,"Chargenmischer MBZ 1400 
+",https://derichs.de/wp-content/uploads/2020/02/DSC_4061-500x400.jpg,"[""https://derichs.de/wp-content/uploads/2019/04/CWS_Bild_3-500x400.jpg""]",,,,sku_price,,,1,"[{""catId"":600435,""catPath"":""Surface Engineering => Surface Treatment Devices => Powder Coating Equipment"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=600435""}]","{""keywords"":{""2"":""Pulverlackmischanlage"",""3"":""flexible Reinigung"",""1"":""Chargenmischer MBZ 1400""},""keywords_english"":{""2"":""powder coating mixing system"",""3"":""flexible cleaning"",""1"":""Batch mixer MBZ 1400""}}",317,"Die Pulverlackhersteller CWS aus Düren suchten eine flexible Mischanlage, mit der sich gemahlene Pulverlackkomponenten zu einem fertigen Pulverlack mischen lassen. Die hohe Homogenität bei kurzer Mischzeit und vor allem die gute Zugänglichkeit des Mischers zu Reinigungszwecken waren ausschlaggebend für die Wahl des Derichs-Chargenmischers MBZ 1400. 
+ Die regelmäßige Reinigung des Mischers ist wichtig, um Verunreinigungen zu vermeiden. Durch die beidseitig angebrachten Reinigungstüren, die sich fast auf die gesamte Mischerbreite erstrecken, kann jede Stelle im Mischraum gut erreicht werden. Die Reinigung kann sowohl trocken als auch nass erfolgen. 
+ Mit dem Chargenmischer MBZ 1400 können Chargen bis zu 1000 l gemischt werden. Die Mischung erfolgt durch zwei Mischrotoren, die gegenläufig drehen, was die mechanische Belastung der Produkte sehr gering hält. Die Komplexität der Mischung erfolgt in einer Zonenform, in der die Teilchen durch eine optimierte Form und Stellung der Mischwerkzeuge gemischt werden. 
+ Die zwischengeschaltete Staurollenbahn bietet eine Möglichkeit, bis zu zehn gefüllte Kartons puffernd aufzuführen, bevor sie manuell verschlossen und gebündelt werden. Die Möglichkeit, den Mischer in kürzester Zeit kontaminationsfrei zu reinigen, ist eine wichtige Anforderung. 
+",COMPLETE,,,,1,304711
+6429,2025-12-03 04:48:26,2025-12-03 04:48:20,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/produkte/mischen/,"Mixing Systems 
+",https://derichs.de/wp-content/uploads/2016/08/mischen-free-en.png,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Mischen-Batchmischer-MBZ-1-300x200.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Mischen-Kontimischer-MKP-1-300x200.jpg""]",,,,sku_price,,,1,"[{""catId"":600382,""catPath"":""Mechanical engineering, plant construction and apparatus construction => Mixing Technology => Mixing Technology (Other)"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=600382""}]","{""keywords"":{""3"":""Mixing Systems"",""1"":""Batch Mixer"",""2"":""Continuous Mixer""},""keywords_english"":{""3"":""Mixing Systems"",""1"":""Batch Mixer"",""2"":""Continuous Mixer""}}",317,"Mixing impossible – whether batch or continuous. 
+ Short mixing times, homogeneity and intact product structure as well as good cleanability characterize good mixing processes. 
+ Our mixing systems fulfil exactly these requirements. 
+ 
+ Batch Mixer 
+ Continuous Mixer 
+ 
+",COMPLETE,,,,1,304783
+6430,2025-12-03 04:48:32,2025-12-03 04:48:26,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/produkte/lagern/sackware/,"Sack-Entleerstation LES 
+",https://derichs.de/wp-content/uploads/2016/09/Komponenten-lagern-Entleeren-LES-7-683x1024.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-lagern-Entleeren-LES-6-683x1024.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-lagern-Entleeren-LES-5-683x1024.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-lagern-Entleeren-LES-4-1024x683.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-lagern-Entleeren-LES-1-1024x683.jpg""]",,,,sku_price,,,1,"[{""catId"":604151,""catPath"":""Containers, logistics and storage supplies => Loading Technology"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=604151""}]","{""keywords"":{""2"":""staubfreie Entleerung"",""3"":""pneumatisches Patronenfilter"",""1"":""Sack-Entleerstation""},""keywords_english"":{""2"":""dust-free emptying"",""3"":""pneumatic cartridge filter"",""1"":""Bag emptying station""}}",317,"Hygienische Entleerung von Sackware und Kleingebinden Wahlweise mit integriertem, schnellwechselbarem Filter 
+ Die Sack-Entleerstation LES dient zur weitestgehend staubfreien, manuellen Aufgabe von Sackware und anderen Kleingebinden in den Produktionsprozess. Der Einsatz dieser Station reduziert die Staubbelastung von Mitarbeitern und Produktionsräumen auf ein Minimum. Bei der Konstruktion der Station wurde besonders auf die Reinigbarkeit und sanitäre Ausführung geachtet. So lässt sich die Station zur Reinigung schnell und leicht zerlegen. 
+ Wird die Entleerstation nicht gebraucht, kann die Einfüllöffnung mit einer Tür verschlossen werden. Diese weit öffnende Tür ermöglicht einen guten Zugang zum Arbeitsbereich. 
+ Die spezielle Konstruktion mit einer Spaltabsaugung im hinteren Bereich der Station gewährleistet trotzdem eine optimale Staubabsaugung. 
+ Die Entleerstation ist mit einer Sackauflagefläche in der Einfüllöffnung ausgerüstet, auf der die Säcke manuell aufgeschlitzt werden können. Ein eingelegter Grobrost verhindert, dass größere Produktklumpen oder Sackreste in den Produktstrom gelangen. 
+ Die Entstaubung kann entweder durch ein integriertes Patronenfilter oder durch ein externes Aspirationsfilter erfolgen. Bei der Ausführung mit dem integrierten Filter wird der abgeschiedene Staub dem Produktstrom direkt wieder zugeführt. 
+ Beim Einsatz der Sack-Entleerstation mit einem externen, zentralen Aspirationsfilter wird die Station mit einem Bördelflansch ausgerüstet. 
+ Das integrierte, pneumatisch gereinigte Patronenfilter verfügt über 4 bis 8 m² Filterfläche. Die beiden Filterpatronen können mit wenigen Handgriffen ausgebaut und gewechselt werden. Die Abreinigung des Filters erfolgt, überwacht durch einen Sicherheitsschalter, nur wenn die Tür der Einschüttkabine geschlossen ist. Zur Erzeugung des erforderlichen Unterdruckes muss die Sack-Entleerstation an einen geeigneten reingasseitigen Ventilator angeschlossen werden. 
+ Der Auslauftrichter kann kundenspezifisch an den nachgeschalteten Anlagenteil angepasst werden. So kann der Auslauftrichter z.B. mit einem Flansch für eine Rührwerk- schleuse Typ DSR ausgerüstet werden. 
+",COMPLETE,,,,1,304714
+6431,2025-12-03 04:48:39,2025-12-03 04:48:32,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/produkte/mahlen/brecher?k=siebbrecher-zbs,"Lump Breaker ZBK 
+",https://derichs.de/wp-content/uploads/2016/09/Komponenten-Mahlen-Brecher-ZBK-3-300x200.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Mahlen-Brecher-ZBK-3-1024x683.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Mahlen-Brecher-ZBK-2-1024x683.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Mahlen-Brecher-ZBK-1-1024x683.jpg""]",,,,sku_price,,,1,"[{""catId"":601950,""catPath"":""Machining and forming => Crushing"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=601950""}]","{""keywords"":{""3"":""food processing"",""1"":""coarse crushing"",""2"":""lump breaker ZBK""},""keywords_english"":{""3"":""food processing"",""1"":""coarse crushing"",""2"":""lump breaker ZBK""}}",317,"The Lump Breaker ZBK is particularly suitable for the coarse crushing of product clumps. Lumps with edge lengths of up to 150 mm can be comminuted and the comminuted product having a grain size of max. 10 -15 mm. 
+ To further comminute soft lumps or agglomerates, it is recommended to use our screen breaker or our centrifugal sifter, which can be connected downstream of the lump breaker. 
+ Application examples for the lump breaker are: 
+ 
+ The comminution of clumping at the discharge of a filter unit 
+ Pre-comminution of frozen herbal mixtures 
+ Dissolving agglomerates after a bag or big-bag emptying station 
+ The comminution of pressed washbins, which are to be returned to the production process 
+ The dissolution of bonded resin granules before further processing 
+ 
+ The breaking tool is arranged on a rotating drive and meshes with two fixed striking bars which are located at the housing doors. For maintenance or cleaning purposes these doors can be unscrewed. 
+ Due to the largely free of dead space construction with double sealing – optionally in stainless steel – the use of the device is also possible in the food area. 
+ The material feed should be adapted to the characteristics of the respective product. 
+ Advantages 
+ 
+ Robust construction 
+ Low installation height 
+ Easy to clean 
+ 
+ Options 
+ 
+ Material / hygienic design 
+ Shaft seal with air purge 
+ Breaking tools made of hardened steel 
+ Gear motor for frequency converter operation 
+ 
+",COMPLETE,,,,1,305021
+6432,2025-12-03 04:48:44,2025-12-03 04:48:37,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/leistungen/produktion/,"DERICHS Builds Reliable Machines 
+",https://derichs.de/wp-content/uploads/2016/09/Schuettungsysteme-Leistungen-Anlagenplanung-1-300x169.png,,,,,sku_price,,,1,"[{""catId"":616737,""catPath"":""Installation => Machine Assembly => Machine Assembly"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=616737""}]","{""keywords"":{""2"":""DIN ISO 9001 zertifiziert"",""3"":""lizenzierte Handwerker"",""1"":""zuverlässige Maschinen""},""keywords_english"":{""2"":""DIN ISO 9001 certified"",""3"":""licensed craftsmen"",""1"":""reliable machines""}}",317,"In the tradition of a middle-class craftsman we manufacture efficient at a high quality level and in the same time flexible. The most important base of our success is to concern the demands of our customers. We work according to DIN ISO 9001 certificated quality management system. 
+ Steel, stainless steel or aluminium – our licensed craftsmen guarantees for any quality demand and an economical solution. Also in the detail we are critical. All components are checked before leaving our company. 
+ And therefore our customers knew: DERICHS builds reliable machines! 
+",COMPLETE,,,,1,304760
+6433,2025-12-03 04:49:22,2025-12-03 04:49:15,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/produkte/foerdern/mechanische-foerderung/,"Hängebahnförderer FHM – 1500 
+",https://derichs.de/wp-content/uploads/2016/09/komponenten-foerdern-mechanisch-FHM-haengebahnfoerderer_3-small.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/komponenten-foerdern-mechanisch-FHM-haengebahnfoerderer_4-small-e1523613510882.jpg"",""https://derichs.de/wp-content/uploads/2016/09/komponenten-foerdern-mechanisch-FHM-haengebahnfoerderer_2-small.jpg"",""https://derichs.de/wp-content/uploads/2016/09/komponenten-foerdern-mechanisch-FHM-haengebahnfoerderer-small.jpg""]",,,,sku_price,,,1,"[{""catId"":606494,""catPath"":""Conveyor technology => Transport Systems => Transport Systems (Other)"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=606494""}]","{""keywords"":{""2"":""Big-Bag-Transportsystem"",""3"":""Edelstahl-Hubvorrichtung"",""1"":""Hängebahnförderer""},""keywords_english"":{""2"":""Big Bag Transport System"",""3"":""Stainless Steel Lift Device"",""1"":""Overhead Conveyor""}}",317,"Automatisches Transportsystem für Big-Bags bis zu einem Gewicht von 1.500 kg 
+ Um der Anforderung gerecht zu werden, gefüllte Big-Bags auch ohne Paletten transportieren zu können wurde ein System entwickelt, mit dessen Hilfe ein solcher Transport weitestgehend automatisch möglich ist. Hierzu wird auf Technik aus der Automobilproduktion zurückgegriffen. Ein deckengebundenes Transportsystem wurde mit einer Big-Bag-Aufnahme und -Hebevorrichtung mit automatischen Sackhaken kombiniert, wie sie bei unseren Big-Bag-Befüllanlagen Verwendung finden. 
+ Funktionsprinzip: Die einzelnen Fahrzeuge operieren nach Eingabe eines Fahrzieels weitestgehend autark. Es können Geraden, Kurven, Weichen und Tor- oder Schleusendurchfahrten realisiert werden. Es können mehrere Fahrzeuge auf der selben Deckenschiene betrtieben werden. Am Ziel wird der Big-Bag dann vollautomatisch abgesetzt (z.B. auf eine Palette). Zur Kontrolle der Hebevorgänge wurde eine Wiegezelle integriert. 
+ Da ein Einsatz speziell auch in Lebensmittelbetrieben das Ziel war wurde das gesammte Fahrzeug aus Edelstahl in hygienegerechter Ausfürung konzipiert. 
+ Die Hubvorrichtung erfüllt alle üblichen Sicherheitsbestimmungen und wird von einem renomierten KFZ-Zulieferer beigestellt. 
+ Da ein Einsatz speziell auch in Lebensmittelbetrieben das Ziel war wird das Fahrzeug soweit dies technisch möglich ist von uns in hygienegerechter Ausführung in Edelstahl gebaut. Lediglich bei der zulassungspflichtigen Hubvorrichtung konnte teilweise kein Edelstahl verwandt werden. 
+ Die Fahrzeuge können sowohl für die Beschickung von Big-Bag-Entleeranlagen als auch für den Abtransport nach einer Big-Bag-Befüllanlage eingesetzt werden. 
+ Diese Technik eignet sich auch gut für den nachträglichen Einbau von Hygieneschleusen bei Big-Bag-Befüll- oder -Entleeranlagen, wenn z.B. die optimale Lösung (unser Big-Bag-Revolver) räumlich nicht unterzubringen ist. Denkbar ist auch ein direkter Transport zu einem zentralen Wickler. 
+",COMPLETE,,,,1,304743
+6434,2025-12-03 04:49:33,2025-12-03 04:49:26,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/leistungen/automatisierung/,"Automatisierung vom Anlagenbauer 
+",https://derichs.de/wp-content/uploads/2018/09/DSC_0468-2560x1709.jpg,"[""https://derichs.de/wp-content/uploads/2018/09/S9_Ersatz_f_ro-2560x1709.jpg"",""https://derichs.de/wp-content/uploads/2017/03/arbeitsplatz.jpg""]",,,,sku_price,,,1,"[{""catId"":613079,""catPath"":""Robotics, process and automation technology => Automation Technology Services => Automation Engineers"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=613079""}]","{""keywords"":{""2"":""Anlagenbauer"",""3"":""Inbetriebnahme"",""1"":""Automatisierung""},""keywords_english"":{""2"":""Plant construction"",""3"":""Commissioning"",""1"":""Automation""}}",317,"Automatisierung vom Anlagenbauer 
+ Wenn es um die angemessene Automatisierung Ihrer Anlage geht, sind Sie bei DERICHS genau richtig. Hier arbeiten Verfahrenstechniker, Anlagenbauer und Elektrotechniker unter einem Dach eng zusammen. Unsere Techniker halten von der Schaltplanentwicklung über den Schaltschrankbau bis zur Inbetriebnahme vor Ort die Fäden in der Hand. Kurze Informationswege in unserem Haus sparen dabei Zeit und Geld. 
+ Der Verfahrenstechniker setzt zusammen mit dem Elektrotechniker die Verfahrensabläufe in Software um. Die Bedienoberfläche und die Ablaufsteuerung sowie das Verhalten einer Anlage in Ausnahmesituationen werden mit Hilfe von Simulationsprogrammen ausgiebig getestet. So ist es bei Bedarf möglich, dass Ihre Anlagenbediener die Anlage schon probefahren, bevor sie überhaupt gebaut ist. Schon in dieser Phase können wir die Abläufe in der Anlage dokumentieren, kontrollieren und so den Produktionsprozess optimieren, bevor er überhaupt begonnen hat. Das verkürzt die Zeiten der Inbetriebnahme und garantiert Ihnen ein einfaches Bedienen der Anlage bei gleichbleibender Produktqualität. 
+ Inbetriebnahme 
+ Die Inbetriebnahme unserer Anlagen wird von erfahrenen Monteuren, Mechatronikern, Elektrotechnikern und/oder Ingenieuren durchgeführt. Bis zur Übergabe einer Anlage an den Kunden ist eine Reihe von Aufgaben zu erledigen: 
+ 
+ Abnahme/Überprüfung der Feldverkabelung 
+ Testen der Ein- / Ausgänge 
+ Abgleichen der Analogwerte 
+ Testlauf der Antriebe mit prüfen der Drehrichtung 
+ Probelauf ohne Produkt 
+ Schrittweises Starten der Produktion 
+ Probebetrieb 
+ Einweisung Betriebspersonal 
+ 
+",COMPLETE,,,,1,304742
+6435,2025-12-03 04:49:45,2025-12-03 04:49:38,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/referenzen/cws-powder-coatings/,"Chargentmischer MBZ 1400 
+",https://derichs.de/wp-content/uploads/2020/02/DSC_4061-500x400.jpg,"[""https://derichs.de/wp-content/uploads/2019/04/CWS_Bild_3-500x400.jpg""]",,,,sku_price,,,1,"[{""catId"":600435,""catPath"":""Surface Engineering => Surface Treatment Devices => Powder Coating Equipment"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=600435""}]","{""keywords"":{""2"":""Pulverlacke Mischanlage"",""3"":""große Reinigungstüren"",""1"":""Chargentmischer MBZ 1400""},""keywords_english"":{""2"":""powder coating mixer"",""3"":""large cleaning doors"",""1"":""Batch mixer MBZ 1400""}}",317,"Mischanlage für Pulverlacke 
+ Zeitsparend homogenisieren und reinigen 
+ Der Pulverlackhersteller CWS aus Düren suchte eine flexible Mischanlage, mit der sich gemahlene Pulverlackkomponenten zu einem fertigen Pulverlack mischen lassen. Die hohe Homogenität bei kurzer Mischzeit und vor allem die gute Zugänglichkeit des Mischers zu Reinigungszwecken waren ausschlaggebend für die Wahl des Derichs-Chargenmischers MBZ 1400. 
+ Das Mischen bei der Herstellung von Pulverlacken muss schonend und zeitsparend durchgeführt werden. Bei modernen Mischanlagen werden hohe Anforderungen an die Homogenität, Mischdauer und Produktschonung bei empfindlichen Gütern gestellt. Auch die Möglichkeit, den Mischer in kürzester Zeit kontaminationsfrei zu reinigen, ist eine wesentliche Anforderung. Reinigungszeit ist Verlustzeit, die daher auf ein Minimum reduziert werden muss. Aus diesem Grund hat Derichs den seit vielen Jahren bewährten Chargenmischer MBZ 1400 in Bezug auf die Reinigungsmöglichkeit weiterentwickelt. Als wichtigste Neuerung sind hierbei die beidseitig angebrachten Reinigungstüren, die sich fast auf die gesamte Mischerbreite erstrecken, zu nennen. Durch diese Türen kann jede Stelle im Mischraum gut erreicht werden. Die Reinigung des Mischers kann sowohl trocken als auch nass erfolgen. Die Reinigung spielt bei der Herstellung von Pulverlacken eine große Rolle, da dies mehrmals täglich stattfindet. Aufgrund der CIP-Düsen und großen Reinigungstüren an beiden Seiten bietet dieser Mischer den Pulverlackherstellern Vorteile. 
+ Schonend Mischen 
+ Mit dem Chargenmischer MBZ 1400 können Chargen bis zu 1000 l gemischt werden. Er verfügt über eine Mischkammer mit zwei Mischrotoren, die gegenläufig drehen. Die zwei Mischrotoren bauen in der Mitte des Mischers eine Zone auf, in der das Produkt fluidisiert wird. Hier werden die quasi schwebenden Teilchen durch die optimierte Form und Stellung der Mischwerkzeuge in einem komplexen dynamischen Prozess gemischt. Da die mechanische Belastung der Produkte sehr gering ist, lassen sich selbst sehr empfindliche Produkte mischen. Die Entleerung des Mischers erfolgt über eine Auslaufklappe mit pneumatischem Schwenkantrieb und eine Spezialdichtung, die sich im Boden der Mischkammer befindet. 
+ Eichgenau abfüllen 
+ Die gemischten Pulverlacke können wahlweise in Big Bags oder Kartons mit PE-Beutel abgefüllt werden. Hierzu wurde neben einer Big-Bag-Befüllstation eine vollautomatische Abfüllanlage für Kartons installiert. Auch alle anderen Komponenten der Abfüllanlage sind schnell demontierbar und nass zu reinigen. Eine angetriebene Rollenbahn, auf der zehn leere Kartons aufgesetzt werden können, sorgt für die Zufuhr der Gebinde zur Abfüllstation und deren Vereinzelung. Die Abfüllanlage mit Schneckendosierer und elektronischer Waage sorgt für eine eichgenaue Abfüllung. Auf der nachgeschalteten Staurollenbahn können wiederum bis zu zehn gefüllte Kartons gepuffert werden, bevor sie manuell verschlossen und pallettiert werden. 
+",COMPLETE,,,,1,304932
+6436,2025-12-03 04:49:51,2025-12-03 04:49:44,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/leistungen/montage-service/,"Erection & Service 
+",https://derichs.de/wp-content/uploads/2016/09/Service-Mitarbeiter-300x199.jpg,,,,,sku_price,,,1,"[{""catId"":617258,""catPath"":""Repair, maintenance and modernization => Technical Service => Industrial Service"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=617258""}]","{""keywords"":{""2"":""professional maintenance"",""3"":""remote maintenance"",""1"":""Erection Service""},""keywords_english"":{""2"":""professional maintenance"",""3"":""remote maintenance"",""1"":""Erection Service""}}",317,"Erection & Service 
+ We install your system with our own well-trained specialists. This allows us to guarantee a fast and high-quality realization of the project. 
+ We only do directed work in exceptional cases. 
+ Even after commissioning we remain your partner. We maintain your equipment in a professional manner, so that disturbances hardly have a chance – and if it does not work as it should, our customer service specialists are quick to spot the problem. 
+ You can see: you can rely on DERICHS! 
+ A well-stocked spare parts and raw material store guarantees you quick help. If a suitable spare part is not immediately in stock, it will be provide in a short-term or we will make it ourselves. 
+ With remote maintenance, we can access your plant quickly from the office. This allows, that smaller problems can be solved cost-effectively. Even program extensions can be imported without long journeys. For this purpose a modem route for the online connection between the programming device and a remote Siemens PLC is installed over the telephone network. This allows the entire range of functions of the SIMATIC programming software to be applied remotely to a plant control system. If a remote maintenance is not 
+",COMPLETE,,,,1,304772
+6437,2025-12-03 04:50:02,2025-12-03 04:49:55,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/leistungen/produktion/,"DERICHS Fertigung 
+",https://derichs.de/wp-content/uploads/2018/09/DERICHS_Fertigung_3378_220.jpg,"[""https://derichs.de/wp-content/uploads/2018/09/DERICHS_Fertigung_3378_088.jpg"",""https://derichs.de/wp-content/uploads/2018/09/DERICHS_Fertigung_3378_168.jpg""]",,,,sku_price,,,1,"[{""catId"":601597,""catPath"":""Machining and forming => Contract Manufacturing"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=601597""}]","{""keywords"":{""2"":""schweißtechnischer Fachbetrieb"",""3"":""Qualitätsmanagementsystem DIN ISO 9001"",""1"":""eigene Fertigung""},""keywords_english"":{""2"":""welding specialist company"",""3"":""quality management system DIN ISO 9001"",""1"":""own production""}}",317,"Handwerk schafft Qualität – eigene Fertigung 
+ Aus der Tradition eines mittelständischen Handwerksbetriebes heraus fertigen wir rationell, auf hohem Qualitätsniveau und gleichzeitig flexibel. Auf Kundenanforderungen einzugehen, ist die wichtigste Grundlage für unseren Erfolg. Wir arbeiten gemäß einem nach DIN ISO 9001 zertifizierten Qualitätsmanagementsystem. 
+ Ob Stahl, Edelstahl oder Aluminium – die materialgerechte, eigene Fertigung und das Prädikat „schweißtechnischer Fachbetrieb“ garantieren für jeden Qualitätsanspruch eine wirtschaftliche Lösung. Auch im Detail sind wir kritisch. Jedes Teil wird einer strengen Endkontrolle unterzogen, bevor es unser Werk verlässt. 
+ Dabei wissen unsere Kunden: Was DERICHS baut, das passt und funktioniert! 
+",COMPLETE,,,,1,304717
+6438,2025-12-03 04:50:04,2025-12-03 04:49:57,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/loesungen/pharma/,"Pharma Products and Systems 
+",https://derichs.de/wp-content/uploads/2016/08/Schuettungsysteme-Banchen-Pharma-2-289x300.jpg,,,,,sku_price,,,1,"[{""catId"":600375,""catPath"":""Mechanical engineering, plant construction and apparatus construction => Plant Engineering => Pharmaceutical Plant Engineering"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=600375""}]","{""keywords"":{""3"":""process IT"",""1"":""pharma plants"",""2"":""automated material feed systems""},""keywords_english"":{""3"":""process IT"",""1"":""pharma plants"",""2"":""automated material feed systems""}}",317,"Whether fillers, active ingredients or lactose, we know how to handle your product. Extensive experience in the design of pharma plants enables us to find a solution for every challenge. 
+ Terms like Atex, EHEDG and GMP are just as obvious to us as process validation. 
+ Experience is our strength: 
+ 
+ hygiene-optimized sampling systems 
+ fully automated material feed systems for bulk materials and liquids 
+ product-optimized silo systems 
+ continuous and batch mixing systems 
+ dosing systems for continuous or batch operation 
+ filling and emptying systems for bags, big bags and silo vehicles 
+ process IT with process visualization, recipe management and batch traceability 
+ 
+",COMPLETE,,,,1,304764
+6439,2025-12-03 04:50:47,2025-12-03 04:50:40,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/produkte/trennen/siebe/,"Centrifugal Sifter TSW 
+",https://derichs.de/wp-content/uploads/2016/09/Komponenten-Trennen-Siebe-TSW-1-1024x683.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Trennen-Siebe-TSW-2-1024x683.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Trennen-Siebe-TSW-3-1024x683.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Trennen-Siebe-TSW-4-1024x683.jpg""]",,,,sku_price,,,1,"[{""catId"":606283,""catPath"":""Filter and sieve technology => Sieves => Industrial Sieves"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=606283""}]","{""keywords"":{""3"":""Produktenqualität"",""1"":""Zentrifugalsiebmaschine"",""2"":""Siebleistung""},""keywords_english"":{""3"":""product quality"",""1"":""centrifugal sifter machine"",""2"":""sieving capacity""}}",317,"The Centrifugal Sifter TSW has been successfully used in the food and chemical industry for many years. The centrifugal sifter machine is available in three sizes, whereby the sieving capacity is dependent on the product properties and the screen basket mesh width. Even at low height, high performance is achieved! 
+ A short feeding screw feeds the product from the inlet into the screening chamber. There it is detected by the swirlists and thrown against or through the cylindrically arranged screen. The coarse material is then transported to the coarse material discharge. 
+ The Centrifugal Sifter TSW can improve and monitor product quality in the following areas: 
+ 
+ Control screening: Excretion of foreign particles such as bag fibers, strips of paper bags and screws, etc. which may be present in the product. 
+ Dissolving or separating lumps: Products stored in bags, big bags or containers may tend to form clumps. These lumps are dissolved or excreted in the screening machine. 
+ Dissolving products: In the industrial bakery, the flour is enriched with air through the centrifugal sifter before it enters the kneader. This increases the yield. 
+ Fractionating: Sieving of product fractions which exceed a certain grain size. 
+ 
+ The screen basket can be simply pulled out and cleaned or replaced by a screen basket with a different mesh width after opening the quick-release fasteners. For a faster cleaning the screen machine can also be equipped with a pull-out and pivoting device on the rotor. In this version, the rotor shaft can be pulled out and swung away completely. 
+ Different mesh sizes regarding screen fabric, plastic or stainless steel guarantee the best production results. To prevent product leakage, the shaft bearings are equipped with sealing rings and additional air purge. 
+",COMPLETE,,,,1,304775
+6440,2025-12-03 04:50:55,2025-12-03 04:50:48,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/produkte/dosieren/probenehmer/?k=probenehmer-dph,"Probenehmer DPS 
+",https://derichs.de/wp-content/uploads/2016/09/Komponenten-Dosieren-Probenehmer-DPS-1-300x200.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Dosieren-Probenehmer-DPS-1-1024x683.jpg""]",,,,sku_price,,,1,"[{""catId"":609169,""catPath"":""Laboratory technology and supplies => Laboratory Equipment => Dispersers"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=609169""}]","{""keywords"":{""3"":""chemischen Industrie"",""1"":""Probenehmer"",""2"":""Pulver und Granulatproben""},""keywords_english"":{""3"":""chemical industry"",""1"":""Sample collector"",""2"":""Powder and granulate samples""}}",317,"Probenehmer DPS 
+ Einfache Probeentnahme in Fallleitungen 
+ Der Standard Probenehmer DPS wird zur Entnahme von Pulver und Granulatproben aus Fallrohren und Trichtern, durch die das Produkt fällt oder gleitet, eingesetzt. 
+ Der Probenehmer DPS eignet sich besonders für den Einsatz in der chemischen Industrie. Er lässt sich zu Reinigungszwecken schnell zerlegen und komplett nass reinigen. Im Gegensatz zur Hygieneausführung ist er jedoch nicht totraumfrei. 
+ Der Standard Probenehmer besteht aus einem Kolben, der mittels Linearzylinder betätigt wird. Zur Entnahme der Probe wird der Kolben ausgefahren bis er sich im Produktstrom befindet. Nachdem der Kolben gefüllt ist, wird er zurückgefahren und die Probe in einem Probenbehälter entleert. 
+ Zur Montage des Probenehmers wird ein ISO-Clampstutzen mit einer Größe von 2 1/2 “ im Fallrohr oder Trichter eingeschweißt, der zum Lieferumfang gehört. Der zulässige Über- oder Unterdruck im System beträgt 50 mbar. 
+ Die Ansteuerung des Probenehmers kann entweder mit einem pneumatischen Handventil oder einem Magnetventil über eine Steuerung mit einstellbaren Probenahmeintervallen erfolgen. Hierbei erfolgt die Vor-Ort- Bedienung über einen Wahlschalter. 
+ Bei einer Einbindung in ein Prozessleitsystem ist eine vollautomatische Probenahme möglich. Auch in diesem Fall kann vor Ort jederzeit noch eine zusätzliche Probe von Hand genommen werden. Eine Dokumentation der Probenahme ist über entsprechende Meldungen im Leitsystem möglich. 
+",COMPLETE,,,,1,305092
+6441,2025-12-03 04:50:56,2025-12-03 04:50:49,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/loesungen/pharma/,"Schüttungssysteme für Pharma 
+",https://derichs.de/wp-content/uploads/2016/08/Schuettungsysteme-Banchen-Pharma-2-289x300.jpg,,,,,sku_price,,,1,"[{""catId"":600375,""catPath"":""Mechanical engineering, plant construction and apparatus construction => Plant Engineering => Pharmaceutical Plant Engineering"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=600375""}]","{""keywords"":{""2"":""vollautomatische Materialzuführsysteme"",""3"":""hygieneoptimierte Probenahmesysteme"",""1"":""Pharma-Schüttungssysteme""},""keywords_english"":{""2"":""fully automatic material feeding systems"",""3"":""hygiene-optimized sampling systems"",""1"":""pharmaceutical dispensing systems""}}",317,"Egal ob Füllstoffe, Wirkstoffe oder Laktose – wir wissen, wie wir Ihr Produkt handhaben müssen. Umfangreiche Erfahrung in der Gestaltung von Pharma-Anlagen lässt uns für jede Herausforderung eine Lösung finden. 
+ Begriffe wie Atex, EHEDG und GMP sind für uns genau so selbstverständlich wie die Prozessvalidierung. 
+ Erfahrung ist unsere Stärke: 
+ 
+ hygieneoptimierte Probenahmesysteme 
+ vollautomatische Materialzuführsysteme für Schüttgüter und Flüssigkeiten 
+ produktoptimierte Siloanlagen 
+ kontinuierliche und Batch-Mischsysteme 
+ Dosiersysteme für den kontinuierlichen oder Batch-Betrieb 
+ Befüll- und Enleersysteme für Säcke, Big-Bags und Silofahrzeuge 
+ Prozess-IT mit Prozessvisualisierung, Rezepturverwaltung und Chargenrückverfolgung 
+ 
+",COMPLETE,,,,1,304752
+6442,2025-12-03 04:51:24,2025-12-03 04:51:17,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/produkte/trennen/siebe/,"Wirbelstrom-Siebmaschine TSW 
+",https://derichs.de/wp-content/uploads/2016/09/Komponenten-Trennen-Siebe-TSW-1-1024x683.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Trennen-Siebe-TSW-2-1024x683.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Trennen-Siebe-TSW-3-1024x683.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Trennen-Siebe-TSW-4-1024x683.jpg""]",,,,sku_price,,,1,"[{""catId"":606282,""catPath"":""Filter and sieve technology => Sieves => Drum Screens"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=606282""}]","{""keywords"":{""3"":""Kontrollsiebung"",""1"":""Wirbelstrom-Siebmaschine"",""2"":""Nahrungsmittelindustrie""},""keywords_english"":{""3"":""Control Sieving"",""1"":""Eddy Current Sieve Machine"",""2"":""Food Industry""}}",317,"Bereits seit vielen Jahren wird die Wirbelstrom-Siebmaschine TSW erfolgreich in der Nahrungsmittel und chemischen Industrie eingesetzt. Die Wirbelstrom-Siebmaschine steht in drei Größen zur Verfügung, wobei die Siebleistung von den Produkteigenschaften und der Siebkorb-Maschenweite abhängig ist. Selbst bei geringer Bauhöhe wird eine hohe Leistung erreicht! 
+ Eine kurze Zuführschnecke fördert das Produkt vom Einlauf in den eigentlichen Siebraum. Dort wird es von den Wirbelleisten erfasst und gegen bzw. durch das zylindrisch angeordnete Siebgewebe geschleudert. Das Grobgut wird weiter zum Grobgutauslauf transportiert. 
+ Bei folgenden Einsatzbereichen kann die Wirbelstrom-Siebmaschine die Produktqualität verbessern und überwachen: 
+ Kontrollsiebung: Ausscheiden von Fremdpartikeln wie Sackfasern, Streifen von Papiersäcken und Schrauben etc., die sich möglicherweise im Produkt befinden. 
+ Auflösen oder Ausscheiden von Klumpen: Produkte, die in Säcken, Big-Bags oder Behältern gelagert werden, können zur Klumpenbildung neigen. Diese Klumpen werden in der Siebmaschine aufgelöst oder ausgeschieden, sofern sie sich nicht leicht auflösen lassen. 
+ Auflockern von Produkten: In der industriellen Bäckerei wird das Mehl, bevor es in den Kneter gelangt, durch die Siebmaschine mit Luft angereichert. Dadurch wird der Ertrag erhöht. 
+ Fraktionieren: Das Absieben von Produktfraktionen, die eine bestimmte Korngröße überschreiten. 
+ Der Siebkorb kann nach Öffnen der Schnellverschlüsse auf der Stirnseite einfach herausgezogen und gereinigt oder gegen einen Siebkorb mit abweichender Maschenweite ausgetauscht werden. Für eine schnellere Reinigung kann die Siebmaschine auch mit einer Auszieh- und Schwenkvorrichtung am Rotor ausgestattet werden. In dieser Ausführung kann die Rotorwelle komplett mit Schlagleisten und Siebkorb durch wenige Handgriffe herausgezogen und weggeschwenkt werden. 
+ Verschiedene Maschenweiten beim Siebgewebe, in Kunststoff oder Edelstahl erhältlich, garantieren beste Produktionsergebnisse. Um Produktaustritte zu verhindern, sind die Wellenlagerungen mit Dichtringen und zusätzlicher Luftspülung ausgestattet. 
+",COMPLETE,,,,1,304732
+6443,2025-12-03 04:51:32,2025-12-03 04:51:25,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/loesungen/kunststoff/,"Kunststoff 
+",https://derichs.de/wp-content/uploads/2016/08/Schuettungsysteme-Banchen-Kunststoff-1-285x300.jpg,,,,,sku_price,,,1,"[{""catId"":608943,""catPath"":""Plastics and plastic products => Compounding"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=608943""}]","{""keywords"":{""3"":""Additivherstellung"",""1"":""Dosiersysteme"",""2"":""Extruderbeschickung""},""keywords_english"":{""3"":""Additive manufacturing"",""1"":""Metering systems"",""2"":""Extruder feeding""}}",317,"Egal ob Additive, Füllstoffe, Glasfasern, Granulate oder Pulver – wir wissen, wie wir Ihr Produkt handhaben müssen. Umfangreiche Erfahrung in der Gestaltung von Förder-, Extruderbeschickungs- oder Mischanlagen lässt uns für jede Herausforderung eine Lösung finden. 
+ Begriffe wie Atex und MAK-Werte sind für uns genau so selbstverständlich wie die produktschonende Förderung (Stichwort: Engelshaar). 
+ Erfahrung ist unsere Stärke: 
+ 
+ vollautomatische Materialzuführsysteme zum Extruder oder Mischer 
+ produktoptimierte Siloanlagen 
+ kontinuierliche und Batch-Mischsysteme 
+ Dosiersysteme für den kontinuierlichen oder Batch-Betrieb 
+ Befüll- und Enleersysteme für Säcke, Big-Bags und Silofahrzeuge 
+ Prozess-IT mit Prozessvisualisierung, Rezepturverwaltung und Chargenrückverfolgung 
+ 
+ Industriezweige 
+ 
+ Additivherstellung 
+ Blasbetriebe 
+ Dryblendhersteller, -verarbeiter 
+ Extruderbeschickung 
+ Folienherstellung 
+ Kunststoffhersteller 
+ Kalanderanlagen 
+ Profilextrudierbetriebe 
+ Recyclinganlagen 
+ Spritzgießbetriebe 
+ 
+ Produkte 
+ 
+ Flaschen 
+ Tanks 
+ Fässer 
+ Folien 
+ Rohre 
+ Profile 
+ Kabel 
+ Granulat 
+ Pulver 
+ Fußböden 
+ Beschichtungen 
+ Profile 
+ Rohre 
+ Stegplatten 
+ Paletten 
+ Bodenplatten 
+ Platten 
+ Formteile 
+ Elektroartikel 
+ Spielzeug 
+ 
+ Beispiele 
+ 
+ Siloanlagen 
+ Sackentleersysteme 
+ Big-Bag-Entleersysteme 
+ pneumatische Förderanlagen 
+ mechanische Förderanlagen 
+ gravimetrische und volumetrische Dosiersysteme 
+ Mischerzuführsysteme 
+ Kneterzuführsysteme 
+ Mischer 
+ Siebe 
+ Containersysteme 
+ Mühlen 
+ Absackanlagen 
+ Big-Bag-Befüllanlagen 
+ Lose-Verladeanlagen 
+ Anlagenautomatisierung 
+ Rezeptverwaltung 
+ 
+",COMPLETE,,,,1,304745
+6444,2025-12-03 04:51:37,2025-12-03 04:51:29,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/leistungen/engineering/,"Engineering Services 
+",https://derichs.de/wp-content/uploads/2016/09/Unternemen-Engineering-1-300x199.jpg,,,,,sku_price,,,1,"[{""catId"":616852,""catPath"":""Planning, engineering and development => Engineering Services => Engineering for Industrial Plants"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=616852""}]","{""keywords"":{""3"":""technical tools"",""1"":""engineering services"",""2"":""project management""},""keywords_english"":{""3"":""technical tools"",""1"":""engineering services"",""2"":""project management""}}",317,"From the first call until delivery of the finished plants and afterwards, you always will find a competent contact person at our company. The project manager of our engineering team is always available for you personally. Thus engineering becomes to the hub for the entire order processing. Sophisticated management systems and state-of-the-art technical tools are additional essential elements on the way to an optimal functioning plant. 
+ Most of our customers’ tasks require a harmonious co-operation between different trades. Motivated employees support our partners with their knowledge. In this way, even complex requirements were solved to reach an optimal, practical solution. 
+ In our technical facility we determine the specific properties of your bulk material. We’ll test the process and components of the future plant. With these experiments using your products on industrial scale, you will see before how your system will work afterwards. 
+ With the help of modern planning tools and 3D-CAD-systems detailed plans are created, both for the complete plant as well as for the individual components to be manufactured by us. In this phase we are able to react flexible to your spatial situation and to combine all components into a user-friendly, maintenance-friendly plant with a long service life. 
+",COMPLETE,,,,1,304797
+6445,2025-12-03 04:51:53,2025-12-03 04:51:45,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/produkte/dosieren/klappen-verteiler/,"Absperrklappe DVK 
+",https://derichs.de/wp-content/uploads/2016/09/Komponenten-Dosieren-Klappen_Verteiler-DKA-1-1024x683.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Dosieren-Klappen_Verteiler-DKA-2-1024x683.jpg""]",,,,sku_price,,,1,"[{""catId"":602377,""catPath"":""Valve technology => Shut-off Valves => Shut-off Valves"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=602377""}]","{""keywords"":{""2"":""Pneumatischer Drehantrieb"",""3"":""Dichtmanschette mit seitlichem Überstand"",""1"":""Absperrklappe DVK""},""keywords_english"":{""2"":""Pneumatic rotary actuator"",""3"":""Sealing sleeve with lateral overhang"",""1"":""Butterfly valve DVK""}}",317,"Die Absperrklappe DVK wird unter anderem als Ein- oder Auslaufklappe von Behältern sowie als Absperrklappe in Fallrohren oder Aspirationsrohrleitungen eingesetzt. Die Dichtmanschette mit seitlichem Überstand und zusätzlicher Dichtleiste gewährleistet eine ausreichende Abdichtung zwischen Absperrklappe und Flansch ohne zusätzliche Flanschdichtung. 
+ Die Absperrklappe DVK ist wahlweise lieferbar mit: 
+ • Rasterhebel für Handbetätigung 
+ • Pneumatischem Drehantrieb. Der Drehantrieb wird komplett mit Magnetventil und induktivem Näherungsschalter zur Stellungsrückmeldung, verkabelt auf eine 7-polige Buchse geliefert. 
+ • Pneumatischem Drehantrieb mit analoger Stellungsrückmeldung. Hiermit kann die Klappe mit geeigneter Software in jede gewählte Stellung gefahren werden. 
+ Der Drehantrieb wird komplett mit Magnetventil und Stellungsrückmeldung geliefert. Die Steuerspannung ist 24V/DC, der erforderliche Steuerdruck beträgt 6 bar bis 10 bar und die Schutzklasse ist IP67. 
+ Die Absperrklappe DVK ist lieferbar zur Montage zwischen Flanschen nach DIN PN6 oder alternativ nach DIN PN10. 
+",COMPLETE,,,,1,304709
+6446,2025-12-03 04:52:05,2025-12-03 04:51:59,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/produkte/foerdern/,"Pneumatic and Mechanical Conveyors 
+",https://derichs.de/wp-content/uploads/2016/08/foerdern-free-en.png,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Foerdern-Pneumatische-Foerderung-FPW-2-300x200.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Foerdern-Pneumatische-Foerderung-FPS_500-1-300x200.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Foerdern-Pneumatische-Foerderung-FPS_350-1_quer-300x200.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Foerdern-Pneumatische-Foerderung-FPD-1-300x200.jpg"",""https://derichs.de/wp-content/uploads/2016/09/komponenten-foerdern-mechanisch-FHM-haengebahnfoerderer_3-small.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Ferdern-Mechanische-Foerderung-FMS-R-2-300x200.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Foerdern-Mechanische-Foerderung-FMS-T-3-300x200.jpg""]",,,,sku_price,,,1,"[{""catId"":606331,""catPath"":""Conveyor technology => Conveyors => Conveyors (Other)"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=606331""}]","{""keywords"":{""3"":""Überkopf-Fördersystem FHM 1500"",""1"":""Pneumatische Förderanlagen"",""2"":""Vakuumfördereinheit FPS 500""},""keywords_english"":{""3"":""Overhead Conveyor System FHM 1500"",""1"":""Pneumatic Conveyors"",""2"":""Vacuum Conveying Unit FPS 500""}}",317,"Whether pneumatic or mechanical – we convey your product with the required quantity to the right place in your plant. 
+ Pneumatic Conveyors 
+ Feeder Diverter FPW 
+ Vacuum Conveying Unit FPS 500 
+ Vacuum Conveying Unit FPS 350 
+ Dense Phase Conveying System FPD 
+ Mechanical Conveyors 
+ Overhead Conveyor System FHM 1500 
+ Tubular Screw Conveyor FMS-R 
+ Trough Screw Conveyor FMS-T 
+",COMPLETE,,,,1,304800
+6447,2025-12-03 04:52:07,2025-12-03 04:52:00,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/referenzen/derichs-pulverlack-mischanlage-fuer-cws-powder-coatings/,"MBZ 1400 Batch Mixer for Powder Coatings 
+",https://derichs.de/wp-content/uploads/2020/02/DSC_4061-500x400.jpg,"[""https://derichs.de/wp-content/uploads/2019/04/CWS_Bild_3-500x400.jpg""]",,,,sku_price,,,1,"[{""catId"":600435,""catPath"":""Surface Engineering => Surface Treatment Devices => Powder Coating Equipment"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=600435""}]","{""keywords"":{""2"":""Reinigungstüren"",""3"":""Mischrotoren"",""1"":""Pulvermischanlage""},""keywords_english"":{""2"":""cleaning doors"",""3"":""mixing rotors"",""1"":""powder mixing plant""}}",317,"The powder coating manufacturer CWS from Düren, Germany, was looking for a flexible mixing plant with which ground powder coating components could be mixed into a finished powder coating. The high homogeneity with short mixing time and, above all, the good accessibility of the mixer for cleaning purposes were decisive for the choice of the Derichs batch mixer MBZ 1400. 
+ Mixing in the production of powder coatings must be carried out gently and in a time-saving manner. In modern mixing plants, high demands are made on homogeneity, mixing time and product protection for sensitive goods. The ability to clean the mixer without contamination in the shortest possible time is also an essential requirement. Cleaning time is lost time, which must therefore be reduced to a minimum. For this reason, Derichs has further developed the MBZ 1400 batch mixer, which has been tried and tested for many years, with regard to the cleaning option. The most important innovation here is the cleaning doors on both sides, which extend over almost the entire mixer width. These doors allow easy access to every point in the mixing chamber. The cleaning of the mixer can be done dry as well as wet. Cleaning plays a major role in the production of powder coatings, as this takes place several times a day. Due to the CIP nozzles and large cleaning doors on both sides, this mixer offers advantages to powder coating manufacturers. 
+ Gentle mixing 
+ The MBZ 1400 batch mixer can be used to mix batches of up to 1000 liters. It has a mixing chamber with two mixing rotors that rotate in opposite directions. The two mixing rotors build up a zone in the center of the mixer in which the product is fluidized. Here, the quasi-floating particles are mixed in a complex dynamic process due to the optimized shape and position of the mixing tools. Since the mechanical stress on the products is very low, even very sensitive products can be mixed. The mixer is emptied via an outlet flap with pneumatic swivel drive and a special seal located in the bottom of the mixing chamber. 
+ Accurate filling 
+ The mixed powder coatings can be filled either into big bags or cartons with PE bags. For this purpose, a fully automatic filling system for cartons was installed in addition to a big bag filling station. All other components of the filling line can also be quickly dismantled and wet cleaned. A driven roller conveyor, on which ten empty cartons can be placed, ensures that the packs are fed to the filling station and separated. The filling station with screw feeder and electronic scales ensures accurate filling. Up to ten filled cartons can be buffered on the downstream accumulating roller conveyor before they are manually closed and palletized. 
+",COMPLETE,,,,1,304769
+6448,2025-12-03 04:52:11,2025-12-03 04:52:04,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/produkte/mahlen/brecher/siebbrecher-zbs/,"Screen Breaker ZBS 
+",https://derichs.de/wp-content/uploads/2016/09/komponenten-mahlen-brecher-ZBS-Siebbrecher_01-small.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/komponenten-mahlen-brecher-ZBS-DSC_1373-small.jpg"",""https://derichs.de/wp-content/uploads/2016/09/komponenten-mahlen-brecher-ZBS-DSC_1372-small.jpg"",""https://derichs.de/wp-content/uploads/2016/09/komponenten-mahlen-brecher-ZBS-DSC_1367-small.jpg"",""https://derichs.de/wp-content/uploads/2016/09/komponenten-mahlen-brecher-ZBS-Siebbrecher_02-small.jpg""]",,,,sku_price,,,1,"[{""catId"":606283,""catPath"":""Filter and sieve technology => Sieves => Industrial Sieves"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=606283""}]","{""keywords"":{""3"":""Comminution Equipment"",""1"":""ZBS Sieves"",""2"":""Screen Breaker""},""keywords_english"":{""3"":""Comminution Equipment"",""1"":""ZBS Sieves"",""2"":""Screen Breaker""}}",317,"The Screen Breaker ZBS is particularly suitable for comminution of product agglomerates and clumps. The final grain size is thereby determined by the mesh width of the rapidly interchangeable sieves and the rotor speed. Sieve inserts with mesh widths of 2 to 15 mm are available. Due to the integrated screen effect, the downstream of an additional screen is usually not required. 
+ Functional principle: The beaters, which are located on the rotating shaft, push the product very carefully through the screen due to its rotating movement and shape. The optional grinding gap adjustment can additionally influence the grinding result. 
+ Application examples for the screen breaker are: 
+ 
+ After emptying bags and big bags 
+ Before entering a pneumatic conveyor 
+ After a belt and roller dryer 
+ After a mixer with liquid inlet 
+ Before filling bags or big bags 
+ 
+",COMPLETE,,,,1,305114
+6449,2025-12-03 04:52:25,2025-12-03 04:52:17,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/loesungen/,"Lösungen von Derichs 
+",https://derichs.de/wp-content/uploads/2016/08/Schuettungsysteme-1-300x199.jpg,"[""https://derichs.de/wp-content/uploads/2016/08/material-nahrung-free-300x162.png"",""https://derichs.de/wp-content/uploads/2016/08/material-chemie-free-300x162.png"",""https://derichs.de/wp-content/uploads/2016/08/material-kunststoff-free-300x162.png"",""https://derichs.de/wp-content/uploads/2016/08/material-pharma-free-300x162.png""]",,,,sku_price,,,1,"[{""catId"":616850,""catPath"":""Planning, engineering and development => Engineering Services => Engineering Services (Other)"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=616850""}]","{""keywords"":{""3"":""Synergieeffekte"",""1"":""Anlagenplanung"",""2"":""Ingenieurteam""},""keywords_english"":{""3"":""Synergy Effects"",""1"":""Plant Planning"",""2"":""Engineering Team""}}",317,"Mit Ihnen gemeinsam planen wir jede Anlage individuell zugeschnitten auf Ihr Produkt und Ihre Bedürfnisse. 
+ Ein Team erfahrener Ingenieure ist für Sie da, wenn es gilt, Ihre Aufgabenstellung genau zu definieren. 
+ Kombiniert mit Ihren Ideen und Anforderungen ergeben sich Synergieeffekte, die Ihnen zugute kommen. Sie profitieren dabei von einem umfangreichen Know-how, das wir in vielen Branchen und Ländern erworben haben. 
+",COMPLETE,,,,1,304731
+6450,2025-12-03 04:52:43,2025-12-03 04:52:36,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/produkte/mischen/kontimischer/,"Continuous Mixer MKP Series 
+",https://derichs.de/wp-content/uploads/2016/09/Komponenten-Mischen-Kontimischer-MKP-3-1024x682.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Mischen-Kontimischer-MKP-2-1024x682.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Mischen-Kontimischer-MKP-1-1024x683.jpg""]",,,,sku_price,,,1,"[{""catId"":600046,""catPath"":""Construction machinery and equipment => Construction Machinery & Construction Equipment => Continuous Mixers"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=600046""}]","{""keywords"":{""2"":""MKP Serie"",""3"":""Schüttgüter Mischen"",""1"":""kontinuierlicher Mischer""},""keywords_english"":{""2"":""MKP series"",""3"":""bulk goods mixing"",""1"":""continuous mixer""}}",317,"Due to the growing demand for continuous production processes, we included a suitable mixer in our production program. As an addition to our batch mixer, we are now able to equip complete dispensing systems with our own components in conjunction with our differential dosing units and conveyors. 
+ The Continuous Mixer MKP series are suitable for the continuous mixing of several free-flowing bulk goods as well as for the admixture of small amounts of liquid. 
+ Normally, the metering of the components is taken over by differential dosing units. 
+ The mixer is available in various sizes and versions in the materials as 1.4301, 1.4571 or also in normal steel – in food version with welded paddles welded on both sides. 
+ The holding time can be controlled by weir adjustment and material feeding. The mixing quality can also be influenced by changing the speed (frequency converter). Optionally the Continuous Mixer MKP can be equipped with a liquid addition. 
+ A large inspection door on the top ensures easy cleaning. The mixing capacity of the illustrated machine is up to 4000 liters per hour. A test device for mixing test is available at our test facility. 
+",COMPLETE,,,,1,304761
+6451,2025-12-03 04:53:40,2025-12-03 04:53:33,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/produkte/mischen/batchmischer/,"Chargentmischer MBZ 
+",https://derichs.de/wp-content/uploads/2016/09/Komponenten-Mischen-Batchmischer-MBZ-1-1024x683.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Mischen-Batchmischer-MBZ-2-1024x683.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Mischen-Batchmischer-MBZ-4-1024x683.jpg""]",,,,sku_price,,,1,"[{""catId"":600382,""catPath"":""Mechanical engineering, plant construction and apparatus construction => Mixing Technology => Mixing Technology (Other)"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=600382""}]","{""keywords"":{""3"":""kurze Mischzeiten"",""1"":""Chargenmischer MBZ"",""2"":""Batchmischer für Schüttgüter und Flüssigkeiten""},""keywords_english"":{""3"":""short mixing times"",""1"":""Batch Mixer MBZ"",""2"":""Batch Mixer for Bulk Materials and Liquids""}}",317,"Schneller und schonender Batchmischer für Schüttgüter und Flüssigkeiten 
+ Die wichtigsten Anforderungen an ein modernes Mischverfahren sind in dem Chargenmischer MBZ vereint: Homogene Mischungen, kurze Mischzeiten, produktschonendes Mischen und eine gute Zugänglichkeit zur Reinigung des Mischers. 
+ Die Mischzeit beträgt je nach Eigenschaften der zu mischenden Produkte zwischen 10 und 240 Sekunden. Der Chargenmischer MBZ ist in verschiedenen Größen lieferbar. 
+ Die zwei angetriebenen Mischerwellen bauen in der Mitte des Mischers eine Zone auf, in der das Produkt fluidisiert wird. In dieser fluidisierten Zone werden die quasi schwebenden Teilchen durch die optimierte Form und Stellung der Mischwerkzeuge in einen komplexen dynamischen Prozess gemischt. Da die mechanische Belastung der Produkte sehr gering ist, können auch sehr empfindliche Produkte gemischt werden. 
+ Je nach Baugröße ist der Chargenmischer MBZ mit einer oder zwei großen Reinigungstüren ausgerüstet, durch die jede Stelle im Mischraum zu Reinigungszwecken gut erreichbar ist. Die Reinigung kann sowohl trocken als auch nass erfolgen. In einer Stirnseite des Mischers sind zwei verschließbare Öffnungen vorgesehen, durch welche die Reinigungsflüssigkeit bei einer Nassreinigung ablau- fen kann. 
+ Optional kann der Chargenmischer mit einer Flüssigkeitszugabe ausgerüstet werden. Hierbei wird die Flüssigkeit mit einem oder mehreren Düsenköpfen in die Schwebezone des Produktes eingesprüht. 
+ Der Antrieb erfolgt durch einen Stirnradgetriebemotor (kein Kettenübertrieb) und zwei Kegelradgetriebe, mit denen die Mischerwellen synchronisiert werden. Mittels Lippendichtung und Luftspülung werden die Wellendurchgänge abgedichtet. 
+",COMPLETE,,,,1,304716
+6452,2025-12-03 04:54:19,2025-12-03 04:54:12,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/produkte/dosieren/klappen-verteiler/,"Shut-Off Flap DVK 
+",https://derichs.de/wp-content/uploads/2016/09/Komponenten-Dosieren-Austragen-Vibrationsboden-1-1024x683.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Dosieren-Klappen_Verteiler-DKA-2-1024x683.jpg""]",,,,sku_price,,,1,"[{""catId"":602377,""catPath"":""Valve technology => Shut-off Valves => Shut-off Valves"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=602377""}]","{""keywords"":{""3"":""Inductive Proximity Switch"",""1"":""Shut-Off Flap"",""2"":""Pneumatic Rotary Drive""},""keywords_english"":{""3"":""Inductive Proximity Switch"",""1"":""Shut-Off Flap"",""2"":""Pneumatic Rotary Drive""}}",317,"The Shut-Off Flap DVK is used as an inlet or outlet valve of containers and as a shut-off valve in down pipes or in aspiration pipe lines. The sealing collar with lateral overlap and additional sealing strip ensures a perfect seal between the shut-off valve and the flange without an additional flange seal. 
+ The Shut-Off Flap DVK is optionally available with: 
+ 
+ Manual hand lever - Pneumatic rotary drive. The rotary drive is delivered with solenoid valve and inductive proximity switch for position feedback, wired to a 7-pin socket. 
+ Pneumatic rotary drive with analogue position feedback. This allows the flap to be moved to any selected position with suitable software. 
+ 
+ The rotary drive is delivered with a solenoid valve and an inductive proximity switch for position feedback, as well as connector plug. The control voltage is 24V / DC, the required control pressure is 6 to 10 bar and the protection class is IP67 
+ The Shut-Off Flap DVK is available for installation between flanges according to DIN PN6 or alternatively according to DIN PN10. 
+",COMPLETE,,,,1,304787
+6453,2025-12-03 04:54:19,2025-12-03 04:54:12,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/loesungen/nahrung/,"Bulk Material Handling Systems for Food Industry 
+",https://derichs.de/wp-content/uploads/2016/08/Schuettungsysteme-Banchen-Nahrung-2-300x199.jpg,"[""https://derichs.de/wp-content/uploads/2016/08/ref1-rezeptgesteuerte_container-mischanlage.jpg"",""https://derichs.de/wp-content/uploads/2016/08/ref2-siloanlage-fuer-milchpulver.jpg"",""https://derichs.de/wp-content/uploads/2016/08/ref5-siloanlage-fuer-milch-und-molkepulver.jpg"",""https://derichs.de/wp-content/uploads/2016/08/ref6-produktionsanlage-fuer-paniermehl.jpg""]",,,,sku_price,,,1,"[{""catId"":600199,""catPath"":""Food technology => Food Plants"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=600199""}]","{""keywords"":{""3"":""dairy industry"",""1"":""bulk material handling systems"",""2"":""food industry""},""keywords_english"":{""3"":""dairy industry"",""1"":""bulk material handling systems"",""2"":""food industry""}}",317,"Whether sugar, starch, flour, milk or lactose powder, we know how to handle your product. Extensive experience in the design of food plants enables us to find a solution for every challenge. 
+ Terms like Atex and EHEDG are just as obvious to us as the food conformity according to EG directive 1935/2004. 
+ Additionally to our passion for the general food industry, we developed to the market leader for bulk material plants in the dairy industry. 
+ Experience is our strength: 
+ 
+ fully automated material feed systems for bulk materials and liquids 
+ product-optimized silo systems 
+ hygiene-optimized sampling systems 
+ continuous and batch mixing systems 
+ dosing systems for continuous or batch operation 
+ filling and emptying systems for bags, big bags and silo vehicles 
+ process IT with process visualization, recipe management and batch traceability 
+ 
+",COMPLETE,,,,1,304786
+6454,2025-12-03 04:55:32,2025-12-03 04:55:25,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/referenzen/,"DMK Baby – Beste Pulverqualität für Babynahrung 
+",https://derichs.de/wp-content/uploads/2019/11/DER_DMK_3531_038_03-550x400.jpg,,,,,sku_price,,,1,"[{""catId"":610620,""catPath"":""Food and beverage => Specialty Foods => Baby Food"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=610620""}]","{""keywords"":{""2"":""Pulverqualität"",""3"":""DMK Baby"",""1"":""Babynahrung""},""keywords_english"":{""2"":""powder quality"",""3"":""DMK Baby"",""1"":""baby food""}}",317,"Unsere Unternehmensgeschichte hat viele erfolgreiche Projekte in verschiedenen Bereichen beinhaltet. Wir haben unsere Erfahrung und Expertise in den Anlagenbau eingesetzt, wobei wir wichtige Kunden überzeugt und gewonnen haben. Die von uns realisierten Schüttgutanlagen bieten eine erfolgreiche Verschmelzung von Qualität und Technologie. 
+",COMPLETE,,,,1,304739
+6455,2025-12-03 04:55:45,2025-12-03 04:55:37,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/en/unternehmen/qualitaet/,"Certified Quality 
+",https://derichs.de/wp-content/uploads/2025/01/Derichs-BSFZ_Siegel-2025-e1737620124245-300x295.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/ehedg-logo-250.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Unternehmen_Quliatät_27072017_6_ENG-212x300.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Unternehmen_Quliatät_27072017_2_ENG-210x300.jpg"",""https://derichs.de/wp-content/uploads/2017/07/2689_CPR_2021-208x300.jpg"",""https://derichs.de/wp-content/uploads/2017/07/WPK_1090_2021-210x300.jpg"",""https://derichs.de/wp-content/uploads/2017/07/Unternehmen_Quliatät_27072017_3-212x300.jpg"",""https://derichs.de/wp-content/uploads/2017/07/Unternehmen_Qualitaet_ADRegelwerk_ab26112021-210x300.jpg""]",,,,sku_price,,,1,"[{""catId"":616731,""catPath"":""Measurement, testing and analysis services => Certification"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=616731""}]","{""keywords"":{""2"":""EHEDG hygiene standards"",""3"":""BSFZ seal of innovation"",""1"":""DIN EN ISO 9001 certification""},""keywords_english"":{""2"":""EHEDG hygiene standards"",""3"":""BSFZ seal of innovation"",""1"":""DIN EN ISO 9001 certification""}}",317,"Certified quality 
+ We accept the challenge of the market for higher quality standards of products and service. 
+ The work environment that is created by us gives every employee the opportunity to be motivated and committed to these requirements – because only through the contribution of each individual it is possible to pass error-free work results to the customer and thus contribute to the quality assurance of our products. 
+ The certification “welding specialist” according to DIN/ISO 1090-2 and the certification according to DIN EN ISO 9001 confirm what has been for us since 1818 naturally: 
+ Quality-oriented work of motivated, well-trained craftsmen in constant fair play with progress and technology. 
+ In accordance with the requirements of quality assurance, some of our components are designed according to EC-type examination certificate, directive 94/9 / EC, certified as safety protection system. The certification according to DIN EN ISO 9001 was extended by the certification “quality assurance production” (FTZU 05 / ATEX Q / 011). 
+ BSFZ seal confirms the innovative strength of Derichs Derichs has been awarded the exclusive BSFZ seal by the Federal Ministry of Education and Research. This seal is awarded to companies that have received at least one positive certificate for their research and development (R&D) activities from the BSFZ. The year indicated on the seal marks the year in which the certificate was issued and underlines the company’s internal R&D performance. 
+ The BSFZ seal is proof of our innovative competence in plant engineering and documents Derichs’ continuous developments aimed at sustainability, future viability and technical excellence. 
+ Background to the research allowance Since January 1, 2020, the Act on Tax Incentives for Research and Development (FZulG) has provided financial incentives for R&D expenditure for companies in Germany – regardless of their size, legal form or industry. The aim of this law is to strengthen Germany as a research location and to motivate small and medium-sized companies in particular to innovate. 
+ Source: Certification office for research grants 
+ Derichs is an EHEDG member – for more safety in food production As an active member of the European Hygienic Engineering and Design Group (EHEDG), Derichs is committed to meeting the highest hygiene standards in the food industry. The aim is to minimize potential hygiene risks and thus ensure consumer safety. 
+ We meet the strictest hygiene requirements for use in plant construction and support our customers in making their processes safe and efficient. 
+ What is the EHEDG? The European Hygienic Engineering and Design Group is an international association of experts, companies and institutions dedicated to improving hygiene in food production. Since its foundation in 1989, the non-profit organization has been committed to safe food by optimizing hygiene standards at all stages of production. 
+ With over 1,300 members from more than 55 countries, including equipment manufacturers such as HBM, food producers, research institutes and government authorities, the EHEDG promotes knowledge transfer and supports compliance with legal requirements. 
+ Tasks of the EHEDG The EHEDG unites industry, research and legislation in order to sustainably improve the quality and safety of food. Working groups develop practical guidelines based on EU hygiene directives such as EN 1672-2, EN ISO 14159 or EC Directive 2006/42/EC. 
+ These guidelines provide comprehensive instructions on the hygienic design, installation and maintenance of production facilities. The aim is to minimize contamination risks and ensure optimum cleanability. EHEDG test procedures and certificates guarantee compliance with European hygiene standards and provide additional security for companies using certified products. 
+ The EHEDG regularly organizes training courses and member congresses to promote further training and exchange. 
+ EHEDG guidelines at a glance The EHEDG guidelines place particular emphasis on easy maintenance, optimized cleaning and the use of suitable materials. Some of the central principles are 
+ Use of food-compatible, corrosion-resistant materials Smooth, non-porous surfaces without gaps or cracks Flow-optimized component geometries to avoid dead zones Designs that can be cleaned without disassembly (cleaning-in-place, CIP) Good accessibility and easy maintenance 
+",COMPLETE,,,,1,304791
+6469,2025-12-03 04:57:02,2025-12-03 04:56:55,b7852a64-6831-4ec0-b515-cf233571cd35,derichs.de,https://derichs.de/produkte/dosieren/austragen/,"Austragsschwingboden DAV 
+",https://derichs.de/wp-content/uploads/2016/09/Komponenten-Dosieren-Austragen-Vibrationsboden-4-1024x683.jpg,"[""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Dosieren-Austragen-Vibrationsboden-3-683x1024.jpg"",""https://derichs.de/wp-content/uploads/2016/09/Komponenten-Dosieren-Austragen-Vibrationsboden-2-683x1024.jpg""]",,,,sku_price,,,1,"[{""catId"":606340,""catPath"":""Conveyor technology => Conveyors => Vibratory Conveyors"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=606340""}]","{""keywords"":{""2"":""Vibrationsmotor"",""3"":""Schüttgüter"",""1"":""Austragsschwingboden""},""keywords_english"":{""2"":""Vibration motor"",""3"":""Bulk materials"",""1"":""Discharge vibrating floor""}}",317,"Austragen 
+ Sicheres und gleichmäßiges Austragen von Schüttgütern aus Silos und Behältern 
+ Der Austragsschwingboden DAV verbessert das Austragverhalten schwieriger Produkte aus einem Silo oder Pufferbehälter. Zudem vermindert er die Entmischung während des Austrags. 
+ Der Austragsschwingboden übernimmt das Produkt aus einem Silo oder Behälter über einen großen Querschnitt und trägt es durch einen wesentlich kleineren Querschnitt aus. Die Größe des eingesetzten Vibrations- bodens ist von der Silogeometrie und den Produkteigenschaften abhängig. 
+ Der Vibrationsboden DAV wird direkt an dem Silo- oder Behälterauslauf montiert. Eine speziell entwickelte elastische Manschette als Einlaufkompensator berücksichtigt gleichermaßen die Anforderungen an einen sicheren Sitz und eine hygienegerechte Verbindung. Der Vibrationsboden DAV ist mit einem stufenlos einstell- baren Vibrationsmotor ausgerüstet, der für eine horizontale Drehschwingung sorgt. Mit angepassten Schwingelementen an einer abrisssicheren Aufhängung ist eine Anpassung an den Einsatzfall möglich. 
+ Ein Silo kann direkt für den Vibrationsboden DAV konstruiert werden, eine nachträgliche Ausrüstung ist in vielen Fällen ebenfalls möglich. 
+ Die Auslieferung des Vibrationsbodens erfolgt komplett vormontiert mit Schwingungselementen, Vibrationsmotor und Einlaufkompensator. 
+ Vorteile 
+ 
+ Sicheres Austragen auch bei schwerfließenden Schüttgütern 
+ Gleichmäßiger Produktaustrag 
+ Verminderte Entmischung beim Austragen 
+ Bereits seit mehreren Jahrzehnten erprobte Einheiten 
+ Geringe Bauhöhe 
+ 
+ Optionen 
+ 
+ Material/Hygieneausführung 
+ Siloauslaufstutzen mit Aufhängepratzen zur Aufnahme des Austragsschwingbodens 
+ Auslaufklappe 
+ Dosierklappe 
+ Schwingungsentkopplung 
+ 
+",COMPLETE,,,,1,304705

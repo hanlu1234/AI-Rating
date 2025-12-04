@@ -1,0 +1,49 @@
+# 输入文件
+input/*.csv
+input/*.xlsx
+!input/input_template.csv
+TitleDescription/input/*.csv
+TitleDescription/input/*.xlsx
+
+# 结果文件
+results/*.csv
+TitleDescription/results/*.csv
+
+# 报告文件
+reports/*.html
+TitleDescription/reports/*.html
+
+# Scraper审计结果
+scraper/*_audit_result.xlsx
+scraper/report/*.xlsx
+
+# 环境变量
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+
+
+
+
+
+
+
