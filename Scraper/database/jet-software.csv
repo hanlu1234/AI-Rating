@@ -1,0 +1,594 @@
+﻿supplier_id,url,title,cate_info_ai,keyword_ai,description,status,reason
+45d2ccb1-3f54-4539-b276-a8a34878d623,https://www.jet-software.com/en/jet-security-bs2000-osd-english/,"Identity & Access Management for BS2000/OSD 
+","[{""catId"":613863,""catPath"":""Software => Software (Other)"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=613863""}]","{""keywords_english"":{""1"":""Identity and Access Management"",""2"":""BS2000/OSD"",""3"":""centralized logging""},""keywords"":{""1"":""Identitäts- und Zugriffsmanagement"",""2"":""BS2000/OSD"",""3"":""zentralisierte Protokollierung""}}","Identity & Access Management for BS2000/OSD. Product description 
+ 
+ Pool management of the data stations under one name 
+ Summary of the knowledge of groups 
+ Dynamic changes in access rights 
+ Optional behavior with LOGON-false tests 
+ Simplification of management by summary 
+ Optional logging of (also invalid) log attempts 
+ Central and audit-proof logging of all input 
+ 
+ Our software has been successfully active for over 39 years in german federal and state authorities, private and large banks, social and private insurance, international service providers, medium-sized companies and large enterprises. Here you will find a brief overview. 
+ For further information you can find here a detailed brochure, the link opens a PDF-file. 
+ Please contact us for further questions or for a non-binding and free test version via the contact form, by phone or by e-mail. 
+",COMPLETE,
+45d2ccb1-3f54-4539-b276-a8a34878d623,https://www.jet-software.com/en/jet-security-unix-linux-english/,"Identity & Access Management for Linux/UNIX 
+","[{""catId"":613699,""catPath"":""Safety and rescue technology => Security Technology => Access Control"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=613699""}]","{""keywords_english"":{""1"":""Identity and Access Management"",""2"":""Linux/UNIX"",""3"":""Centralized Logging""},""keywords"":{""1"":""Identitäts- und Zugriffsverwaltung"",""2"":""Linux/UNIX"",""3"":""Zentralisierte Protokollierung""}}","Identity & Access Management for Linux/UNIX 
+ Product description 
+ 
+ Pool management of the data stations under one name 
+ Summary of the knowledge of groups 
+ Dynamic changes in access rights 
+ Optional behavior with LOGON-false tests 
+ Simplification of management by summary 
+ Optional logging of (also invalid) log attempts 
+ Central and audit-proof logging of all input 
+ 
+ Our software has been successfully active for over 39 years in german federal and state authorities, private and large banks, social and private insurance, international service providers, medium-sized companies and larg enterprises. Here you will find a brief overview. 
+ For further information you can find here a detailed brochure, the link opens a PDF-file. 
+ Please contact us for further questions or for a non-binding and free test version via the contact form, by phone or by e-mail. 
+",COMPLETE,
+45d2ccb1-3f54-4539-b276-a8a34878d623,https://www.jet-software.com/en/data-integration-fast-and-easy-iri-etl-tools-elt/,"IRI Voracity ELT Platform 
+","[{""catId"":616216,""catPath"":""IT solutions => Programming => Database Programming"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=616216""}]","{""keywords_english"":{""1"":""ELT Platform"",""2"":""Fast Data Extract"",""3"":""Data Transformation""},""keywords"":{""1"":""ELT Platform"",""2"":""Fast Data Extract"",""3"":""Data Transformation""}}","Overview 
+ In ELT (extract, load, transform) operations, database extracts are fed into a staging database which performs the transformations. 
+ Extraction 
+ Using native drivers and specialized parallel extraction techniques, IRI FACT (Fast Extract) rapidly unloads data from tables in: Oracle, DB2, Sybase, MySQL, SQL Server, Altibase, Greenplum, and Teradata. 
+ FACT produces flat files containing the selected data with incredible speed. FACT uses SQL query syntax to help you get the data you need. Built-in formatting options support your target's formatting requirements. 
+ Loading 
+ By pre-sorting the extracts, you can dramatically improve the performance of any relational database load utility. Any of the high-performance sort utilities in IRI CoSort can pre-sort the flat files, along with web logs, COBOL index files, and other data sources bound for your data warehouse database or other applications. 
+ Transformation 
+ In ELT operations, an RDBMS usually performs the transformations. Built-in ER diagramming, database profiling, and graphical SQL editing tools in the IRI Workbench IDE for Voracity, built on Eclipse, facilitate SQL operations. Consider also the chance to ""lighten the load"" of transformations before or after loading. The SortCL program in Voracity or CoSort performs all the same data transformations that SQL does. But SortCL does them much faster, in a single I/O pass outside the database. 
+ SortCL scripts are also smaller and simpler, and use central metadata that is standard across all supported IRI data sources. SortCL can transform the data in the flat-file extracts, or in the tables themselves. Both FACT and CoSort are available separately, or as part of the IRI Data Manager software suite or IRI Voracity data management platform with visual workflow. You can design, run, and manage the operations of all IRI software in the same free IRI Workbench GUI. 
+",COMPLETE,
+45d2ccb1-3f54-4539-b276-a8a34878d623,https://www.jet-software.com/en/sortcl-program/,"SortCL 
+","[{""catId"":613922,""catPath"":""Software => Application Software => Data Analytics Software"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=613922""}]","{""keywords_english"":{""3"":""big data integration"",""2"":""data transformation software"",""1"":""data manipulation program""},""keywords"":{""3"":""big data integration"",""2"":""data transformation software"",""1"":""data manipulation program""}}","SortCL is the powerful data manipulation program and popular user interface driving almost every IRI software product. Short for Sort Control Language, SortCL is the name of IRI's: 
+ 
+ award-winning fourth generation data definition and manipulation language (4GL) 
+ standalone data handling executable that follows those 4GL instructions 
+ internal, callable library routine that the executable (or your 3GL program) calls internally to process data 
+ 
+ SortCL scripts and jobs describe and consolidate data mappings and manipulations. They support many data source and target formats (including custom reports) in IRI CoSort and its spin-off products: 
+ 
+ IRI NextForm, for data and DB migration and replication 
+ IRI FieldShield, and IRI DarkShield for PII classification, masking, and auditing 
+ IRI RowGen, for synthetic test data generation and population 
+ IRI Voracity, which includes all of the above, supporting and combining multiple data profile/search, integration (ETL), migration, governance, and analytic use cases. The Hadoop-enabled edition of Voracity can also run several SortCL programs interchangeably in MapReduce 2, Spark, Spark Stream, Storm, and Tez. 
+ 
+ SortCL is therefore what makes CoSort and Voracity a one-stop, one-I/O ""super tool"" for data transformation, conversion, cleansing, mapping, and reporting. SortCL's extensive data movement and manipulation capabilities -- detailed in the tabs above, and listed in this diagram under the CoSort logo -- can run in a single job and pass through huge volumes of data. 
+ SortCL performs the same tasks for Voracity licensees, who can see them illustrated in modern transform mapping diagrams. ETL and solution architects with big data appreciate its ability to combine data integration, remapping, cleansing, masking, and BI operations, and the dramatic differences it makes in information delivery and compliance outcomes: 
+ No Experience Necessary 
+ SortCL uses an open, explicit metadata to define, manipulate and reformat data in more than 150 disparate file and database sources. SortCL syntax is self-documenting; anyone can read, recognize, and modify SortCL programs with ease. 
+ SortCL uses simple English statements based originally on VMS sort parms, and also familiar SQL, C, and PCRE syntax. Unlike cryptic ETL, 3GL, and MapReduce programs, no training is needed to understand what a SortCL script will do. 
+ But for those who cannot or simply will not learn another language, there's a powerful GUI to save them from it. IRI Workbench is a graphical integrated development environment (IDE), built on Eclipse,™ for creating, running, sharing, and modifying SortCL jobs, and their ""data definition file (DDF)"" source and target layouts. 
+ Did You Know? 
+ SortCL was introduced in 1992. It remains so widely adopted because it is uniquely explicit, open, and powerful. SortCL has met its design goals to be: 
+ 
+ modular, so you can keep adding functions into the same I/O pass 
+ extensible enough for complex data transformations and reporting 
+ clear so that anyone can create, read, re-use, and expand its jobs familiar to JCL users, SQL-savvy DBAs, and DW/BI data architects 
+ faster than SQL and ETL tools, without the DB or server overhead 
+ executed (not compiled!) in real-time, batch, CLI, API, and GUI ops 
+ portable, so its jobs run on all Unix, Linux, and Windows platforms 
+ integrated easily into new applications, SaaS uses, or ASP models 
+ 
+ SortCL job scripts perform, speed, and/or combine: big data transformation, conversion, protection, and BI in the world's largest production environments. 
+ Metadata Interoperability 
+ Quickly find and re-use SortCL metadata in multiple IRI products and projects to meet your data processing, protection, presentation, and prototyping requirements. Use SortCL job scripts and DDF layouts across the IRI ecosystem, and manage their use and lineage directly in Eclipse or available cloud repositories like Git, CVS, and SVN. 
+ SortCL DDF is also compatible with the Erwin (formerly AnalytiX DS) Mapping Manager, and the Meta Integration Model Bridge (MIMB) from Meta Integration Technology, Inc. Convert the metadata already used in your BI, CRM, database, ETL, and modeling tools, into the metadata used in all IRI software. This preserves your investment in existing metadata, and allows you to more quickly leverage the benefits of IRI software running with (or instead of) those applications. 
+",COMPLETE,
+45d2ccb1-3f54-4539-b276-a8a34878d623,https://www.jet-software.com/en/sort-replacement-jcl-sort/,"CoSort Sort Control Language (SortCL) for MVS and VSE JCL Sort Operations 
+","[{""catId"":613866,""catPath"":""Software => System Software => Utilities"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=613866""}]","{""keywords_english"":{""1"":""CoSort Sort Control Language"",""2"":""JCL Sort Operations"",""3"":""Metadata Conversion Utilities""},""keywords"":{""1"":""CoSort Sort Control Language"",""2"":""JCL Sort Operations"",""3"":""Metadata Conversion Utilities""}}","Overview 
+ bin/sort 
+ JCL SORT 
+ Micro Focus COBOL 
+ Natural 
+ SAS 
+ UniKix 
+ Challenges 
+ You need to re-host, and eventually expand upon, your legacy sort jobs when migrating to another platform. MVS (z/OS) and VSE JCL sort steps will not work in a Unix shell or Windows command line environment. 
+ Parm conversion is necessary, and there are multiple price-performance considerations. You thus need: 
+ 
+ functional equivalence 
+ lower operational costs 
+ equal or better sorting performance 
+ a more modern application syntax 
+ support for more data transformation and reporting functionality 
+ 
+ Solutions 
+ IRI CoSort users have been successfully converting JCL sort operations to Unix, Linux, and Windows systems for more than 30 years. 
+ Free metadata conversion utilities (mvs2scl and vse2scl) in the CoSort package translate z/OS (MVS) and VSE JCL parms written for IBM DF-SORT (ICEMAN) CA-SORT, or SYNCSORT, into CoSort Sort Control Language (SortCL) program job scripts. 
+ SortCL can accomplish all the functions of mainframe sort software -- and many of the reporting and replication tasks of utilities like File-AID, ICETOOL, and IEBGENER -- on 'open systems' ... usually faster, and certainly cheaper. 
+ Beyond rehosoting efforts, there are many application modernization benefits and more data management possibilities. Users of the larger IRI Voracity platform, powered by CoSort, can leverage a complete range of capabilities in data discovery, integration, migration, governance, and analytics. 
+ The IRI CoSort package -- and its Sort Control Language (SortCL) program in particular -- is the oldest, and still industry-preferred destination for sort parms written for z/OS (MVS) and VSE JCL sort software, first propagated by IBM in DF-SORT. 
+ CoSort includes free sort card conversion utilities called MVS2SCL and VSE2SCL. These utilities translate the relevant sort (select, sum, etc.) steps from a JCL stream into a functionally-equivalent SortCL job specification file that will run on Unix, Linux, and Windows. Metadata is converted and accommodations are made for multiple output and data types. 
+ These advanced sort parm conversion tools also set up job scripts that can leverage the full range of CoSort data transformation, conversion, reporting, and protection functionality for all structured data sources off the mainframe. 
+ The conversion wizard shown below demonstrates the conversion of one or more mainframe sort decks to SortCL job scripts. You can browse to identify the location of the parms, and then automatically convert them for use in SortCL. 
+ The middle window shows advanced options available for these conversions. The bottom window shows from left to right: project explorer files (including the source and target job scripts), an editor displaying the source job script, a display of the target job script, and a tree view of the components of the target job script. 
+ https://www.jet-software.com/wp-content/uploads/2018/07/legacy_script_conversion.jpg 
+ Related Solutions 
+ 
+ Data Transformation 
+ Data Integration 
+ 
+ Product Links 
+ 
+ IRI CoSort (Transformation) 
+ IRI CoSort > SortCL Program 
+ 
+ Blog Articles 
+ 
+ MVS2SCL Converts z/OS JCL to SortCL 
+ VSE2SCL Converts z/OS JCL to SortCL 
+ 
+ Other Resources 
+ 
+ Partners > Experts > Legacy Migrations 
+ 
+",COMPLETE,
+45d2ccb1-3f54-4539-b276-a8a34878d623,https://www.jet-software.com/en/data-masking-static-data-masking-twiddle/,"ASCII De-ID: One of several data masking function dialogs in the IRI Workbench GUI for FieldShield, built on Eclipse.™ 
+","[{""catId"":616254,""catPath"":""IT solutions => Data Destruction"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=616254""}]","{""keywords_english"":{""3"":""IRI Workbench"",""2"":""FieldShield data masking"",""1"":""ASCII De-ID""},""keywords"":{""3"":""IRI Workbench"",""2"":""FieldShield data masking"",""1"":""ASCII De-ID""}}","Anonymize 
+ Custom 
+ Encode 
+ Encrypt 
+ Hash 
+ Pseudonymize 
+ Randomize 
+ Redact 
+ Scramble 
+ Twiddle 
+ Shift 
+ Tokenize 
+ Challenges 
+ You need to remove the personally identifiable characteristics of data. At the same time, that data needs to be individualized so it can flow safely de-identified through different departments and, where necessary, be re-identified. 
+ De-identified data should also resemble its original format. Its length, data type, or even a real-looking but different value is needed for ongoing operations and testing. Field encryption does not accomplish this goal when the ciphertext length exceeds the original field length, and data realism is lost. 
+ The format-preserving encryption (FPE), or format-preserving scramble functions, on the other hand, can be desirable options, though in some cases may be overkill or time-consuming. 
+ Solutions 
+ The IRI FieldShield data masking product (as well as the IRI Voracity data management platform which includes FieldShield and DarkShield) includes many static-data masking functions, including the ability to ""roll your own."" Among the built-in functions to de-identify ASCII data is a character-level twiddling or bit manipulation routine to replace values (formerly referred to as the ASCII de-ID and re-ID function) You can use this less secure data scrambling function when speed is of the essence, and you simply want to obfuscate the column value in a unique and recoverable way. 
+ https://www.jet-software.com/wp-content/uploads/2018/05/de-id.jpg 
+ ASCII De-ID: One of several data masking function dialogs in the IRI Workbench GUI for FieldShield, built on Eclipse.™ 
+ Like the other field-level de-identification methods in FieldShield, this function can be applied to less sensitive, but perhaps quasi-identifying data, to help you comply with data privacy regulations, while leaving your non-sensitive data available for further processing. This use of this function, like all the others, gets recorded into FieldShield's XML audit log to help you verify compliance. 
+ See the other functions tabbed across the this section if you are looking for other ways to de-identify data. See the HIPAA page on PHI de-identifcation, and the dynamic data masking capabilties. 
+ If you need safe, realistic test data, use FieldShield-compatible IRI RowGen software in the IRI Data Protector suite to create test database, file, and report targets. 
+",COMPLETE,
+45d2ccb1-3f54-4539-b276-a8a34878d623,https://www.jet-software.com/en/fact-english/,"IRI FACT 
+","[{""catId"":613922,""catPath"":""Software => Application Software => Data Analytics Software"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=613922""}]","{""keywords_english"":{""1"":""parallel query technology"",""2"":""data warehousing operations"",""3"":""database migration""},""keywords"":{""1"":""parallel query technology"",""2"":""data warehousing operations"",""3"":""database migration""}}","FACT speeds unloads up to 7x with parallel query technology. Performance scales linearly in volume, allowing you to extract billions of rows in minutes. 
+ Many DBs, One UnloaderFACT works with Oracle, MySQL, DB2 UDB, Sybase, SQL Server, et al. Create simple job scripts by hand, or automatically in the IRI Workbench GUI, built on Eclipse™. 
+ Data Ready for EveryoneFACT produces flat files that any application can use. Plug into and feed ETL operations and offline reorgs, archive your data, migrate your databases, and more. 
+ Accept cookies to view the content. 
+ FACT Use Cases 
+ Unloading Oracle ""We have used FACT for almost 10 years to speed Oracle table unloads. We tried multiple alternatives and nothing could beat FACT's extraction speed."" 
+ Faster Data Movement ""FACT helps us move data between massive DB sources and targets efficiently. We see FACT as an integral performance piece of our data warehousing operations."" 
+ The Big E in ETL ""FACT is an essential component of our banking application because it, along with CoSort, runs faster and cheaper than any legacy ETL technology can."" 
+ Do You Need FACT? Find Out! 
+ Consider FACT if you are ... 
+ 
+ Are you a data warehouse ETL / ELT architect, or DBA needing faster extraction? 
+ Do you experience unload, query, or load bottlenecks with large transaction tables? 
+ Are you responsible for DB archive, replication, migration, or subsetting operations? 
+ Upgrading or leaving Oracle, DB2, Sybase, MySQL, SQL Server, Altibase, or Tibero? 
+ Noticing slower query response times from unordered rows or fragmented table space? 
+ 
+ Speed Multiple Databases and Applications 
+ Fast Extract Tables from: 
+ Oracle DB2 UDB Sybase MySQL SQL Server Altibase Greenplum Teradata Tibero 
+ FACT is Critical for: 
+ Data Archive Data Migration Data Protection Data Replication DW ETL DW ELT ODSOffline ReorgsOffline Reporting 
+ What Others Are Reading 
+ Unload Big Data from Oracle Among the key issues for companies who need to unload big data from Oracle, DB2, Sybase and SQL Server are speed, scalability, and simplicity. Read now. 
+ DB Reorgs - Why They Matter Over time, data in large RDBMS tables eventually become fragmented. Reorgs can save table space and improve query performance. Read now. 
+ ETL vs. ELT: We Posit, You Judge The decision to transform data inside or outside the database has significant speed, support, and spend consequences. Read now. 
+",COMPLETE,
+45d2ccb1-3f54-4539-b276-a8a34878d623,https://www.jet-software.com/en/db-operations-mysql/,"Speed and Secure MySQL 
+","[{""catId"":613921,""catPath"":""Software => Application Software => Database Software"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=613921""}]","{""keywords_english"":{""1"":""MySQL Unloads"",""2"":""MySQL Reorgs"",""3"":""MySQL Test Data""},""keywords"":{""1"":""MySQL Unloads"",""2"":""MySQL Reorgs"",""3"":""MySQL Test Data""}}","Overview 
+ Cassandra 
+ DB2 UDB 
+ MongoDB 
+ MySQL/MariaDB 
+ Oracle 
+ PostgreSQL 
+ SAP HANA 
+ Snowflake 
+ SQL Server 
+ Sybase 
+ Teradata 
+ Challenges 
+ You may face one or more of these time-consuming issues working with MySQL: 
+ 
+ Data discovery: profiling, classification, ERDs 
+ Unloading and loading large tables 
+ Routine utility operations (reorgs) 
+ Complex queries 
+ Migration or replication 
+ Masking sensitive data 
+ Generating smart, safe test data 
+ 
+ Specific performance diagnoses and tuning also take time and may affect other users. Finally, stored SQL procedures may also be programmed inefficiently, require optimization, then still take too long to run. 
+ Solutions 
+ Speed MySQL Unloads 
+ IRI FACT (Fast Extract) to speed MySQL unloads. Use SQL syntax in FACT's CLI or GUI to dump table data to flat files. 
+ Specify SELECT * from the table so you do not encumber the unload with qualifiers like distinct, order by, and group by. But once that data are in the flat file, use the SortCLprogram in IRI CoSort to de-dupe, sort, join, group (and report on) the extracts far faster ... in parallel, outside the database. 
+ Speed MySQL Loads 
+ IRI CoSort to pre-sort flat files for bulk bcp imports. 
+ Create the clustered index first and pre-sort the input files (on the primary index key) to shorten the create index step. Use the SORTED_DATA option when creating indexes to reflect that CoSort bypassed the slower sort in bcp. 
+ Speed MySQL Reorgs and Queries 
+ Offline Reorg wizard in the IRI Workbench to combine and automate the combination of the above fast extraction, sorting, and re-loading operations for classic (offline) MySQL reorgs, which facilitate the maintenance of your tables in optimal query order. 
+ Externalize SQL Transformations 
+ IRI CoSort to relieve the database of processing overhead. Leverage file system I/O, multi-threading, and the proven data transformation power and consolidation of the CoSort SortCL program. 
+ Migrate and Replicate MySQL Databases 
+ IRI NextForm-Database edition to acquire, re-map, re-format, and build/populate new tables during migrations to and from MySQL. You can also use IRI NextForm or the SortCL program in IRI CoSort to re-map and convert data in MySQL, produce custom reports, copies, and federated views of data. 
+ Mask Data in MySQL Columns 
+ IRI FieldShield to mask sensitive data in MySQL, like personally identifiable information (PII) or protected health information (PHI), FieldShield applies masking, encryption, and other de-identifying functions to one or more columns at a time. Use FieldShield to comply with privacy laws like HIPAA, PCI DSS, FERPA, and GDPR. 
+ Generate MySQL Test Data 
+ IRI RowGen to rapidly populate MySQL operations with safe test data. RowGen uses your data models to automatically generate the test data for an entire database with referential integrity. 
+",COMPLETE,
+45d2ccb1-3f54-4539-b276-a8a34878d623,https://www.jet-software.com/en/bi-analytics-bi-tool-acceleration-birt/,"BIRT Integration with IRI CoSort 
+","[{""catId"":613882,""catPath"":""Software => Application Software => Business Software => Business Intelligence Software"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=613882""}]","{""keywords_english"":{""1"":""BIRT Integration"",""2"":""CoSort Data Preparation"",""3"":""Eclipse Reporting Tool""},""keywords"":{""1"":""BIRT Integration"",""2"":""CoSort Data Preparation"",""3"":""Eclipse Reporting Tool""}}","BI Business Intelligence Reporting Tool (BIRT) is the free, open source reporting system built on Eclipse™. Millions of developers use BIRT worldwide. 
+ BIRT is also the foundation of the OpenText BIRT iHub, a commercial extension for advanced dashboards, scorecards, predictive analytics, and other sophisticated data visualizations and rich internet applications. 
+ IRI collaborated with OpenText to combine IRI CoSort data preparation with free or commercial BIRT visualizations in Eclipse. BIRT works directly with the CoSort SortCL program in the same Eclipse GUI to produce powerful reports from immediate fit-for-purpose data sets. 
+ IRI's innovative data integration technology enables its users to prepare big data for BIRT either statically or dynamically. This dynamic integration provides for seamless metadata exchange and data flows for end-to-end data preparation and presentation -- from SortCL to BIRT. 
+",COMPLETE,
+45d2ccb1-3f54-4539-b276-a8a34878d623,https://www.jet-software.com/en/bi-analytics-bi-tool-acceleration-microstrategy/,"Accelerate MicroStrategy 
+","[{""catId"":613882,""catPath"":""Software => Application Software => Business Software => Business Intelligence Software"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=613882""}]","{""keywords_english"":{""3"":""SortCL performance"",""2"":""data transformation"",""1"":""MicroStrategy BI""},""keywords"":{""3"":""SortCL performance"",""2"":""data transformation"",""1"":""MicroStrategy BI""}}","Accelerate MicroStrategy 
+ Transform Data Outside the BI Layer for Speed 
+ Overview 
+ BIRT 
+ BOBJ 
+ Cognos 
+ Cubeware 
+ Datadog 
+ Excel 
+ iViz 
+ Knime 
+ MSTR 
+ OBIEE/DV 
+ Power BI 
+ QlikView 
+ R 
+ Splunk 
+ Spotfire 
+ Tableau 
+ MicroStrategy delivers visual information on cumulative financial performance, strategy management, and business intelligence, typically for analytic purposes. The SortCL program in the IRI Voracity platform or constituent IRI CoSort product transforms disparate, structured data into CSV and other popular 'feed' file formats outside the BI layer. 
+ When SortCL sorts, joins, and aggregates raw datasets in a single job and I/O pass ahead of MicroStrategy, users can get their BI results in half the time. 
+ In a recent benchmark, it took a MicroStrategy user 193 seconds to produce a report requiring sort, join, and aggregate transformations. SortCL ran the same transformations externally in 23 seconds. Its data was available to multiple applications. The same user needed another 77 seconds to run the same report using SortCL data, making the new total runtime 100 seconds. 
+ https://www.jet-software.com/wp-content/uploads/2018/04/sortjoinagg1.jpg 
+ For more information on the benchmark and how CoSort interacts with MicroStrategy, klick here. 
+",COMPLETE,
+45d2ccb1-3f54-4539-b276-a8a34878d623,https://www.jet-software.com/en/data-integration-fast-and-easy-iri-etl-tools-flat-file-etl/,"IRI SortCL and Voracity for Flat-File ETL 
+","[{""catId"":613922,""catPath"":""Software => Application Software => Data Analytics Software"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=613922""}]","{""keywords_english"":{""1"":""SortCL"",""2"":""Voracity"",""3"":""ETL""},""keywords"":{""1"":""SortCL"",""2"":""Voracity"",""3"":""ETL""}}","Flat, or sequential, files are a convenient, common format for data exchange. Because they carry little to no storage or access overhead, they are also one of the fastest source formats for data access, manipulation, loading, and reporting. That is one reason why the IRI FACT (Fast Extract) product exists - to produce flat files from big database tables. 
+ If you store or use data in fixed or delimited file formats, you may already know that IRI CoSort continues been the fastest data transformation tool for flat files in Unix, Linux and Windows file systems. In 1992, IRI built a popular 4GL for CoSort called SortCL to perform multiple data transformations and generate reports, all in the same job script and I/O pass through large files. 
+ SortCL is still available to CoSort package users, and is also the default data manipulation engine for flat files (and other data sources) in the full IRI Voracity ETL package. 
+ Voracity is a total data management platform built on Eclipse -- and powered by CoSort or Hadoop -- that consolidates data discovery, integration, migration, governance and analytics. Flat-file data movement, manipulation, and management activities are best served in this visual design, and deployment environment. 
+ Start with the flat-file profiler in the free IRI Workbench GUI for ETL, built on Eclipse™. The flat-file profiling and metadata definition wizards produce statistics, search for values matching patterns or strings, and create metadata for use in your transformation, reporting, masking, and other jobs. 
+ As you run SortCL-based transformations in CoSort wizards -- or full ETL workflows in Voracity wizards or diagrams -- you can re-use auto-created data definition file (.DDF) metadata for your sources. These files contain field names and attributes which serve as symbolic references in the underlying SortCL scripts that specify the source-target mappings and custom report layouts. 
+ The SortCL job scripts or XML workflows (containing those scripts) that perform the ETL can run on the command line, from batch (shell) scripts, or from within the IRI Workbench ... either ad hoc or on defined schedules. Voracity users can also preview mapping results before executing the whole workflow. 
+ Whether you define ETL jobs with CoSort (.scl) or Voracity (.flow) jobs, you'll benefit from task consolidation, and proven file system I/O, memory, and multi-core optimization techniques. Remove the overhead of high-volume transformation from DB and BI layers, and preclude the need for more hardware, in-memory DBs, and even Hadoop. 
+ In addition to outstanding runtime performance, simple 4GL metadata speeds job creation and modification, and is much easier to learn and program than 3GL, PL/SQL, shell scripts, and ETL tools. 
+ What You Can Do 
+ In one job script (and I/O pass), you can: 
+ 
+ Input one or more large sequential sources 
+ Run multiple transforms (filter, sort, join, etc.) 
+ Compare files to capture changes and BI 
+ Re-map, re-format, and pivot fields 
+ Create segmented, customized reports 
+ Convert data types and file formats 
+ Mask or unmask PII at the field level 
+ Generate test data in one or more file formats 
+ Output to multiple targets simultaneously, including custom-formatted reports 
+ 
+ This diagram illustrates SortCL's capabilities in the CoSort product for flat-file transformation, conversion, protection, and reporting -- all in the same pass. 
+ This diagram illustrates SortCL's capabilities in the Voracity platform. The same single-pass capabilities are available here, but in a total data management (curation) environment. 
+ In Voracity you can mash-up flat-file data with data in relational databases, dark (document) data, legacy, and ""modern"" big data (Hadoop, NoSQL, cloud and SaaS) platforms. And, you can use it to mask sensitive file data at the field level, while you manipulate and munge it for BI and analytic tools. 
+",COMPLETE,
+45d2ccb1-3f54-4539-b276-a8a34878d623,https://www.jet-software.com/en/bi-analytics-bi-tool-acceleration-qlikview/,"IRI CoSort for QlikView 
+","[{""catId"":616252,""catPath"":""IT solutions => Big Data & Data Analytics"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=616252""}]","{""keywords_english"":{""3"":""Big Data Preparation"",""2"":""QlikView Integration"",""1"":""IRI CoSort""},""keywords"":{""3"":""Big Data Preparation"",""2"":""QlikView Integration"",""1"":""IRI CoSort""}}","QlikView is a very popular data visualization tool that features in-memory calculations and is renown for its relative ease-of-use. However, like most business intelligence tools, QlikView is not designed for big data integration (or masking) prior to its presentation. 
+ The SortCL program in the IRI CoSort product or IRI Voracity platform is a fast, simple, and inexpensive way to prepare big data for QlikView efficiently -- both in terms of job design and runtime performance. See this section to understand why. 
+ When SortCL integrates raw data sets in a single job and I/O pass ahead of QlikView, time-to-visualizations like these is much faster: 
+ https://www.jet-software.com/wp-content/uploads/2018/04/qlikview-graph-e1420652775559.png 
+ In a 2015 benchmark with only 20M records on an average PC, CoSort prepared the same data results for the QlikView visualization above 12 times faster than QlikView could. For details, klick here. 
+",COMPLETE,
+45d2ccb1-3f54-4539-b276-a8a34878d623,https://www.jet-software.com/en/data-masking-static-data-masking-hash/,"Hashing Solutions 
+","[{""catId"":616628,""catPath"":""Measurement, testing and analysis services => Testing => Data Protection Testing"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=616628""}]","{""keywords_english"":{""1"":""Hashing"",""2"":""Data Masking"",""3"":""SHA Algorithms""},""keywords"":{""1"":""Hashing"",""2"":""Data Masking"",""3"":""SHA Algorithms""}}","Overview 
+ Anonymize 
+ Custom 
+ Encode 
+ Encrypt 
+ Hash 
+ Pseudonymize 
+ Randomize 
+ Redact 
+ Scramble 
+ Twiddle 
+ Shift 
+ Tokenize 
+ Hashing is a difficult-to-reverse data masking technique that converts a variable length ""message"" (e.g., someone's password) into an obfuscated, fixed-length, alphanumeric string. The message digest, or ""hash value,"" can be an indexed look-up for the message. Sometimes there is more than one message per index (a ""collision""). 
+ Because hashing is not as strong as encryption, or as reliably reversible, it is sometimes suitable for masking alone. More commonly, however, hashing is used with encryption. IRI supplies SHA1 and SHA2 hashing algorithms along with several encryption functions. 
+ Hash functions are also used to generate checksums or Message Authentication Codes (MAC). These are created and sent along with messages like emails, EFTs, or passwords. When the message is received, its contents are run through the same hash function to create a new MAC. If the original and new MACs match, the message is authentic; if they do not, the message is likely to have been altered, and thus compromised. 
+ Use the field-level hashing functions in IRI FieldShield in the IRI Data Protector suite, IRI CoSort in the IRI Data Manager suite, or the IRI Voracity platform to help mask PII. Or, create a MAC for one or more column values in each row. Include the MACs as an additional field or provide them in a separate file. Use the MAC to verify that the data in the record was undisturbed. 
+ For more information and another use of hash values: See here. 
+ https://www.jet-software.com/wp-content/uploads/2018/05/Hashing-Image.jpg 
+",COMPLETE,
+45d2ccb1-3f54-4539-b276-a8a34878d623,https://www.jet-software.com/en/db-operations-sap-hana/,"SAP HANA Masking, Cleansing, Migration, ETL - JET-Software 
+","[{""catId"":613921,""catPath"":""Software => Application Software => Database Software"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=613921""}]","{""keywords_english"":{""1"":""SAP HANA data management"",""2"":""IRI Workbench ETL tool"",""3"":""data masking and migration""},""keywords"":{""1"":""SAP HANA data management"",""2"":""IRI Workbench ETL tool"",""3"":""data masking and migration""}}","Cassandra 
+ DB2 UDB 
+ MongoDB 
+ MySQL/MariaDB 
+ Oracle 
+ PostgreSQL 
+ SAP HANA 
+ Snowflake 
+ SQL Server 
+ Sybase 
+ Teradata 
+ IRI data movement and manipulation software is also tested and available on SAP HANA! 
+ From inside their common, free Eclipse job design IDE (IRI Workbench), these IRI software products all support HANA databases using JDBC and ODBC drivers, or flat file extracts and imports. 
+ IRI Voracity - the total data management platform for data discovery, integration, migration, governance and analytics. Voracity also includes IRI CoSort, NextForm, FieldShield, DarkShield and RowGen: 
+ 
+ IRI CoSort - for fast, pre-sorted loads into HANA as well as external data transformations and reports (faster than SQL) 
+ IRI NextForm - for the migration of data in columns into and out of SAP HANA and other data sources 
+ IRI FieldShield - for the classification, discovery, and anonymization (static/dynamic data masking) of PII in HANA tables 
+ IRI DarkShield - for the classification, discovery, and static data masking of floating PII in HANA colums 
+ IRI RowGen - for the creation and population of safe, referentially correct HANA table test data generated from scratch 
+ 
+",COMPLETE,
+45d2ccb1-3f54-4539-b276-a8a34878d623,https://www.jet-software.com/en/data-masking-ferpa/,"IRI Data Masking Tools for FERPA Compliance 
+","[{""catId"":616628,""catPath"":""Measurement, testing and analysis services => Testing => Data Protection Testing"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=616628""}]","{""keywords_english"":{""1"":""data masking tools"",""2"":""FERPA compliance"",""3"":""personally identifiable information""},""keywords"":{""1"":""Datenmaskierungswerkzeuge"",""2"":""FERPA-Compliance"",""3"":""persönlich identifizierbare Informationen""}}","The Family Educational and Privacy Rights Act (FERPA) of 1974 is a federal law in the United States that protects the privacy of student education records. It applies to all schools that receive funds under federal programs. The key provisions of FERPA include establishing procedures to protect the confidentiality of personally identifiable information (PII) in child records and maintaining records in a manner that ensures access is limited to authorized individuals. These features are crucial for educational institutions and their service providers to ensure compliance with data privacy regulations. 
+ PII can include various types of information, such as the student's name, parents' names, address, social security number, and other identifiers. The risk of re-identification is a critical concern, and the Re-ID Risk Scoring wizard in IRI's data masking tools helps measure this risk using peer-reviewed algorithms. This functionality can also assist in complying with other educational privacy laws, such as the Protection of Pupil Rights Amendment (PPRA) and the Student Privacy provisions of the No Child Left Behind Act. 
+ In summary, FERPA compliance is about protecting student data, and the IRI data masking tools offer robust features to find and protect sensitive information, ensuring compliance with data privacy regulations. 
+",COMPLETE,
+45d2ccb1-3f54-4539-b276-a8a34878d623,https://www.jet-software.com/en/bi-analytics-bi-tool-acceleration-knime/,"The Voracity Provider for KNIME 
+","[{""catId"":613922,""catPath"":""Software => Application Software => Data Analytics Software"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=613922""}]","{""keywords_english"":{""1"":""KNIME Integration"",""2"":""Voracity Data Wrangling"",""3"":""Big Data Analytics""},""keywords"":{""1"":""KNIME Integration"",""2"":""Voracity Data Wrangling"",""3"":""Big Data Analytics""}}","The Voracity Provider for KNIME 
+ Fast, Affordable Data Wrangling & Data Science in Eclipse 
+ Overview 
+ Embedded BI 
+ BIRT Integration 
+ KNIME Integration 
+ Splunk Integrations 
+ Cloud Dashboard 
+ Data Preperation 
+ Integrate, Govern & Analyze Big Data Seamlessly 
+ KNIME (for Konstanz Information Miner) is a free and open-source data analytics, reporting and data science environment built on Eclipse™. The KNIME Analytic Platform provides various components for machine learning and data mining through its modular data pipelining concept. 
+ KNIME has become very powerful, and popular, in the last several years ... leading peer reviewers to suggest it is technically superior to expensive proprietary analytic and statistical packages like SAS. And like other analytic tools, KNIME has built-in ETL nodes to help you integrate and prepare data. 
+ But like other analytic tools, KNIME is challenged by big data volume, variety, velocity and veracity.Except when it's powered by IRI Voracity. 
+ Fortunately, it is now possible to speed and combine data preparation and analytics seamlessly ... in the same graphical IDE for Voracity, also built on Eclipse, called IRI Workbench. Specifically, the ""Voracity Provider for KNIME"" is a KNIME data source node that rapidly prepares big data in Voracity, and pumps the results directly into one or more pipelined KNIME nodes through memory. So, you can analyze the data in KNIME that Voracity is integrating, transforming, cleansing, masking, and reformatting in the same I/O pass and pipeline! 
+ https://www.jet-software.com/wp-content/uploads/2019/06/Voracity-Knime-Demo1.png 
+ KNIME provides a huge range of extended analytics, data science, and data visualization functions to users of IRI Voracity who want to pair fast data integration and governance with machine learning, deep learning (artificial intelligence), and other uses cases that need to mine informational value from raw data stores. This is exactly the kind of simultaneous prepare-present activity that DW/BI industry founder Dr. Barry Devlin cites in his description of Voracity as a Production Analytic Platform. 
+ So whether you're a citizen data scientist wanting to punch above your weight, or a CIO looking for a faster, bigger boat to manage a data lake for value, the Voracity Provider for KNIME is a perfect answer. It's also a far better alternative to separate, slower, and less functional free ETL nodes for KNIME, and the less integrated and more expensive legacy ETL and data wrangling tools. 
+ The Voracity provider for KNIME is free for IRI Voracity users, and provides multiple benefits, including:
+[LIST] - A 9X speed improvement over native KNIME data integration nodes, and consequently, much faster analytic and visualizations - The lowest-cost, highest-functioning platform combination available for big data wrangling (Voracity) and analytics (KNIME), on premise or in the cloud - Full access to all capabilities of both platforms in the same pane-of-glass, with fully customizable perspectives - Immediate, reliable, and PII-masked informational results from multiple data sources - Help from experts in both technology stacks worldwide [END LIST] 
+",COMPLETE,
+45d2ccb1-3f54-4539-b276-a8a34878d623,https://www.jet-software.com/en/bi-analytics-embedded-bi/,"Built-In BI Capabilities in IRI Data Management Products 
+","[{""catId"":613882,""catPath"":""Software => Application Software => Business Software => Business Intelligence Software"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=613882""}]","{""keywords_english"":{""3"":""Report Generation"",""2"":""Data Integration"",""1"":""BI Reports""},""keywords"":{""3"":""Berichterstellung"",""2"":""Datenintegration"",""1"":""BI-Berichte""}}","Built-In BI Capabilities 
+ Custom Detail, Summary and Data Warehouse Reporting 
+ Overview 
+ Report Functions 
+ Format Options 
+ CDC (Deltas) 
+ CDI & Segmentation 
+ Clickstream Analytics 
+ SCD 
+ Fast, Easy Big Data Reporting 
+ One of the key built-in (embedded) capabilities in all IRI data management products is report generation. 
+ ""The opportunity is to reduce the data storage and management costs of multiple near-copies of data through the use of a more sophisticated, highly integrated, and high-speed data delivery environment."" - Dr. Barry Devlin, 9sight Consulting 
+ Reporting is typically done through SortCL programs in the IRI Voracity platform or IRI CoSort product. Its users performing big data transformations can also generate one or more custom-formatted detail and summary reports in the same job script and I/O pass; i.e., they run BI directly with ETL! And because IRI NextForm (data/DB migration), IRI FieldShield (data masking) and IRI RowGen (test data) also leverage SortCL capabilities, they too can generate many of the same kinds of reports using the same metadata while they also do what they do. 
+ Structured data (database or flat file) sources are well supported, as are many forms of semistructured and unstructured data. There are no limits on the number of sources or targets. See this list of supported data sources, and this diagram characterizing the flow of data. 
+ Define report specifications in a text editor, or wizards in the Eclipse GUI for all IRI software, IRI Workbench. Run reports from the command line, batch scripts, the GUI, or applications (as a system or API call). 
+ The Benefits of Embedded BI 
+ Get reporting with high-performance data integration, data migration, data masking and test data generation at the same time by formatting your targets in the same job script and I/O pass. 
+ Get most of the same data manipulation and reporting features of SQL and ICE-TOOL, but with more speed, simplicity, and interoperability. Simultaneously visualize analyzed data with BIRT or Splunk, and prepare data for cubes or other BI and analytic tools. 
+ What else?
+[LIST] - high velocity in high volume, allowing on-the-fly what-if integration-to-report iterations - support for any number of sources and targets - multi-target and layout customization flexibility - extensive data transformation (sort, join, aggregate, cross-calc, pivot, etc.) and formatting functions - creation in the same job script and I/O pass with transformation, migration, and/or field-level protection - syntax simplicity, even for complex derived field and statistical functions - functional extensibility (leverage Boost libraries for linear regression, etc.) - graphical job creation and interactive job script editing - platform portability for script design and execution - report version control and team sharing in Eclipse [END LIST] 
+ https://www.jet-software.com/wp-content/uploads/2018/04/Embedded-BI-GUI-1.jpg 
+ What Other Reports Can I Produce? 
+ Beyond detail and summary reports, run:
+[LIST] - pivot transforms to re-map and de/normalize data - change data capture (CDC) reports - customer data integration (CDI) and segmentation - predictive graphs using fuzzy lookup logic, conditions, and regression - clickstream analytics (data webhouse) - fixed or streaming IoT device data aggregates - slowly changing dimension (SCD) reports [END LIST] 
+ And If I Need More Capability? 
+ If you also need:
+[LIST] - advanced data visualization and drill-down - dashboards and knowledge performance indicators (KPI) - knowledge management or knowledge mapping - data mining and predictive analytics [END LIST]
+Activities in IRI software help third-party analytic & BI tools visualize your data faster. Or, run IRI data preparation jobs seamlessly with BIRT reports you design in the IRI Workbench GUI, built on Eclipse. 
+ 
+ IRI's FieldShield (data masking), NextForm (data migration), and RowGen (test data generation) products are spin-offs of the CoSort SortCL program and included capabilities in the Voracity platform. For that reason, they can produce the same kinds of custom report layouts. 
+ 
+",COMPLETE,
+45d2ccb1-3f54-4539-b276-a8a34878d623,https://www.jet-software.com/en/iri-data-manager/,"IRI Data Manager Suite 
+","[{""catId"":613922,""catPath"":""Software => Application Software => Data Analytics Software"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=613922""}]","{""keywords_english"":{""1"":""IRI Data Manager Suite"",""2"":""CoSort"",""3"":""Data Integration""},""keywords"":{""1"":""IRI Data Manager Suite"",""2"":""CoSort"",""3"":""Data Integration""}}","The IRI Data Manager suite from IRI, The CoSort Company*, comes with you all the tools you need for faster data manipulation and movement. 
+ ""Big"" Data Manipulation:CoSort makes light work of data processing ""heavy lifts"" in DW ETL, DB loads, sort/merge offload, reporting, blending, etc. 
+ Parallel DB Unloading:FACT is the only tool you need for fast extraction of very large databases (VLDB), unloading for ETL, reorg, and archive. 
+ Conversion and Replication:NextForm performs and speeds file and table migration, DB replication, data re-formatting, and data federation. 
+ Realistic Test Data:RowGen generates structurally and referentially correct test data in tables, files, and reports. 
+ The IRI Data Manager suite's constituent products address: 
+ 
+ Data Integration and Staging (ETL, ELT, Federation, etc.) 
+ Big Data Packaging, Protection, and Provisioning 
+ BI Reporting and Data Franchsing (Preparation) 
+ Improving Data Quality 
+ Fast Sorting and Data Transformation 
+ Data Migration and Replication 
+ Acceleration DBs, ETL Tools, and BI Tools 
+ Replacing Legacy Sort Programs 
+ Generating and virtualizing Test Data for DB/ETL/BI prototypes and DevOps 
+ 
+ Licensing costs depend on which of the tools you need and the hardware on which they run. 
+ Note that the SortCL program in CoSort is the parent technology for NextForm and RowGen, so you do not need to license it separately if you already have CoSort or the IRI Voracity platform. All licenses include free use of IRI Workbench, the graphical job design IDE supporting all IRI Data Manager, and most IRI Data Protector, suite products. 
+ Similarly, the current SortCL executable will run IRI FieldShield jobs. This means you do not have to license the IRI Data Protector suite separately if you use Voracity or CoSort and the IRI Workbench and need production data masking. However, there may be some additional support factors depending on the complexity of your requirements. 
+ 
+ Founded 1978, IRI, The CoSort Company (www.iri.com), is renowned for fast data management and data-centric protection. We are NOT iriworldwide.com, the Chicago-based CPG data company for Advantage, PlusSuite or Xlerate. 
+ 
+",COMPLETE,
+45d2ccb1-3f54-4539-b276-a8a34878d623,https://www.jet-software.com/en/bi-analytics-bi-tool-acceleration-spotfire/,"IRI CoSort 
+","[{""catId"":613922,""catPath"":""Software => Application Software => Data Analytics Software"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=613922""}]","{""keywords_english"":{""3"":""TIBCO Spotfire Integration"",""2"":""Big Data Preparation"",""1"":""IRI CoSort""},""keywords"":{""3"":""TIBCO Spotfire Integration"",""2"":""Big Data Preparation"",""1"":""IRI CoSort""}}","CoSort Prepares Big Data for TIBCO Spotfire 
+ CoSort is a tool designed to prepare big data for the TIBCO Spotfire visualization tool. It is particularly useful for life science researchers and financial organizations that require simple-to-build dashboards. CoSort offers in-memory data processing and sophisticated predictive analytics, making it a powerful tool for data preparation. 
+ The SortCL program in the IRI CoSort product or IRI Voracity platform is a fast, simple, and inexpensive way to prepare big data for Spotfire efficiently -- both in terms of job design and runtime performance. See this section to understand why. 
+ When SortCL sorts, joins, and aggregates raw data sets in a single job and I/O pass ahead of Spotfire, time-to-visualizations like these is much faster. 
+ In a benchmark with 20M records on an average PC, CoSort prepared the same data results for the Spotfire visualization above four times faster than Spotfire could alone: For details click here. 
+",COMPLETE,
+45d2ccb1-3f54-4539-b276-a8a34878d623,https://www.jet-software.com/en/data-migration-file-format-conversion-clf-elf/,"Common & Extended Web Logs 
+","[{""catId"":616253,""catPath"":""IT solutions => Data Aquisition & Data Collection"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=616253""}]","{""keywords_english"":{""3"":""Data Masking and Protection"",""2"":""CLF and ELF Conversion"",""1"":""Web Log Data Transformation""},""keywords"":{""3"":""Data Masking and Protection"",""2"":""CLF and ELF Conversion"",""1"":""Web Log Data Transformation""}}","Overview 
+ NCSA Common and W3C Extended Log Formats (CLF and ELF, respectively) are two popular structures for logging of clickstream activity on web sites. The visitor information recorded may include the IP address, timestamp, page URL, entry and exit pages, and so on. 
+ As these logs grow in size, they can take a long time to process. They may not be in formats that your applications recognize or readily support, and they may contain personally identifiable information (PII) which needs to be masked or encrypted for compliance or other reasons. 
+ Solutions 
+ IRI has technologies for web-log-file format conversion, as well as web log data transformation, conversion, protection, and reporting for clickstream analytics and data webhouse operations. 
+ IRI software can address data in CLF, ELF, and other structured (sequential) web log formats, but has done additional work to make CLF and ELF file handling easier.* For clickstream data in unstructured text file formats, IRI provides a data restructuring facility to extract and bucket searched strings into structured data repositories for the same activities below. 
+ 
+ Web Log File Conversions (Only) - Web Log Data Transformation, and More - Web Log Data Masking - Test Web Log Data 
+ 
+ The conversion-only solution lies in the free (lite) or affordable (database) edition of IRI NextForm. NextForm can converts CLF and ELF files into CSV and other flat-file formats for free. 
+ The upgrade edition that connects to databases will populate web log data directly into relational tables. NextForm allows you to convert files in LDIF to other formats like CSV, XML, text, etc. and vice versa. NextForm also supports data type conversion at the field level, and the remapping of record layouts. 
+ NextForm file definitions also work in SortCL, the popular 4GL and data transformation and reporting program in IRI CoSort. 
+ Beyond format conversion, the CoSort SortCL program can process (filter, sort, join, aggregate, scrub, reformat, etc.), protect, and report from these huge log files into CSV, LDIF, XML, text, index, and other structured file formats and DB tables. 
+ Using a simple 4GL to define the layout and manipulation of your log files, you can perform and combine data: 
+ 
+ transformation (scrub, sort, join, group, calculate, re-map, etc.) 
+ conversion (data types, record layouts, files) 
+ masking (field-level encryption, de-ID, etc.) 
+ reporting (custom detail, delta and summaries) 
+ 
+ plus validation, find/replace, custom transforms, etc. in the same job script and I/O pass. With SortCL, you can map one or more sources in one or more formats to one or more detail or summary reports, and/or hand off filtered subsets to specialized clickstream analysis tools. See this blog article for an example. 
+ To protect PII in web log files, use SortCL or IRI FieldShield. FieldShield offers the compliance industry's broadest array of field-level security functions for data at rest. Mask, encrypt, pseudonymize, randomize, or otherwise obfuscate and de-identify email and IP addresses, and other items subject to data privacy law protection. See this blog article for an example. 
+ Do you need test data in log file formats? IRI RowGen supports the random generation and selection of data at the field level to help generate custom-formatted files. RowGen uses the same layout metadata as NextForm, CoSort (SortCL), and FieldShield, so you can easily move between test data generation and real data processing. 
+",COMPLETE,
+45d2ccb1-3f54-4539-b276-a8a34878d623,https://www.jet-software.com/en/data-masking-hipaa/,"HIPAA Compliance Services and Software 
+","[{""catId"":616255,""catPath"":""IT solutions => Data Protection Officers"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=616255""}]","{""keywords_english"":{""3"":""re-ID risk scoring"",""2"":""PHI data masking"",""1"":""HIPAA compliance software""},""keywords"":{""3"":""re-ID risk scoring"",""2"":""PHI data masking"",""1"":""HIPAA compliance software""}}","The 1996 Health Insurance Portability and Accountability Act (HIPAA) is now being regularly enforced across the country, and fallout from breaches of protected health information (PHI data) remains constant, and damaging. If you're a ""covered entitity"" under HIPPA, what are you and your business associates doing about HIPAA compliance as it relates to PHI protection? 
+ The pages in this section of the IRI web site take a closer look at the key US healthcare data security rules and how you can comply with them (and prove it). If you would like more information or need help, contact us to learn how we have helped others, and can help you. 
+ PHI subject to the HIPAA Safe Harbor security rule, regulations like 45 CFR 164.312 and 170.210 specify encryption or hashing of 18 key identifiers. IRI software supports this rule with its HIPAA data masking tools and their many included PHI obfuscation functions. 
+ More specifically, built-in data discovery, classification and masking functions in the IRI FieldShield, DarkShield, and CellShield products -- or the IRI Voracity platform which includes them -- help you find, catalog, and de-identify PHI in structured and unstructured data sources automatically. These sources (whether in your on-premise network or cloud infrastucture) include relational and NoSQL databases, flat files, Excel, PDF and Word documents, powerpoint presentations, HL7, X12 and FHIR EDI files, DICOM studies and other image file formats. 
+ Alternatively, the HIPAA Expert Determination Method Rule, allows compliance through certified mitigation of re-identification risk. Integrated re-ID risk scoring and anonymization technology in IRI software statistically measures that risk, and blurs quasi-identifiers to comply with this rule, too. 
+ IRI can also deliver professional services and refer you to expert statisticians, HIPAA consultancies, and regulatory attorneys with whom we partner. You can leverage these tools and teams as needed to obtain compliance certification and cybersecurity insurance, and to defend against fines or breach-related claims. See our free course details below. 
+ De-identification refers to processes that disassociate personally identifiable information (PII) within protected health information (PHI) repositories and other ""data at risk."" 
+ PHI de-identification is a specific requirement in the healthcare industry, where for example, it is used in both ""safe harbor"" and ""expert determination method"" practices in medical research (to remove patient identities from study models). De-identification is also a blanket term referring to the anonymization or masking of PII in many other industries. 
+ The most recent Security Rule in HIPAA regulations (45 CFR Parts 160 and 164) spell out the compliance requirements for those entities managing PHI. HIPAA rules apply to 18 specific identifiers: 
+ Each of the data masking software products in the IRI Data Protector suite helps you find and classify, and then protect PII, PAN, PHI, etc. in multiple data sources for Safe Harbor rule compliance. They also work hand-in-hand with free, advanced re-ID risk scoring technology for compliance with the Expert Determination Method rule. See this article in HIPAA Journal for more information about what constitutes PHI. 
+ HIPAA compliance requires either: 
+ Redaction - Safe Harbour 
+ Manipulating, masking, or removing these key identifiers so that it is difficult or impossible to identify an individual or restore the original data. 
+ De-Identification - Expert Determination Method 
+ Stripping the identifiers, and generalizing quasi-identifiers until an expert determines the statistical risk of re-identification is very low. 
+ Learn More about our three-hour HIPAA Compliance online course covering PHI de-identification and masking on structured, semi-structured, and unstructured sources of data on-premise and in the cloud, plus and re-ID risk scoring processes on structured data. It also includes information related to compliance certification, breach insurance, and breach claim defense. 
+",COMPLETE,
+45d2ccb1-3f54-4539-b276-a8a34878d623,https://www.jet-software.com/en/data-masking-static-data-masking-redact/,"Redact CCN 
+","[{""catId"":616254,""catPath"":""IT solutions => Data Destruction"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=616254""}]","{""keywords_english"":{""1"":""Redact CCN"",""2"":""Data Masking"",""3"":""PII Protection""},""keywords"":{""1"":""Redact CCN"",""2"":""Data Masking"",""3"":""PII Protection""}}","Redact Data 
+ Overview 
+ Personally identifiable information (PII) that is not needed for downstream use or recovery should be redacted (covered over with masking characters, or removed) to prevent misuse. Meanwhile, other data elements or selected parts of the PII value itself may still need to be exposed. 
+ At the same time, the masking should preserve the original storage format and overall field appearance so that the platform (e.g., DB table) structure or application need not be altered. Masking all but the last four digits of a credit card or social security number with asterisks is a common data redaction requirement. 
+ While DBAs can remove columns in tables, there are few alternatives for masking data in different ways across multiple databases and file sources. 
+ Solutions 
+ To redact data at rest, use the built-in functions in: 
+ 
+ IRI FieldShield for DBs and flat files 
+ IRI CellShield for Excel 
+ IRI DarkShield for unstructured files 
+ their parent SortCL data manipulation program in IRI CoSort or IRI Voracity for bigger structured and semi-structured sources. 
+ 
+ To redact data in motion (dynamic data masking), use either the: 
+ 
+ replace_char API function in the FieldShield SDK 
+ 
+ In each case, you can use the IRI product you need to search for, classify, and redact a specified number of bytes, defined (sub-)strings, entire fields, or one or more rows. Choose the type and start/stop locations of the masking characters. Determine whether to apply the redaction based on column names or data classes, pattern matches, field value conditions, NER models, etc. 
+ Character masking is just one of the non-reversible protection functions provided in IRI software. Others include randomization, external source pseudonymization, and possibly hashing. Reversible protections include encryption, encoding, a proprietary ASCII de-ID function, same-source pseudonymization, expression logic, and string functions. 
+ SortCL users have the additional option to transform and report on data as they redact it in whole or part. 
+ All IRI software is supported in a free, familiar GUI built on Eclipse called IRI Workbench, which exposes and profiles multiple data sources, helps configure masking jobs, and manages the projects for team-sharing and compliance verification. 
+ Redact CCN 
+ In addition to credit card encryption and tokenization options for PCI DSS applications, IRI also provides a convenient way to mask all or part of a 16-digit credit card number in database tables and flat files. 
+ The IRI Workbench GUI for FieldShield can automatically mask all but the last 4 digits of the field in any database or flat file. You can also define another character and set of digits to mask in the same dialog: 
+ Redact NID 
+ In addition to encryption and other ways to protect National Identification (NID) numbers, IRI also provides conventional masks for popular NID formats. 
+ The IRI Workbench GUI for FieldShield can automatically mask NID values in tables and flat files using this dialog: 
+ Redact SSN 
+ In addition to encryption and other ways to protect Social Security Numbers (SSNs), IRI also provides conventional and custom masking options for this 9-digit format. 
+ The IRI Workbench GUI for FieldShield can automatically mask SSN field values in tables and flat files using this dialog: 
+ Data masking function can be applied ad hoc, or as a cross-table rule for en-masse protection. 
+ Use the IRI RowGen test data product to generate valid and invalid social security numbers: here. 
+ Delete Column 
+ If you manage personally identifiable data in database tables or flat files, you can select which source columns and values will remain or display in your target(s). Populate tables, reports, and hand-off files with data provided on a need-to-know basis. With either IRI Voracity, IRI FieldShield or the SortCL program in IRI CoSort, you can selectively omit or mask parts of rows or columns from inputs or outputs based on conditional evaluation logic. That is, either filter out or cover over the field values or component parts (sub-strings or particular bytes) based on your business rules. 
+ If the sensitive data reside in unstructured text files, IRI software can help you find, structure, and place that information in protected, structured targets. Additional FieldShield functions like encryption, de-identification, and obfuscation are also possible on other fields at the same time. CoSort SortCL users can also redact and mask data during data transformation, migration, and reporting operations. 
+",COMPLETE,
+45d2ccb1-3f54-4539-b276-a8a34878d623,https://www.jet-software.com/en/data-masking-static-data-masking-encrypt-format-preserving-encryption/,"Format-Preserving Encryption 
+","[{""catId"":616628,""catPath"":""Measurement, testing and analysis services => Testing => Data Protection Testing"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=616628""}]","{""keywords_english"":{""1"":""Format-Preserving Encryption"",""2"":""Data Masking"",""3"":""Referential Integrity""},""keywords"":{""1"":""Format-Preserving Encryption"",""2"":""Data Masking"",""3"":""Referential Integrity""}}","Overview 
+ 
+ 
+ The purpose of most encryption tools and techniques is to mask data and allow it to be decrypted. Unfortunately, their processes result in ciphertext that is not human readable and is often longer than the original field value. 
+ 
+ 
+ The challenge is to retain the original format of the data in its protected state, so that it appears real, preserves referential integrity checks, and can be used for testing. 
+ 
+ 
+ Data protection needs to take into account both internal and external threats, including those against critical database and application resources. However, many protection mechanisms require application retooling or add complexity that delays or halts deployment. Format-preserving encryption overcomes these issues. It's an exciting step toward improved, simpler data protection and compliance with regulatory requirements. 
+ 
+ 
+ Solutions 
+ 
+ 
+ IRI's data masking software products encrypt personally identifiable information (PII) in databases and files with advanced (AES-128 and AES-256) Format-Preserving Encryption (FPE) technology. Harden your data one column (or field) at a time without altering the format or appearance of the original values. 
+ 
+ 
+ With IRI FieldShield (for databases and flat files), IRI CellShield (for Excel), or IRI Voracity (for DBs, files, HDFS, etc.), you can apply ad hoc or global FPE functions on a rule-basisto: 
+ 
+ Keep and preserve original data formats 
+ Maintain referential integrity 
+ Eliminate the need for multiple masking and lookup tables 
+ Eliminate format changes, database, or application schema 
+ Encrypt primary and foreign keys 
+ Provide reversible data masking 
+ 
+ 
+ 
+ For example, encrypt a 16-digit credit card number and display another 16-digit number in the same format: 
+ 
+ 
+ https://www.jet-software.com/wp-content/uploads/2018/07/PCI-DSS_Before.jpg 
+ https://www.jet-software.com/wp-content/uploads/2018/07/PCI-DSS_After.jpg 
+ After 
+ Before 
+ Related Solutions 
+ 
+ Encryption > Algorithms 
+ Data Governance > Data Privacy Protection 
+ Data Governance > Verifying Compliance 
+ 
+ Product Links 
+ 
+ IRI FieldShield (Data Masking) 
+ IRI CellShield (Excel Masking) 
+ IRI Voracity (Data Management) 
+ 
+ Blog Links 
+ 
+ Data Masking Category 
+ Format-Preserving Encryption 
+ 
+ Other Resources 
+ 
+ LinkedIn Data Masking & Protection Group 
+ Customers > User Roles > Compliance Officer 
+ 
+",COMPLETE,
+45d2ccb1-3f54-4539-b276-a8a34878d623,https://www.jet-software.com/en/darkshield-english/,"IRI DarkShield 
+","[{""catId"":616628,""catPath"":""Measurement, testing and analysis services => Testing => Data Protection Testing"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=616628""}]","{""keywords_english"":{""1"":""PII data masking"",""2"":""GDPR compliance"",""3"":""DarkShield tool""},""keywords"":{""1"":""PII data masking"",""2"":""GDPR compliance"",""3"":""DarkShield tool""}}","Discover, Deliver & Delete PII 
+ Find sensitive data in structured, semi-structured or unstructured sources using multiple search techniques. Use the search results to simultaneously (or later) extract, redact, or fix the PII to comply with GDPR data portability, erasure, or rectification provisions. 
+ Local or Cloud Protection 
+ Whether the PII is on your desktop, across your network, or in cloud strorage, the DarkShield data masking tool can protect it. DarkShield finds and masks PII and other sensitive information in multiple structured, semi-structured, and unstructured DB and file formats in multiple silos via GUI or API. 
+ Generate Audit-Ready Reports 
+ Query and display DarkShield search and remediation results in its built-in, interactive dashboard. Or, use IRI CoSort or your RDB to analyze it. Or, export the log data and customize your visualizations in SIEM tools like Datadog or Splunk ES: 
+ Benefits 
+ 
+ Search PII - Masking functions - Finding named entities - Consolidates searches - Right-to-be forgotten - Maximum search - Same Eclipse job - Licensing options 
+ 
+ Separates or combines -- and saves for modification and reuse -- PII discovery, delivery, de-identification, and/or reporting jobs. 
+ Supports multiple data masking functions, including deletion (erasure), encryption, hashing, pseudonymization, and randomization. 
+ Leverages named-entity recognition (NER), machine-learning and natural language processing for finding named entities in context. 
+ Allows lookup value, pattern definition, bounding box, and NER models to be combined and reused, consolidating searches and saving time. 
+ Maries multiple right-to-be forgotten and data portability requests in find/fix operations, matching against specified or listed names. 
+ Works across multiple drives, nodes, and threads for maximum search and remediation performance in volume. 
+ Operates in the same Eclipse job design and metadata environment with IRI Voracity data governance and management, or via RPC API: 
+ Features affordable licensing options (standalone, bundled, or free in IRI Voracity). 
+",COMPLETE,
+45d2ccb1-3f54-4539-b276-a8a34878d623,https://www.jet-software.com/en/bi-analytics-bi-tool-acceleration-power-bi/,"Power BI 
+","[{""catId"":613882,""catPath"":""Software => Application Software => Business Software => Business Intelligence Software"",""catUrl"":""https://vtyler.alibaba.com/vtyler/index.htm?categoryId=613882""}]","{""keywords_english"":{""3"":""data visualization"",""2"":""custom dashboards"",""1"":""business intelligence tool""},""keywords"":{""3"":""data visualization"",""2"":""custom dashboards"",""1"":""business intelligence tool""}}","The Power of Power BI 
+ Power BI is an increasingly popular self-service business intelligence tool from Microsoft. It can produce custom-designed dashboards and reports ready for web or mobile display. The package enables end users to create reports and dashboards without assistance from IT. PC Magazine awarded Power BI their Editor's Choice honor in the summer of 2018 ""for its impressive usability, top-notch data visualization capabilities, and superior compatibility with other Microsoft Office products."" 
+ However, simple data wrangling jobs like sorting and aggregation before and after the data is displayed can drag or crash when fed ""big data"" sources. 
+ Power BI with More Power 
+ If you need to acquire, integrate, cleanse, or mask multiple or high-volume data sources, do it outisde the BI layer! The SortCL program in the IRI CoSort package or IRI Voracity data management platform rapidly and affordably wrangles big, raw data sources in the file system (not in SQL Server). Centralizing the pre-processing work of sort, join, and aggregate transformations in SortCL removes that overhead from Power BI and dramatically decreases the time to display and insight. 
+ See for yourself: Blog > Business Intelligence> Speeding Time-to-Display in Power BI 
+",COMPLETE,

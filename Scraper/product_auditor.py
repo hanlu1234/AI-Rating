@@ -116,6 +116,17 @@ class ProductAuditor:
             except:
                 category_text = category
         
+        # 检查category是否为空或N/A，如果是则直接标记为NEEDS_MANUAL_CHECK
+        category_is_empty_or_na = False
+        if not category_text:
+            category_is_empty_or_na = True
+        else:
+            category_text_trimmed = category_text.strip()
+            if not category_text_trimmed:
+                category_is_empty_or_na = True
+            elif category_text_trimmed.upper() in ['N/A', 'NA', 'NULL', 'NONE']:
+                category_is_empty_or_na = True
+        
         # 构建审核prompt
         prompt = f"""You are an AI product auditor. Please review the following product information scraped from a website and imported to a new platform.
 
@@ -274,6 +285,9 @@ Please provide your review in JSON format only, no additional text."""
                     # 确保包含url_review
                     if 'url_review' not in review_result:
                         review_result['url_review'] = {"status": "NEEDS_MANUAL_CHECK", "reason": "URL审核结果缺失"}
+                    # 如果category为空或N/A，直接标记为NEEDS_MANUAL_CHECK
+                    if category_is_empty_or_na:
+                        review_result['category_review'] = {"status": "NEEDS_MANUAL_CHECK", "reason": "Category为空或N/A"}
                     return review_result
                 except json.JSONDecodeError as e:
                     print(f"JSON解析失败，响应内容前500字符: {content[:500]}")
