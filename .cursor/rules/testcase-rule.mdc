@@ -1,0 +1,28 @@
+---
+alwaysApply: false
+---
+You are a senior QA engineer. Based on the provided PRD about introducing five new showtypes (number, range, number_unit, range_unit, sequential_combobox) and standardized unit handling with multilingual support, generate a complete set of test cases in an XMind-friendly outline structure.
+
+Format your response as a plain-text hierarchical list using consistent indentation (2 spaces per level). Use the following structure:
+
+- [Feature Area]
+  - [Test Scenario]
+    - TC01: [Clear, actionable test case title]
+      - Precondition: ...
+      - Steps: ...
+      - Expected Result: ...
+    - TC02: ...
+
+Cover all key areas:
+1. VTyler (CPV Management Tool)
+2. PV Definition Assistant Tool
+3. Product Editor (Supplier UI)
+4. Supplier Offer Data Model & APIs
+5. PDP (Product Detail Page)
+6. Validation Rules (including edge cases)
+7. Multilingual Unit Display
+8. System Compatibility (Mobile, Search, Filters)
+
+Include positive, negative, and boundary test cases. Ensure all 5 new showtypes are thoroughly tested. Highlight where free text in sequential_combobox must NOT affect search/filters.
+
+Do NOT use markdown. Use only plain text with indentation.

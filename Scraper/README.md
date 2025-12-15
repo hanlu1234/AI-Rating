@@ -265,3 +265,120 @@ The combined summary report is automatically saved to the `report/` folder with 
 - `qwen-turbo`: Fast response, lower cost (suitable for quick audits)
 - `qwen-plus`: Balanced performance and cost (recommended)
 - `qwen-max`: Highest performance, higher cost (suitable for high-precision requirements)
+
+---
+
+## Online Product Auditor (product_auditor_online.py)
+
+### Overview
+
+The Online Product Auditor is designed for auditing products from online platforms **without source URLs**. It evaluates products based solely on title and description, focusing on information completeness, consistency, and non-spam content detection.
+
+### Key Differences from product_auditor.py
+
+- **No URL validation**: Products don't have source URLs
+- **Product validity check**: Identifies non-product content (success stories, case studies, portfolio pages)
+- **Information completeness**: Checks if title and description are clear and complete
+- **Consistency check**: Verifies title and description match
+- **Non-spam detection**: Identifies spam, gibberish, or meaningless content
+- **Output location**: Results saved to `report_online/` folder
+
+### Usage
+
+```bash
+# Navigate to scraper directory
+cd scraper
+
+# Basic usage (report will be saved to report_online/ folder)
+python3 product_auditor_online.py online/old_url_scrap_data_output.csv
+
+# Specify output file
+python3 product_auditor_online.py online/old_url_scrap_data_output.csv -o custom_results.xlsx
+
+# Use different model
+python3 product_auditor_online.py online/old_url_scrap_data_output.csv --model qwen-turbo
+```
+
+### Input File Format
+
+The input CSV file should contain the following columns:
+- `offer_id`: Product offer ID
+- `title`: Product title
+- `description`: Product description
+- `category_id`: Category ID
+- `category_name`: Category name
+- `keywords`: Keywords (JSON array format)
+
+Example file: `online/old_url_scrap_data_output.csv`
+
+### Output Format
+
+After auditing, an Excel file will be generated in the `report_online/` folder with the following columns:
+- `offer_id`: Product offer ID
+- `title`: Product title
+- `description`: Product description (truncated to 200 chars)
+- `category_id`: Category ID
+- `category_name`: Category name
+- `product_validity_判定结果`: Product validity status (PASS/NEEDS_REVIEW/NEEDS_MANUAL_CHECK)
+- `product_validity_判定原因`: Product validity reason
+- `information_completeness_判定结果`: Information completeness status
+- `information_completeness_判定原因`: Information completeness reason
+- `consistency_判定结果`: Consistency status
+- `consistency_判定原因`: Consistency reason
+- `non_spam_content_判定结果`: Non-spam content status
+- `non_spam_content_判定原因`: Non-spam content reason
+- `category_判定结果`: Category review status
+- `category_判定原因`: Category review reason
+- `keyword_判定结果`: Keyword review status
+- `keyword_判定原因`: Keyword review reason
+
+### Audit Criteria
+
+#### Product Validity
+- ✅ **PASS**: Content describes a valid product
+- ⚠️ **NEEDS_REVIEW** (Yellow): Uncertain if it's a valid product
+- ❌ **NEEDS_MANUAL_CHECK** (Red): 
+  - Contains non-product content (success stories, case studies, portfolio pages)
+  - Company information or "about us" content
+  - General service descriptions without specific product details
+
+#### Information Completeness
+- ✅ **PASS**: Title and description are clear and complete
+- ⚠️ **NEEDS_REVIEW** (Yellow): Title or description is slightly vague or incomplete
+- ❌ **NEEDS_MANUAL_CHECK** (Red): 
+  - Title is missing or too vague
+  - Description is missing or too short (< 20 words)
+
+#### Consistency
+- ✅ **PASS**: Title and description are consistent
+- ⚠️ **NEEDS_REVIEW** (Yellow): Slight inconsistency but mostly acceptable
+- ❌ **NEEDS_MANUAL_CHECK** (Red): Significant mismatch between title and description
+
+#### Non-Spam Content
+- ✅ **PASS**: Content is meaningful and relevant
+- ⚠️ **NEEDS_REVIEW** (Yellow): Content is slightly unclear but acceptable
+- ❌ **NEEDS_MANUAL_CHECK** (Red): Content is spam, gibberish, or meaningless
+
+#### Category Review
+- ✅ **PASS**: Category is accurate and appropriate
+- ⚠️ **NEEDS_REVIEW** (Yellow): Category has minor issues (slightly too broad/narrow)
+- ❌ **NEEDS_MANUAL_CHECK** (Red): 
+  - Category is wrong or significantly inappropriate
+  - Category is empty or N/A
+
+#### Keyword Review
+- ✅ **PASS**: Keywords match/describe the product
+- ⚠️ **NEEDS_REVIEW** (Yellow): Some keywords are slightly irrelevant but mostly acceptable
+- ❌ **NEEDS_MANUAL_CHECK** (Red): Keywords are completely irrelevant or don't match the product
+
+### File Structure
+
+```
+scraper/
+├── product_auditor.py          # Main auditor (with URL)
+├── product_auditor_online.py   # Online auditor (without URL)
+├── online/                     # Input folder for online products
+│   └── old_url_scrap_data_output.csv
+└── report_online/              # Output folder for online audit results
+    └── *_audit_result.xlsx
+```
